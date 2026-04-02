@@ -1,0 +1,27 @@
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# NLP / text processing
+nltk>=3.8.0
+spacy>=3.7.0
+
+# Jupyter notebooks
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# HTTP requests (for corpus APIs e.g. ORACC, CDLI)
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Unicode / transliteration support
+unicodedata2>=15.0.0
+
+# Utilities
+tqdm>=4.65.0
+python-dotenv>=1.0.0
