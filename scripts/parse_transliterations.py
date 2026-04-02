@@ -39,9 +39,9 @@ from tqdm import tqdm
 # ---------------------------------------------------------------------------
 
 PROJECT_ROOT     = Path(__file__).parent.parent
-RAW_DATA_DIR     = PROJECT_ROOT / "raw_data"
-PROCESSED_DIR    = PROJECT_ROOT / "processed_data"
-DEFAULT_OUTPUT   = PROJECT_ROOT / "outputs" / "neo_assyrian_letters_tokens.csv"
+RAW_DATA_DIR     = PROJECT_ROOT / "raw_data" / "neo_assyrian"
+PROCESSED_DIR    = PROJECT_ROOT / "processed_data" / "neo_assyrian"
+DEFAULT_OUTPUT   = PROJECT_ROOT / "processed_data" / "neo_assyrian" / "neo_assyrian_letters_tokens.csv"
 
 TEI_NS  = "http://www.tei-c.org/ns/1.0"
 W       = f"{{{TEI_NS}}}w"

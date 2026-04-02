@@ -21,7 +21,7 @@ from tqdm import tqdm
 # Configuration
 # ---------------------------------------------------------------------------
 
-RAW_DATA_DIR = Path(__file__).parent.parent / "raw_data"
+RAW_DATA_DIR = Path(__file__).parent.parent / "raw_data" / "neo_assyrian"
 
 SAA_LETTER_PROJECTS = {
     "SAA01 - Correspondence of Sargon II (Part I)":           "saao/saa01",

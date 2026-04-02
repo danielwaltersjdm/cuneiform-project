@@ -31,7 +31,7 @@ import pandas as pd
 # ---------------------------------------------------------------------------
 
 PROJECT_ROOT   = Path(__file__).parent.parent
-PROCESSED_DIR  = PROJECT_ROOT / "processed_data"
+PROCESSED_DIR  = PROJECT_ROOT / "processed_data" / "neo_assyrian"
 DEFAULT_INPUT  = PROCESSED_DIR / "letters_translations.csv"
 DEFAULT_OUTPUT = PROCESSED_DIR / "numerical_estimates.csv"
 

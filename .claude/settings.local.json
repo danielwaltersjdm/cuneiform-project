@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"C:/Users/dwalters1/cuneiform-project\" && jupyter nbconvert --to notebook --execute --ExecutePreprocessor.timeout=120 --output notebooks/01_explore_corpus_test.ipynb notebooks/01_explore_corpus.ipynb 2>&1)",
+      "Bash(cd \"C:/Users/dwalters1/cuneiform-project\" && jupyter nbconvert --to notebook --execute --ExecutePreprocessor.timeout=120 --inplace notebooks/01_explore_corpus.ipynb 2>&1)",
+      "Bash(find /c/Users/dwalters1/cuneiform-project -maxdepth 2 -type f \\\\\\( -name \"README*\" -o -name \"*.md\" \\\\\\) 2>/dev/null | grep -v venv)",
+      "Bash(head -200 \"/c/Users/dwalters1/cuneiform-project/raw_data/saao_saa01/saao-saasaa01-teiCorpus-20241219.xml\" 2>/dev/null || head -200 /c/Users/dwalters1/cuneiform-project/raw_data/saao_saa01/*.xml 2>/dev/null | head -200)",
+      "Bash(grep -n \"translation\\\\|<note\\\\|<ab type\\\\|transl\\\\|english\\\\|English\" /c/Users/dwalters1/cuneiform-project/raw_data/saao_saa01/*.xml | head -50)",
+      "Bash(sed -n '1819,1855p' /c/Users/dwalters1/cuneiform-project/raw_data/saao_saa01/*.xml)",
+      "Bash(python3 -c \"import json; nb=json.load\\(open\\('/c/Users/dwalters1/cuneiform-project/notebooks/01_explore_corpus.ipynb'\\)\\); print\\(json.dumps\\([{'id':c['id'],'cell_type':c['cell_type'],'source':''.join\\(c['source']\\)[:80]} for c in nb['cells']], indent=2\\)\\)\")",
+      "Bash(python3 -c \"import json; nb=json.load\\(open\\('notebooks/01_explore_corpus.ipynb'\\)\\); print\\(json.dumps\\([{'id':c['id'],'cell_type':c['cell_type'],'source':''.join\\(c['source']\\)[:80]} for c in nb['cells']], indent=2\\)\\)\")",
+      "Bash(source venv/Scripts/activate && python scripts/parse_translations.py)",
+      "Bash(source venv/Scripts/activate 2>/dev/null; python3 -c \"\nimport pandas as pd\ndf = pd.read_csv\\('processed_data/letters_translations.csv'\\)\nprint\\(df.dtypes\\)\nprint\\(\\)\nprint\\(df.head\\(2\\).to_string\\(\\)\\)\nprint\\(\\)\nprint\\(f'token_count range: {df.token_count.min\\(\\)} - {df.token_count.max\\(\\)}, mean: {df.token_count.mean\\(\\):.1f}'\\)\nprint\\(f'texts with no translation: {df.translation.isna\\(\\).sum\\(\\)}'\\)\n\")",
+      "Bash(source venv/Scripts/activate 2>/dev/null; python -c \"\nimport pandas as pd\ndf = pd.read_csv\\('processed_data/letters_translations.csv'\\)\nprint\\(df.dtypes\\)\nprint\\(\\)\nprint\\(df.head\\(2\\).to_string\\(\\)\\)\nprint\\(\\)\nprint\\(f'token_count range: {df.token_count.min\\(\\)} - {df.token_count.max\\(\\)}, mean: {df.token_count.mean\\(\\):.1f}'\\)\nprint\\(f'texts with no translation: {df.translation.isna\\(\\).sum\\(\\)}'\\)\n\")",
+      "Bash(source venv/Scripts/activate 2>/dev/null; python -c \"\nimport json\nnb = json.load\\(open\\('notebooks/01_explore_corpus.ipynb'\\)\\)\nfor c in nb['cells']:\n    src = ''.join\\(c['source']\\)[:120].replace\\('\\\\n', ' | '\\)\n    print\\(f\\\\\"[{c['cell_type']:8}] {c['id']}  {src}\\\\\"\\)\n\")",
+      "Bash(source venv/Scripts/activate 2>/dev/null; python -c \"\nimport pandas as pd\ndf = pd.read_csv\\('processed_data/letters_translations.csv'\\)\nprint\\(df.columns.tolist\\(\\)\\)\nprint\\(\\)\nprint\\(df.iloc[0]['translation'][:300]\\)\n\")",
+      "Bash(source venv/Scripts/activate 2>/dev/null; python -c \"\nimport json\nnb = json.load\\(open\\('notebooks/01_explore_corpus.ipynb'\\)\\)\ncell = nb['cells'][1]\nprint\\(repr\\(cell['source']\\)\\)\n\")",
+      "Bash(cd C:/Users/dwalters1/cuneiform-project && venv/Scripts/python scripts/extract_numerical_estimates.py)"
+    ]
+  }
+}
