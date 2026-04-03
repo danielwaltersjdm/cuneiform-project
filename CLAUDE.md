@@ -1,5 +1,10 @@
 # Cuneiform Project — Project Knowledge
 
+## Project URLs
+
+- **GitHub:** https://github.com/danielwaltersjdm/cuneiform-project
+- **OSF:** https://osf.io/mvqes/
+
 ## Research Goal
 
 Analyze ancient cuneiform tablet data for evidence of behavioral biases: overconfidence, loss aversion, prospect theory effects, and related judgment biases. Primary focus is the Old Assyrian Kanesh merchant corpus (~1950–1850 BCE).
