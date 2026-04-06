@@ -27,11 +27,11 @@ These are the priority downloads. All have explicit price/forecast data, named r
 | 1.12 | Neo-Assyrian SAA Letters (c. 911–609 BCE) | High | **DONE** (SAA01,05,15–19,21) | https://oracc.museum.upenn.edu/saao/ |
 | 1.13 | SAA Oracle/Forecast Volumes: SAA04, SAA08, SAA09, SAA10 | Highest (forecast) | **DONE** | SAA04: 348 texts; SAA08: 566; SAA09: 8; SAA10: 387. Parsed into `processed_data/neo_assyrian/letters_translations.csv` |
 | 1.15 | Babylonian Astronomical Diaries (c. 652 BCE – 61 CE) | Highest (price series) | **DONE** | adart1–3 downloaded; 404 translated entries → `processed_data/babylonian_diaries/diary_translations.csv`. adart5/6 had no downloadable files. |
-| 2.8 | Roman Egypt Papyri / Oxyrhynchus (30 BCE – 640 CE) | Highest (scale) | **DONE** | 3,451 DDB EpiDoc XML files → `raw_data/papyri/p.oxy/`; parsed → `processed_data/papyri/p.oxy_parsed.csv`. APIS: michigan (822 docs, 98% translated), chicago (100%), columbia (797, metadata-only), + 27 more institutions → `processed_data/papyri/apis_combined.csv` (9,419 docs, 24.7% translated) |
+| 2.8 | Roman Egypt Papyri / Oxyrhynchus (30 BCE – 640 CE) | Highest (scale) | **DONE** | P.Oxy: 3,451 DDB EpiDoc XML → `raw_data/papyri/p.oxy/`. APIS: 29 institutions, 17,780 docs, 4,967 translated (28%) → `processed_data/papyri/apis_combined.csv`. Michigan dominant: 3,582 docs, 3,283 translated (92%). EDA notebook: `notebooks/02_papyri_economic_eda.ipynb`. |
 | 1.3 | Ur III Administrative Archives (c. 2112–2004 BCE) | High (institutional) | **DONE** | 110,984 catalogue entries + 77,531 ATF blocks → `raw_data/cdli_bulk/ur3_atf.txt` + `processed_data/cdli_bulk/cdli_cat_ur3.csv`. Note: mostly untranslated (transliterations only). |
 | 1.7 | Old Babylonian: Sippar, Larsa (c. 2000–1600 BCE) | High (loans, prices) | **DONE** | 66,236 catalogue entries + 13,527 ATF blocks → `raw_data/cdli_bulk/old_babylonian_atf.txt` + `processed_data/cdli_bulk/cdli_cat_old_babylonian.csv`. Mostly untranslated; ARCHIBAB translations still to source separately. |
 | 1.9 | Nuzi Archives (c. 1500–1350 BCE) | High (individual) | **QUEUE** | https://cdli.earth |
-| 2.4 | Deir el-Medina Ostraca and Papyri (c. 1550–1070 BCE) | High (labor/loss) | **QUEUE** | https://dmd.wepwawet.nl/ |
+| 2.4 | Deir el-Medina Ostraca and Papyri (c. 1550–1070 BCE) | High (labor/loss) | **IN PROGRESS** | https://dmd.wepwawet.nl/ — 4,706 records; scraper `fetch_dmd.py` running; frame-based ASP site, record IDs from totalindex2024.htm |
 | 5.1 | Pompeii Wax Tablets: Sulpicii Archive (1st century CE) | High (risk/credit) | **HARD** | Trismegistos; academic editions only |
 | 5.9 | Karanis Papyri (c. 1st–4th century CE) | High (community) | **DONE** | Included in APIS michigan (822 docs, P.Mich series); also P.Mich EpiDoc → `raw_data/papyri/p.mich/` (818 files) |
 
@@ -50,7 +50,7 @@ Strong evidence of one or more bias types; download once Tier 1 is complete.
 | 2.2 | Heqanakht Letters (c. 2002 BCE) | Med-high (loss framing) | **QUEUE** | https://libmma.contentdm.oclc.org/digital/collection/p15324coll10/id/177421/ |
 | 2.5 | Turin Strike Papyrus (c. 1157 BCE) | Med-high (loss aversion) | **QUEUE** | https://collezionepapiri.museoegizio.it/en-GB/document/131/ |
 | 2.6 | Elephantine Papyri (Aramaic, c. 495–399 BCE) | Med-high (loans) | **QUEUE** | https://elephantine.smb.museum/ |
-| 3.1 | Amarna Letters (c. 1360–1332 BCE) | Med-high (diplomacy/loss) | **QUEUE** | https://oracc.museum.upenn.edu (search: Amarna) |
+| 3.1 | Amarna Letters (c. 1360–1332 BCE) | Med-high (diplomacy/loss) | **HARD** | ORACC has aemw/amarna and contrib/amarna projects but both are empty shells (4-byte placeholder files). No bulk download available. Academic editions only (Moran 1992). |
 | 3.5 | Babatha Archive (c. 93–135 CE) | Med-high (legal/loss) | **HARD** | NLI Israel; academic editions |
 | 3.13 | Palmyrene Texts / Palmyra Tariff (1st–3rd CE) | Med-high (price schedule) | **PARTIAL** | https://search.library.wisc.edu/digital/AWPAIPColl |
 | 4.2 | Classical Greek Inscriptions (maritime loans) | Medium (credit risk) | **QUEUE** | https://inscriptions.packhum.org/ |
