@@ -48,6 +48,10 @@ TRANSCRIPTION_COLLECTIONS = [
     "t.vindol",
     "t.vindon",
     "p.ness",
+    "p.babatha",
+    "p.dura",
+    "p.cair.zen",
+    "p.iand.zen",
 ]
 
 APIS_INSTITUTIONS = [
