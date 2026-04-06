@@ -3,7 +3,9 @@
 **Prepared:** April 2026
 **Project:** Behavioral Biases in Ancient Economic Decision-Making
 **Time Window:** c. 3000 BCE – 640 CE
-**Geographic Scope:** Mesopotamia, Egypt, Levant, Anatolia, Persia, Hellenistic and Roman Mediterranean; Chinese oracle bones assessed on merit
+**Geographic Scope:** Mesopotamia, Egypt, Levant, Anatolia, Persia, Hellenistic and Roman Mediterranean; Central Asia and Chinese oracle bones assessed on merit
+
+> **Second Pass — Additional Corpora (April 2026):** This document has been expanded from an initial survey of 36 corpora to a more exhaustive catalogue of 65 corpora. The additions cover Hittite archives, Phoenician/Punic inscriptions, further Aramaic corpora (Saqqara, Wadi Daliyeh, Bactrian), Byzantine village archives (Nessana, Petra, Ravenna), undeciphered scripts with identifiable economic content (Linear A, Cypro-Minoan, Proto-Elamite), Urartian administrative inscriptions, the Sogdian Ancient Letters, the Palmyra Tariff, the Dura-Europos documents, expanded treatment of Greek and Egyptian ostraca, additional Hebrew inscriptions, and several other corpora identified as gaps in the first pass. New sections 1.18–1.20, 3.7–3.14, 4.4–4.6, 5.4–5.5, 6.5–6.14 have been added; existing entries are unchanged.
 
 ---
 
@@ -11,7 +13,7 @@
 
 This document surveys every major ancient documentary corpus that may contain evidence bearing on behavioral economics research — specifically on overconfidence, loss aversion, prospect theory, reference dependence, status quo bias, and related judgment biases. The goal is comprehensive cataloguing for citation in subsequent publications: no corpus is excluded at this stage, though each is rated for behavioral-signal strength. Researchers should treat relevance ratings as provisional; the underlying signal quality depends heavily on how texts are sampled and which agents can be tracked across multiple documents.
 
-The corpora span roughly five thousand years and four writing systems (cuneiform, hieroglyphic/hieratic, alphabetic, and Greek/Latin). Behavioral signals are strongest where three conditions co-occur: (1) named, recurring economic agents whose decisions can be traced across time; (2) transaction data recording prices, quantities, exchange rates, or interest; and (3) documents that record either expectations/forecasts or post-hoc complaints and disputes. The Old Assyrian merchant archive at Kanesh, the Babylonian Astronomical Diaries, and the Roman Egypt papyri from Oxyrhynchus score highest on all three dimensions. Many other corpora, however, offer partial evidence — especially recurring-agent data and loan/debt documents — that may prove valuable when combined with price series from other sources.
+The corpora span roughly five thousand years and multiple writing systems (cuneiform, hieroglyphic/hieratic, alphabetic, Linear syllabic, and Greek/Latin). Behavioral signals are strongest where three conditions co-occur: (1) named, recurring economic agents whose decisions can be traced across time; (2) transaction data recording prices, quantities, exchange rates, or interest; and (3) documents that record either expectations/forecasts or post-hoc complaints and disputes. The Old Assyrian merchant archive at Kanesh, the Babylonian Astronomical Diaries, and the Roman Egypt papyri from Oxyrhynchus score highest on all three dimensions. Many other corpora, however, offer partial evidence — especially recurring-agent data and loan/debt documents — that may prove valuable when combined with price series from other sources.
 
 ---
 
@@ -440,6 +442,76 @@ The corpora span roughly five thousand years and four writing systems (cuneiform
 
 ---
 
+### 1.18 Hittite Archives — Hattusa/Boğazköy (c. 1650–1180 BCE)
+
+**Abbreviations:** KBo (Keilschrifttexte aus Boghazköi); KUB (Keilschrifturkunden aus Boghazköi); CTH (Catalogue des Textes Hittites); ChD (Chicago Hittite Dictionary)
+**Date range:** c. 1650–1180 BCE (Old through New Hittite Kingdom; archive destroyed c. 1180 BCE)
+**Language and script:** Hittite (an Indo-European language); also Akkadian, Hurrian, Luwian, Palaic, and Hattic; all in cuneiform
+**Provenance:** Hattusa (modern Boğazköy / Boğazkale), central Anatolia (Turkey); excavated by German missions since 1906; excavations ongoing
+**Approximate size:** ~30,000 tablets and fragments from the Boğazköy archives; UNESCO registered; ~10,000 text compositions catalogued in CTH (since 1971); substantial portions remain unpublished
+**Document types:** Royal annals, international treaties (some of the earliest known), diplomatic correspondence, legal codes, palace administrative inventories, cult ritual instructions, omen texts, military logistics records, land grants
+**Translation status:** Partially translated — major legal and treaty texts are well studied; administrative and inventory texts partially published in KBo/KUB series and through the ISAC (Chicago) Hittite Dictionary project; the Thesaurus Linguarum Hethaeorum Digitalis (TLHdig, launched 2023 on Hethitologie-Portal Mainz) now provides online lemmatized access to published texts
+**Digital availability:** Partially available — Hethitologie-Portal Mainz (https://www.hethport.uni-wuerzburg.de/HPM/) hosts the TLHdig platform and corpus resources; CDLI has records; the electronic Chicago Hittite Dictionary (e-CHD) is searchable at the ISAC website (https://isac.uchicago.edu/research/projects/hit/chicago-hittite-dictionary-project)
+**Primary digital home:** https://www.hethport.uni-wuerzburg.de/HPM/ (Hethitologie-Portal Mainz); https://isac.uchicago.edu/research/projects/hit (e-CHD)
+
+**Behavioral economics signals:**
+- International treaties with conditional clauses specifying obligations and consequences ("if you do X, then Y will follow") — some of the most explicit ancient conditional-commitment documents
+- Diplomatic correspondence records gift-exchange equivalencies and complaint letters about insufficient reciprocity (structurally similar to Amarna letters)
+- Palace inventory and administrative texts: commodity allocations and ration equivalencies
+- Land grant documents with explicit reference points (prior holdings)
+- Military logistics texts: supply requisitions with expected vs. actual deliveries
+- Omen texts: structured forecast queries (similar in function to Neo-Assyrian oracle queries)
+- Named officials in administrative rosters
+
+**Assessment:** The Hittite archive is the largest Bronze Age administrative corpus from Anatolia. The treaty corpus is uniquely valuable for studying conditional commitment under uncertainty at the inter-state level. Administrative and inventory texts provide commodity allocation data. The omen texts parallel the Neo-Assyrian oracle query genre. The relatively low publication rate and the primarily Hittite-language barrier (less widely studied than Akkadian) somewhat limit access, but TLHdig (2023) substantially improves digital availability. **Medium behavioral signal** overall; the treaty and omen texts score higher; the administrative inventories are useful for reference-price benchmarking.
+
+---
+
+### 1.19 Proto-Elamite Tablets (c. 3100–2900 BCE)
+
+**Abbreviations:** PE; Proto-Elamite
+**Date range:** c. 3100–2900 BCE
+**Language and script:** Proto-Elamite script; undeciphered logographic system; inscribed on clay tablets
+**Provenance:** Susa (Iran; >1,500 tablets), Malyan (~30), Tepe Yahya (27), Sialk (22), and scattered other Iranian sites; also Shahr-i Sokhta and Jiroft; many held at the Louvre
+**Approximate size:** ~1,600 tablets known (some estimates slightly higher); substantially smaller than Proto-cuneiform, though possibly representing the same administrative impulse in a parallel tradition
+**Document types:** Administrative accounts (commodity counts, ration records, livestock tallies) — all content inferred from numerical and sign structure; no prose recoverable
+**Translation status:** Not translated — the script remains undeciphered; numerical portions are understood; sign values are largely unknown; structural analysis has identified administrative functions (accounting, redistribution) by analogy with Proto-cuneiform
+**Digital availability:** Freely available — CDLI (https://cdli.earth) hosts the full published corpus with high-resolution images; Oxford/Southampton RTI imaging project (2012) produced RTI images of 1,000+ tablets in the Louvre collection, accessible via CDLI
+**Primary digital home:** https://cdli.earth (search: Proto-Elamite)
+
+**Behavioral economics signals:**
+- Numerical records of commodity quantities (inferred): enable ratio and allocation analysis
+- Administrative redistribution patterns identifiable from structural analysis
+- No named individuals recoverable; no letter or complaint genre possible given undeciphered status
+- Parallel temporal coverage to the Late Uruk administrative tablets — comparative analysis possible
+
+**Assessment:** Proto-Elamite is the earliest large-scale administrative writing system outside Mesopotamia, roughly contemporary with late Proto-cuneiform. The undeciphered state precludes any recovery of language, named agents, or explicit economic reasoning. The corpus is documented here for completeness; it establishes that administrative accounting practices emerged independently (or diffused very early) across a wide geographic range. **No direct behavioral signal** in the individual-bias sense; valuable as a structural baseline for early administrative quantification.
+
+---
+
+### 1.20 Urartian Inscriptions (c. 860–590 BCE)
+
+**Abbreviations:** CTU (Corpus dei testi urartei, Salvini); eCUT (Electronic Corpus of Urartian Texts)
+**Date range:** c. 860–590 BCE (Kingdom of Urartu; destroyed c. 590 BCE by Scythians and Medes)
+**Language and script:** Urartian (Hurro-Urartian language family, unrelated to Semitic or Indo-European); cuneiform borrowed from Assyrian
+**Provenance:** Lake Van region, eastern Anatolia (modern Turkey), northwestern Iran, and Armenia; inscriptions on stone, bronze, and clay; tablets from Karmir Blur (Teishebaini fortress) particularly important
+**Approximate size:** ~500 inscriptions and texts catalogued in CTU I–V (Salvini, 2008–2018); the administrative clay tablet archive from Karmir Blur numbers several dozen tablets
+**Document types:** Royal annals and building inscriptions (stone and rock faces); administrative clay tablets (ration distributions, livestock tallies); dedications on bronze objects; a handful of letters
+**Translation status:** Substantially translated for the major inscriptions — CTU I–V provides the standard edition; eCUT (Electronic Corpus of Urartian Texts, LMU Munich) provides annotated transliterations, English translations, and a glossary for the full published corpus
+**Digital availability:** Freely available via eCUT (https://www.en.ag.geschichte.uni-muenchen.de/research/ecut/index.html), which is linked from CDLI as an external resource; the CTU corpora are the basis for eCUT editions
+**Primary digital home:** https://www.en.ag.geschichte.uni-muenchen.de/research/ecut/index.html (eCUT)
+
+**Behavioral economics signals:**
+- Administrative tablets from Karmir Blur: ration and livestock distribution records with quantities — institutional reference-point data
+- Royal annals: booty and tribute quantification (commodities seized or received) — implicit price-equivalency references
+- Named officials in administrative records
+- Annals record campaign outcomes in explicit terms (gain framing: "I took X sheep, Y cattle, Z captives")
+- No private correspondence; no merchant letters; no loan documents
+
+**Assessment:** Urartu is an important Iron Age kingdom whose administrative records complement the better-known Assyrian and Babylonian corpora. The eCUT project makes the full published corpus freely available in translation. The administrative tablets provide ration-level commodity data; the annals offer structured outcome reports. **Low-to-medium behavioral signal** — primarily useful for institutional allocation benchmarks and comparative Iron Age data alongside Neo-Assyrian sources.
+
+---
+
 ## 2. Egyptian Corpora
 
 ### 2.1 Abusir Papyri (c. 2400 BCE)
@@ -760,6 +832,189 @@ The corpora span roughly five thousand years and four writing systems (cuneiform
 
 ---
 
+### 3.7 Arad Ostraca (c. 600 BCE)
+
+**Abbreviations:** Arad Ost.; EA (Eliashib Archive)
+**Date range:** c. 605–595 BCE (late Iron Age IIc; Judean monarchy, shortly before Babylonian conquest)
+**Language and script:** Paleo-Hebrew (cursive); some Aramaic
+**Provenance:** Tel Arad, Negev highlands, southern Israel; excavated by Yohanan Aharoni 1962–1967
+**Approximate size:** ~200 ostraca total; 107 in Paleo-Hebrew assigned to the Iron Age; ~18 major administrative letters in the Eliashib Archive are well legible
+**Document types:** Military supply correspondence addressed to Eliashib (fort quartermaster) — orders for wine, oil, flour, and bread; administrative letters from superior officers; troop movement reports; a small number of census-type records
+**Translation status:** Fully translated — Aharoni (1981) standard edition; multiple subsequent English editions; texts are brief and well understood
+**Digital availability:** Minimally available as open-access digital editions — Israel Museum holds the main collection; the Smithsonian / Biblical Archaeology Society has published transcriptions; digital images produced through multispectral imaging by Tel Aviv University researchers (results published in PNAS 2016 on literacy); no single open-access text portal
+**Primary digital home:** No dedicated open-access portal; Israel Museum (https://www.imj.org.il) and academic publications
+
+**Behavioral economics signals:**
+- **Supply requisition records**: letters explicitly order specific quantities of commodities — reference-quantity benchmarking
+- Named recurring agents: Eliashib appears across at least 18 letters as the sole recipient — a single quartermaster's complete administrative correspondence
+- Conditional instructions: "give X rations to the Kittim" — standard conditional-distribution format
+- Some letters show hierarchical authorization chains (loss of supply framing if not delivered)
+- Military logistics under threat conditions: the archive ends just before the Babylonian conquest — potential crisis-period behavioral data
+
+**Assessment:** A small but tightly defined archive. The Eliashib Archive is particularly valuable because all letters address one named individual — enabling a focused repeated-agent analysis of a military quartermaster's operations. The commodity records (wine, oil, flour allocations) provide reference-quantity data for a Judean military fort. **Low-to-medium behavioral signal** due to tiny size and administrative-only content; valuable for complementing the Lachish and Samaria ostraca corpora.
+
+---
+
+### 3.8 Phoenician and Punic Inscriptions (c. 1050 BCE – 4th century CE)
+
+**Abbreviations:** KAI (Kanaanäische und Aramäische Inschriften; Donner & Röllig); CIS (Corpus Inscriptionum Semiticarum); CIP (Corpus Inscriptionum Phoenicarum necnon Poenicarum)
+**Date range:** c. 1050 BCE – 4th century CE (broadly; Punic in North Africa continues later)
+**Language and script:** Phoenician and Punic (West Semitic alphabetic scripts, ancestral to Hebrew and Aramaic alphabets)
+**Provenance:** Lebanon (Byblos, Sidon, Tyre), Cyprus, Sardinia, Sicily, Malta, North Africa (Carthage, Tripolitania), Spain, and throughout the western Mediterranean
+**Approximate size:** >10,000 inscriptions known; CIP project has collected ~7,800 with ongoing additions; KAI published ~202 key texts; the ASOR Punic Project focuses on ~6,000 Carthaginian stelae
+**Document types:** Votive and funerary inscriptions (majority); temple dedications; commercial contracts; tariff texts; royal building inscriptions; shipowner dedications; a small number of economic administrative texts; the Marseille Tariff (CIS I 165; KAI 69) and Carthage Tariff (KAI 74) document temple service fees
+**Translation status:** Partially translated — KAI provides standard German transliterations and commentary for 202 key texts; English translations in Krahmalkov's Phoenician-Punic Grammar and Josephson/Lehmann; CIP project is digitizing and providing new editions; majority of 10,000 inscriptions are brief votive texts with little economic content
+**Digital availability:** Partially available — CIP (Corpus Inscriptionum Phoenicarum, http://cip.cchs.csic.es/) is the main digital project; ASOR Punic Project (http://www.phoinikeia.org/) provides digital files and 3D models of Carthaginian stelae; PHI Greek Inscriptions includes some bilingual Phoenician-Greek texts
+**Primary digital home:** http://cip.cchs.csic.es/ (CIP); http://www.phoinikeia.org/ (ASOR Punic)
+
+**Behavioral economics signals:**
+- **Marseille Tariff** and **Carthage Tariff**: explicit price lists for sacrificial offerings and temple fees — among the oldest surviving formal price lists in the western Mediterranean (5th–4th century BCE)
+- Commercial port inscriptions: shipowner dedications with implicit reference to maritime trade values
+- Votive dedication quantification: weights of precious metals offered — asset valuation records
+- Cross-Mediterranean commercial network documentation: Phoenician traders appear at sites from Lebanon to Spain, creating a potential for comparative price analysis
+- Funerary inscriptions with asset quantification (rare but present)
+
+**Assessment:** The Phoenician-Punic civilization was the dominant commercial maritime culture of the first millennium BCE Mediterranean, yet its documentary legacy is heavily skewed toward stone inscriptions rather than papyrus or tablet archives. The tariff texts are the most behaviorally relevant material — explicit price schedules that establish reference prices for religious services. The absence of merchant correspondence (no Phoenician equivalent to Old Assyrian letters has survived) is a significant limitation. **Low-to-medium behavioral signal** from the epigraphic corpus as a whole; the tariff texts are specifically medium-high for price-reference analysis.
+
+---
+
+### 3.9 Saqqara Aramaic Papyri (c. 475–400 BCE)
+
+**Abbreviations:** TAD B8 (Textbook of Aramaic Documents); Saqqara Aram.
+**Date range:** c. 475–400 BCE (Persian period in Egypt)
+**Language and script:** Imperial Aramaic; papyrus
+**Provenance:** North Saqqara (Memphis region), Egypt; excavated by British Museum mission and found by dealers; texts published by J.B. Segal (1983) and partially in TAD
+**Approximate size:** ~202 papyrus fragments and 26 ostraca in the Saqqara Aramaic corpus per Segal's catalogue; most are highly fragmentary; ~12 court protocol fragments (TAD B8.1–12) and a handful of letters are legible
+**Document types:** Fragmentary court protocols, letters, and administrative documents from a Persian-period legal archive associated with the satrapal administration at Memphis; linguistic evidence suggests a mixed Egyptian-Persian-Semitic administrative environment
+**Translation status:** Partially translated — major legible texts published by Segal (1983) with English commentary; TAD includes the court protocols (B8 series) and select letters; substantial portions are too fragmentary to translate
+**Digital availability:** Minimally available — TAD volumes are the standard reference but not freely online; no dedicated digital portal; CDLI and ERC Elephantine project cover overlapping material but not specifically Saqqara
+**Primary digital home:** Academic editions (Segal 1983; Porten/Yardeni TAD); no open-access digital portal
+
+**Behavioral economics signals:**
+- Court protocols: legal dispute framing with explicit claim and counterclaim language
+- Administrative correspondence: supply and requisition letters
+- Cross-cultural context: Persian, Egyptian, and Semitic agents interacting in a satrapal legal setting
+- Named individuals in court records
+
+**Assessment:** A fragmentary and poorly preserved corpus that complements the Elephantine archive (section 2.6) as evidence for Imperial Aramaic administrative practice in Persian Egypt. The court protocols have some dispute-framing relevance, but the fragmentary state severely limits behavioral analysis. **Low behavioral signal** in current published state; primarily useful as a complement to the better-preserved Elephantine documents.
+
+---
+
+### 3.10 Wadi Daliyeh Papyri (c. 375–335 BCE)
+
+**Abbreviations:** WDSP (Wadi Daliyeh Samaria Papyri); DJD XXVIII (Discoveries in the Judaean Desert, vol. 28)
+**Date range:** c. 375–335 BCE (latest document: 19 March 335 BCE — just before Alexander's conquest)
+**Language and script:** Imperial Aramaic; papyrus and clay bullae
+**Provenance:** Wadi Daliyeh (cave of Abu Shinjeh), 14 km north of Jericho; discovered by Bedouin c. 1962; excavated by Paul Lapp 1963–1964; held at Rockefeller Museum, Jerusalem (papyri) and Israel Antiquities Authority (bullae)
+**Approximate size:** ~18 partially legible Aramaic legal papyri; ~128 clay bullae with seal impressions; documents belong to a Samarian family archive
+**Document types:** Property sale contracts (notably slave sales), land conveyances, legal oaths; the community appears to have fled Samaria during Alexander's destruction of the city (332 BCE), carrying their family archive into the cave where they died
+**Translation status:** Substantially translated — published in DJD XXVIII (Gropp 2001) with English text and commentary; Dušek (2007, Brill) provides additional analysis; all legible texts are translated
+**Digital availability:** Minimally available digitally — DJD XXVIII is the standard edition (academic library access only); no open-access digital portal; Comprehensive Aramaic Lexicon (CAL, https://cal.huc.edu) has bibliographic records for the Samaria papyri texts
+**Primary digital home:** DJD XXVIII (academic); CAL bibliography at https://cal.huc.edu
+
+**Behavioral economics signals:**
+- **Property sale contracts**: slave and land sales with explicit prices — reference-price data for a Samarian community
+- Named buyers and sellers: individuals traceable within the archive
+- Legal conveyance language with conditional clauses
+- The archive ends abruptly with the destruction of Samaria (332 BCE) — a crisis-period snapshot of property transactions just before political catastrophe
+- Cross-legal context: Persian-period Aramaic law applied to a Samaritan community
+
+**Assessment:** A small but well-defined family archive covering four decades of property transactions in the last years of Persian rule in Samaria. The slave and land sale prices provide reference-point data for a specific community. The dramatic end of the archive (community flight from Alexander's attack) creates a unique crisis-period snapshot. **Low-to-medium behavioral signal** due to small size; the property price data and the crisis context are the most behavioral-economically interesting features.
+
+---
+
+### 3.11 Nabataean Papyri (c. 1st century BCE – 2nd century CE)
+
+**Abbreviations:** WDSP (Babatha documents); IOSPE; PAT (Palmyrene Aramaic Texts, by analogy)
+**Date range:** c. 50 BCE – 130 CE
+**Language and script:** Nabataean Aramaic script; papyrus and leather
+**Provenance:** Primarily the Cave of Letters (Nahal Hever), Judean Desert (as part of the Babatha archive, section 3.5); also a small number from Petra region and Wadi Murabba'at
+**Approximate size:** ~23 Nabataean papyri known from all sources (per Yardeni's 2004 survey, which counted ~15 published items); several are Nabataean signatures on Greek documents; the Babatha archive contains 6 Nabataean documents among its 35 total
+**Document types:** Legal contracts (property conveyances, marriage-related documents); the Babatha Nabataean documents include a registration of property and a loan document; a handful of additional contracts from other provenances
+**Translation status:** Substantially translated — Yardeni's editions provide standard translations; Nabataean texts in the Babatha archive translated in JDS volumes; DiCoNab database (https://diconab.huma-num.fr/) provides updated bibliography and some editions
+**Digital availability:** Partially available — DiCoNab (Digital Corpus of Nabataean and Developing Arabic, https://diconab.huma-num.fr/) is the primary digital resource for Nabataean epigraphy, containing >900 bibliographic references and a relational database of inscriptions; however, the papyri themselves are published primarily in print editions
+**Primary digital home:** https://diconab.huma-num.fr/ (DiCoNab)
+
+**Behavioral economics signals:**
+- Property registration and conveyance with explicit asset valuations
+- Loan documents with terms (Babatha's Nabataean loan)
+- The Nabataean script represents the commercial culture of Petra — a major caravan trading hub — but surviving papyri are too few to constitute a commercial archive
+- Named individuals in legal contexts
+
+**Assessment:** The Nabataean papyrus corpus is tiny — ~23 items, of which roughly half are significant enough for detailed study. The Nabataeans were a major pre-Islamic trading civilization, but their merchant correspondence (if it existed in written form) has not survived in papyrus. The documents that survive are almost exclusively legal in character. Most behavioral-economics-relevant content from this community is covered under the Babatha archive (section 3.5). **Low behavioral signal** as a standalone corpus; primarily documented here for completeness and to note the DiCoNab digital resource.
+
+---
+
+### 3.12 Murabba'at and Other Judean Desert Aramaic Documents (1st–2nd century CE)
+
+**Abbreviations:** Mur.; DJD II (Discoveries in the Judaean Desert, vol. 2); P.Mur.
+**Date range:** Primarily 1st–2nd century CE (with some pre-CE material)
+**Language and script:** Aramaic, Hebrew, Greek, Nabataean; papyrus and leather
+**Provenance:** Wadi Murabba'at, Judean Desert; discovered 1951–1952 by Bedouin; excavated by Roland de Vaux (École Biblique); also related finds from Nahal Se'elim, Nahal Mishmar, and other caves
+**Approximate size:** DJD II covers ~177 documents from Murabba'at; Bar Kokhba-period documents (partially overlapping with section 3.6) add further material; multiple Aramaic legal contracts among these
+**Document types:** Marriage contracts (ketubot), bills of divorce (gets), property deeds, sale contracts, acknowledgments of debt, letters (including several from Bar Kokhba, overlap with section 3.6)
+**Translation status:** Substantially translated — DJD II (Benoit, Milik, de Vaux, 1961) provides standard edition; subsequent specialized studies; Hebrew and Aramaic legal documents well studied
+**Digital availability:** Minimally available — DJD II is the standard edition (academic access); no open-access digital portal; Comprehensive Aramaic Lexicon (CAL) has bibliographic entries; some documents appear in the Israel Antiquities Authority (IAA) database
+**Primary digital home:** Academic editions (DJD II); CAL bibliography (https://cal.huc.edu)
+
+**Behavioral economics signals:**
+- Marriage contracts: explicit monetary terms (dowry, bride-price, alimony on divorce) — reference-amount data for a Judean community
+- Bills of divorce with property settlement terms
+- Sale contracts and debt acknowledgments: price and interest data
+- Named individuals in a defined community (Judean desert settlements, 1st–2nd century CE)
+- The crisis context (Bar Kokhba revolt) creates extreme decision-making conditions in the latest documents
+
+**Assessment:** The Murabba'at documents provide legal and financial records for a Judean community bridging the first and second centuries CE. The marriage contracts and sale documents contain reference-price data. Taken together with the Babatha archive (3.5) and Bar Kokhba letters (3.6), these texts constitute a cluster of Judean Desert documentary evidence for economic behavior in Roman-period Judea. **Low-to-medium behavioral signal**; most useful in combination with other Judean Desert corpora.
+
+---
+
+### 3.13 Palmyrene Texts and the Palmyra Tariff (c. 1st–3rd century CE)
+
+**Abbreviations:** PAT (Palmyrene Aramaic Texts, Hillers & Cussini 1996); CIS II 3913 (Palmyra Tariff); WPAIP (Wisconsin Palmyrene Aramaic Inscription Project)
+**Date range:** Palmyrene epigraphy broadly c. 1st century BCE – 272 CE (city destroyed); the Tariff specifically dated to 137 CE
+**Language and script:** Palmyrene Aramaic (a distinct dialect); bilingual Greek/Aramaic in the Tariff and many major inscriptions
+**Provenance:** Palmyra (Tadmor, modern Syria); major corpus of inscriptions from the city's temples, tombs, and public spaces; the Tariff stele is now at the State Hermitage Museum, St. Petersburg
+**Approximate size:** PAT (1996) collected the corpus known before 1996 — several thousand short inscriptions; the Wisconsin Palmyrene Aramaic Inscription Project (WPAIP) is re-collating the full corpus with new photographic documentation; the Tariff itself is a single four-column stele (~400 lines of bilingual text)
+**Document types:** Funerary and votive inscriptions (majority); honorary and public inscriptions; the Tariff is a comprehensive municipal tax regulation governing goods traded through Palmyra; tessera (token) inscriptions for banquets and trade
+**Translation status:** Substantially translated — major inscriptions translated in PAT; the Tariff translated in multiple editions (Matthews 1984 critical edition; Yon 2002 French; Speidel and colleagues); all key Palmyrene economic texts translated
+**Digital availability:** Partially available — WPAIP (University of Wisconsin-Madison Libraries, https://search.library.wisc.edu/digital/AWPAIPColl) provides photographic records and digital editions; the Tariff is available in full in academic publications and partially online via the Hermitage Museum; PHI database has some Palmyrene texts
+**Primary digital home:** https://search.library.wisc.edu/digital/AWPAIPColl (WPAIP); Hermitage Museum online collection for the Tariff
+
+**Behavioral economics signals:**
+- **Palmyra Tariff (CIS II 3913)**: one of the most detailed ancient price lists — 137 CE municipal tariff specifying taxes on goods entering and leaving Palmyra (purple-dyed textiles, myrrh, oil, dried figs, bronzes, pine nuts, slaves, prostitutes, and many others); explicit tax rates per unit and per quality grade
+- The Tariff's bilingual format (Greek and Aramaic) enabled enforcement across a multilingual trading population
+- Tesserae (banquet tokens): implied fixed-price exchange instruments circulating in the caravan trade
+- Funerary banquet inscriptions: community social conventions around food and hospitality expenditure
+- The Tariff is the longest known Canaanite-family inscription; it documents price schedules for a major Silk Road entrepôt
+- Honorary inscriptions for caravan leaders: name wealthy traders and their social capital (reputation-based credit system)
+
+**Assessment:** The Palmyra Tariff is one of the most behaviorally significant ancient documents for price-reference analysis. It provides a comprehensive, official, and dated schedule of trade taxes for a major caravan city at a precise moment (137 CE) — establishing exact reference prices for a wide range of goods. The honorary inscriptions for caravan leaders document reputation and social capital in ways relevant to behavioral economics of credit and trust. **Medium-high behavioral signal** specifically for the Tariff; **medium** for the broader epigraphic corpus. This corpus is under-exploited in ancient economic behavioral research.
+
+---
+
+### 3.14 Aramaic Papyri from Bactria — Khalili Collection (c. 353–324 BCE)
+
+**Abbreviations:** KAD (Khalili Aramaic Documents); Naveh/Shaked 2012
+**Date range:** c. 353–324 BCE (late Achaemenid through early Alexander period)
+**Language and script:** Official Imperial Aramaic; ink on leather (30 items) and wooden tally sticks (18 items)
+**Provenance:** Provenience unknown; attributed by editors to Balkh (ancient Bactra), capital of the Achaemenid satrapy of Bactria (modern Afghanistan); acquired through the antiquities market; Khalili Collections, London
+**Approximate size:** 48 documents total: 30 on leather, 18 wooden tally sticks — the first ancient tally sticks (as a system of bookkeeping) found anywhere in the ancient Near East
+**Document types:** Administrative letters and accounts connected with the court of Bagavant (governor of Bactria under satrap Akhvamazda); supply and commodity distribution records; tally sticks recording numerical transactions
+**Translation status:** Fully translated — Naveh and Shaked (2012), Aramaic Documents from Ancient Bactria, Khalili Family Trust; complete edition with transliteration, translation, and commentary
+**Digital availability:** Minimally available — the 2012 Naveh/Shaked publication is the standard edition (not freely online); the Khalili Collections website (https://www.khalilicollections.org/all-collections/aramaic-documents/) provides summary information; no open-access digital text portal
+**Primary digital home:** https://www.khalilicollections.org/all-collections/aramaic-documents/ (summary); academic edition (Naveh/Shaked 2012)
+
+**Behavioral economics signals:**
+- Administrative letters: supply requisitions and reporting within a satrapal court at the eastern edge of the Achaemenid Empire
+- Tally sticks: numerical bookkeeping system for tracking transactions — the physical accounting instruments themselves survive
+- Named officials (Bagavant and Akhvamazda) across multiple documents: repeated-agent data at the satrapal level
+- Commodity distribution and allocation records
+- The documents span the end of the Achaemenid period — administrative behavior in the transition to Alexander's conquest
+
+**Assessment:** The Khalili Bactrian documents are the only substantial Aramaic administrative archive from the eastern extremity of the Achaemenid Empire. The tally sticks are a unique find with no parallel in the Near Eastern record — they document a physical bookkeeping system previously unknown. The administrative letters provide supply-chain and allocation data from a remote satrapal capital. **Low-to-medium behavioral signal** for standard behavioral analysis (small size, administrative only); **high historical significance** for establishing that Achaemenid administrative practices reached Bactria in the same documentary form as in Egypt and Anatolia.
+
+---
+
 ## 4. Greek Corpora
 
 ### 4.1 Linear B Tablets — Knossos, Pylos, Mycenae (c. 1450–1200 BCE)
@@ -822,6 +1077,73 @@ The corpora span roughly five thousand years and four writing systems (cuneiform
 **Primary digital home:** https://papyri.info
 
 **Assessment:** See Sections 2.7 and 2.8. The Ptolemaic papyri as a class represent the most abundant documentary source for Hellenistic economic behavior. Medium-to-high behavioral relevance depending on archive.
+
+---
+
+### 4.4 Greek and Demotic Ostraca from Roman Egypt (c. 300 BCE – 400 CE)
+
+**Abbreviations:** O.Petr. (Petrie Museum ostraca); BGU (Berliner Griechische Urkunden, for ostraca volumes); O.Mich. (Michigan ostraca); O.Wilck. (Wilcken ostraca)
+**Date range:** c. 300 BCE – 400 CE (Ptolemaic through Roman period)
+**Language and script:** Greek (primary), Demotic, bilingual Greek-Demotic; inscribed on pottery sherds (ostraca)
+**Provenance:** Throughout Egypt — Thebes (Luxor), Elephantine, Fayum, Oxyrhynchus, and other sites; major collections at the British Museum (Petrie), Berlin Staatliche Museen, Michigan, Columbia, and Oriental Institute (Chicago)
+**Approximate size:** Tens of thousands of ostraca in total across all collections; Berlin holds one of the largest single collections (~15,000 items); Columbia has ~3,600 ostraca; the Papyrus Portal (Germany) provides access to several thousand digitized ostraca from Berlin, Leipzig, Heidelberg, and Cologne collections
+**Document types:** Tax receipts (the overwhelming majority — ostraka were the standard medium for tax payment receipts in Ptolemaic and Roman Egypt); short private and administrative notes; labels; short letters; grain and commodity receipts
+**Translation status:** Partially translated — the standard reference is Wilcken's Griechische Ostraka (1899); modern critical editions for selected collections (O.Petr., O.Mich. series); tax receipt formulas are well understood; most ostraca are short and formulaic
+**Digital availability:** Partially available — papyri.info integrates many ostraca alongside papyri; Papyrus Portal (https://papyrusportal.de) provides open access to German collections including Berlin; APIS (Advanced Papyrological Information System) at papyri.info covers multiple collections; Oriental Institute ISAC Demotic Ostraca project (https://isac.uchicago.edu/research/projects/isac-museum-demotic-ostraca-online) provides free digital access to Chicago's Demotic ostraca
+**Primary digital home:** https://papyri.info (ostraca integrated with papyri); https://papyrusportal.de (German collections); https://isac.uchicago.edu (Demotic ostraca)
+
+**Behavioral economics signals:**
+- **Tax receipts**: ostraca document annual tax payments by named individuals — enabling multi-year tracking of individual taxpayers and their payment behavior
+- **Commodity receipts**: grain and other commodity receipts establish reference amounts for standard transactions
+- **Named recurring agents**: individual taxpayers appear across multiple tax season receipts — repeated-agent data at the village level
+- **Short private notes**: some ostraca document debts, loans, and complaints in abbreviated form
+- The formulaic nature of tax receipts enables large-scale quantitative analysis of compliance patterns across decades
+
+**Assessment:** Greek ostraca are distinct from papyri and deserve separate documentation. The tax receipt corpus is particularly valuable because it creates a systematic, recurring-agent dataset: the same individuals appear as taxpayers year after year, enabling analysis of payment patterns over time. While each individual receipt contains minimal information, the aggregate corpus across multiple tax seasons constitutes one of the largest repeated-transaction datasets in antiquity. **Medium behavioral signal** per document; **medium-high potential** for large-scale quantitative analysis of tax compliance and reference-point behavior.
+
+---
+
+### 4.5 Linear A Tablets (c. 1800–1450 BCE)
+
+**Abbreviations:** GORILA (Recueil des inscriptions en Linéaire A, Godart & Olivier); CHIC (Corpus Hieroglyphicarum Inscriptionum Cretae); SigLA (Signs of Linear A)
+**Date range:** c. 1800–1450 BCE (Middle Minoan IB through Late Minoan IA; Minoan palatial period)
+**Language and script:** Linear A; syllabic script of unknown underlying language (Minoan — almost certainly not Indo-European); inscribed on clay tablets, stone vessels, and other media
+**Provenance:** Primarily Crete (Hagia Triada most important archive: ~150 tablets; also Zakros, Phaistos, Knossos, Chania, Akrotiri on Thera, and sites in the Aegean); small quantities at non-Cretan sites suggest Minoan commercial reach
+**Approximate size:** ~1,427 inscribed specimens; approximately 7,400 total signs; ~300 clay tablets (the administrative core); the remaining inscriptions are shorter votive, libation-table, and object labels
+**Document types:** Administrative tablets (commodity accounts, ration records, personnel lists — identifiable by context and numerical notation); votive inscriptions on libation tables and stone vessels; short labels; the administrative tablets constitute roughly 60% of the corpus
+**Translation status:** Not translated — the script is undeciphered; the underlying language is unknown; numerical portions and some logograms (for commodities) are understood by analogy with Linear B; the economic content of tablets is inferred from structural parallels with Linear B administrative texts
+**Digital availability:** Partially available — SigLA (https://sigla.phis.me) is an open-access palaeographical database of Linear A signs; GORILA is the standard corpus (print); a Linear A digital corpus project has been undertaken (Aurora 2015 and related work); CDLI has some Linear A records
+**Primary digital home:** https://sigla.phis.me (SigLA palaeographical database); GORILA print corpus
+
+**Behavioral economics signals:**
+- Administrative tablets: commodity accounts with quantities (inferred by logogram analysis) — potential ration and redistribution data
+- Personnel lists: workforce allocation records (by analogy with Linear B)
+- Numeric notation understood: proportional relationships and ratios can be extracted
+- No named agents recoverable (script undeciphered; personal names not identifiable with certainty)
+- The administrative structure is identifiable even without decipherment — a palace redistribution economy parallel to Linear B
+
+**Assessment:** Linear A is documented here for completeness. The administrative tablets almost certainly contain ration and commodity distribution data analogous to Linear B, based on structural and logogram analysis. However, the undeciphered state of the script means that no economic quantities, agent names, or conditional clauses can be verified with confidence. The corpus is too small (~300 administrative tablets) and too opaque to support behavioral analysis directly. **No usable behavioral signal** in current state; documented as a potential resource contingent on future decipherment progress.
+
+---
+
+### 4.6 Cypro-Minoan Script Documents (c. 1550–1050 BCE)
+
+**Abbreviations:** CM (Cypro-Minoan); DĀMOS (for related Mycenaean context); Ferrara (2012) corpus
+**Date range:** c. 1550–1050 BCE (Late Bronze Age Cyprus)
+**Language and script:** Cypro-Minoan; a syllabic script partially derived from Linear A; underlying language(s) unknown; may represent more than one language
+**Provenance:** Cyprus (Enkomi primary archive; also Ugarit, Tiryns, Ras Shamra); clay tablets, clay balls, and inscribed bronze objects
+**Approximate size:** ~230 texts (Ferrara 2012 corpus); the largest set is from Enkomi (~109 tablets and objects)
+**Document types:** Administrative tablets (commodity accounts, comparable in structure to Linear B); a small number of inscribed objects that may be labels or tallies
+**Translation status:** Partially deciphered — the script has been partially read (approximately 50–70 signs identified) but the underlying language remains unknown; economic functions of tablets are inferred from structure; full decipherment has not been achieved as of 2026
+**Digital availability:** Minimally available — Ferrara (2012) is the standard corpus edition (print); some records in CDLI; no dedicated open-access digital portal
+**Primary digital home:** Ferrara (2012) print corpus; CDLI (partial records)
+
+**Behavioral economics signals:**
+- Administrative tablets with commodity quantities (inferred from structural analysis)
+- Possible trade-related documents given Cyprus's role as a major Bronze Age copper trading hub
+- No named agents, no prices, no complaint genre recoverable in current decipherment state
+
+**Assessment:** Documented for completeness. Cypro-Minoan almost certainly contains administrative economic records — Cyprus was the primary copper source for the Late Bronze Age Mediterranean and had an active palace economy. However, the partial decipherment and small corpus size preclude any behavioral analysis. **No usable behavioral signal** in current state; may become relevant if decipherment advances.
 
 ---
 
@@ -902,6 +1224,150 @@ The corpora span roughly five thousand years and four writing systems (cuneiform
 - Cross-cultural community: Dalmatian miners, Roman officials, local Dacians
 
 **Assessment:** A small but thematically rich corpus. The mining partnership contracts are among the most explicit ancient documents for risk-sharing under uncertainty — parties negotiated explicit divisions of unknown future ore yields. Labor contracts provide reference wage data. The defined community enables network analysis. **High behavioral signal per document** despite tiny corpus size; particularly valuable for risk-sharing and reference-wage analysis.
+
+---
+
+### 5.4 Dura-Europos Documents (c. 100–256 CE)
+
+**Abbreviations:** P.Dura (The Excavations at Dura-Europos: The Parchments and Papyri); C.Dura (cuneiform texts)
+**Date range:** c. 100–256 CE (city destroyed by Sasanians 256 CE)
+**Language and script:** Greek (majority); Latin (military documents); Aramaic; Palmyrene; Middle Persian (Parthian); a few in Syriac and Pahlavi
+**Provenance:** Dura-Europos (Salihiyeh), Euphrates frontier, eastern Syria; excavated by Yale University and the French Academy of Inscriptions and Letters 1928–1937; materials primarily at Yale University Art Gallery
+**Approximate size:** ~264 texts total in the standard P.Dura edition (Welles, Fink, Gilliam 1959): ~147 Latin (mainly military), ~52 Greek, smaller numbers in other languages; additional parchments and inscriptions bring the total higher; ~12,000 artifacts in total from the site at Yale
+**Document types:** Military unit rosters, strength reports (pridianum), pay records and account books; commercial contracts (sale, loan, lease); parchment deeds (Greek and Aramaic); legal and civil documents; a synagogue fresco inscription; early church records
+**Translation status:** Substantially translated — P.Dura (1959) provides full edition with English translations; Latin military papyri re-edited by James (2021, Cambridge) with updated translations; Greek contracts well translated
+**Digital availability:** Partially available — the Yale Dura-Europos archive (https://duraeuropos.artgallery.yale.edu/) provides digital access to site photographs and some artifact records; papyri.info includes some P.Dura texts; Duke Databank has some Greek texts from Dura; the P.Dura Latin military papyri are included in papyri.info
+**Primary digital home:** https://duraeuropos.artgallery.yale.edu/ (Yale archive); papyri.info (Greek texts)
+
+**Behavioral economics signals:**
+- **Military pay records**: unit account books document soldier pay, deductions, and savings — potentially the most detailed ancient military personal finance records
+- **Military strength reports (pridianum)**: expected vs. actual troop strengths — expectation-outcome comparison at the unit level
+- **Commercial contracts**: private sale, loan, and lease documents from the civilian community in a frontier garrison town
+- Named recurring individuals in military records (soldiers serving across multiple documents)
+- **Multilingual economic interaction**: Greek, Aramaic, Latin, and Parthian speakers all conducting documented transactions in the same city
+- A unique frontier economy: Roman garrison, Parthian/Sasanian neighboring territory, and caravan trade all intersecting
+
+**Assessment:** Dura-Europos is particularly valuable as a document of economic behavior at the interface of Roman, Parthian, and Syrian cultural zones. The military pay and account records are among the most detailed Roman financial records for ordinary soldiers. The commercial contracts show private economic behavior in a frontier garrison context. **Medium behavioral signal** overall; the military financial records are **medium-high** for reference-wage analysis, and the multilingual commercial contracts are useful for cross-cultural transaction behavior.
+
+---
+
+### 5.5 Herculaneum Papyri (before 79 CE)
+
+**Abbreviations:** PHerc. (Papyri Herculanenses); Hercul.
+**Date range:** Pre-79 CE (carbonized in the Vesuvius eruption); the library was assembled probably in the 1st century BCE – 1st century CE
+**Language and script:** Greek (majority); Latin (minority, including some financial texts)
+**Provenance:** Villa of the Papyri, Herculaneum (modern Ercolano), Campania, Italy; discovered in Bourbon-era excavations 1752–1754; ~1,800 carbonized scrolls recovered; now primarily at the National Library in Naples (Biblioteca Nazionale di Napoli)
+**Approximate size:** ~1,800 papyri (scrolls and fragments); roughly 600 unrolled and read before modern imaging technology; ~600 additional scrolls remain unread (as of 2025); text content dominated by Epicurean philosophy (Philodemus)
+**Document types:** Primarily philosophical texts (Epicurean; primarily Philodemus of Gadara); some Latin legal and financial texts; a small number of texts on other subjects; the financial content is limited
+**Translation status:** Substantially translated for the philosophical texts; the financial and non-philosophical minority texts partially translated; substantial new content being recovered via the Vesuvius Challenge (2023–2025) using CT scanning and AI-assisted ink detection
+**Digital availability:** Substantially available — the Vesuvius Challenge (https://scrollprize.org/) has made high-resolution CT scan data for 4 complete scrolls and numerous fragments openly available; multispectral imaging by Brigham Young University since 1999; the 2023 Grand Prize awarded for successfully reading ~5% of one scroll; 2024 target: 90% of Scrolls 1–4
+**Primary digital home:** https://scrollprize.org/ (Vesuvius Challenge, CT data and fragment images); Biblioteca Nazionale di Napoli for physical access
+
+**Behavioral economics signals:**
+- Epicurean philosophical content: discussions of rational choice, pleasure, and pain — conceptually relevant to behavioral economics but not documentary evidence of actual economic decisions
+- The recovered Latin financial texts (minor): some account-book content
+- Risk and uncertainty discussions in philosophical texts (not documentary)
+- The recovery process itself is ongoing — new financial content may emerge from the unread scrolls as the Vesuvius Challenge proceeds
+
+**Assessment:** The Herculaneum library is primarily philosophical rather than documentary-economic. The Epicurean texts discuss rational decision-making at a theoretical level, which is contextually relevant but not direct evidence of behavioral bias. The small number of Latin financial texts within the corpus may yield additional data as new scrolls are read via the Vesuvius Challenge. As of April 2026, the financial content is limited and incompletely recovered. **Low behavioral signal** in current state; monitored for new discoveries from the Vesuvius Challenge digitization effort.
+
+---
+
+### 5.6 Nessana Papyri (c. 500–700 CE)
+
+**Abbreviations:** P.Ness.; Nessana
+**Date range:** c. 505–700 CE (Byzantine and early Islamic periods)
+**Language and script:** Greek (majority of administrative and legal documents); Latin (a few literary texts); early Arabic (several documents from post-conquest period, including one dated to the 680s CE, P.Ness. 77)
+**Provenance:** Nessana (ancient Nessana / Auja el-Hafir), Negev desert, Israel; excavated by H. Dunscombe Colt 1935–1937; papyri found in one of the village's churches; held at the Pierpont Morgan Library, New York (now Morgan Library)
+**Approximate size:** ~195 documents and ~13 literary texts; 96 judged by the editor (Kraemer 1958) to be important enough for full publication; the rest are brief or fragmentary
+**Document types:** Land registers, contracts (sale, loan, lease), family correspondence, military requisitions, tax documents, literary texts (including fragments of the Aeneid and a Greek-Latin glossary), early Arabic administrative documents
+**Translation status:** Substantially translated — Kraemer (1958), "Non-Literary Papyri," Excavations at Nessana vol. 3, published 96 key texts with full English translations; digitization project by ISAW (Institute for the Study of the Ancient World, NYU) produced additional access
+**Digital availability:** Partially available — ISAW (Institute for the Study of the Ancient World) digitized the collection with Pierpont Morgan Library cooperation; papyri.info has some Nessana texts; the Arabic papyri (including P.Ness. 77, the earliest papyrus mentioning the dhimma) are accessible in Islamic-awareness.org scholarly discussions
+**Primary digital home:** papyri.info (search: Nessana); ISAW digital resources (https://isaw.nyu.edu)
+
+**Behavioral economics signals:**
+- **Land registers**: multi-year property records for a defined village community — reference-asset tracking
+- **Loan and sale contracts**: private economic transactions in a Byzantine desert village
+- **Tax documents**: annual assessments enabling reference-point benchmarking
+- **Family correspondence**: interpersonal financial matters, supply requests
+- Named recurring individuals in a single defined community across ~200 years
+- The transition from Byzantine to early Islamic administration is documented within the archive — institutional change with potential behavioral adaptation evidence
+- Arabic documents from post-conquest period: economic continuity or disruption across the political transition
+
+**Assessment:** The Nessana archive is one of the very few papyrus finds from outside Egypt, making it valuable for establishing whether Egyptian behavioral patterns were parochial or widespread. The village archive covers a single community across two centuries and two political systems (Byzantine and Islamic). The land and contract records provide reference-asset data. The transition documents are particularly interesting for studying institutional adaptation. **Medium behavioral signal**; particularly valuable for cross-regional comparison and institutional-change analysis.
+
+---
+
+### 5.7 Petra Papyri (c. 537–593 CE)
+
+**Abbreviations:** P.Petra; Petra Pap.
+**Date range:** c. 537–593 CE (Byzantine period, reign of Justinian through Maurice)
+**Language and script:** Byzantine Greek; papyrus (charred)
+**Provenance:** Petra, Jordan; discovered 1992 during ACOR excavation of the Petra Church (Byzantine); ~140 charred scrolls recovered from a bench; conserved and published by University of Helsinki and University of Michigan teams; held by the Petra Archaeological Museum under supervision of the Jordan Department of Antiquities
+**Approximate size:** ~152 charred scrolls (many partially legible); 5 published volumes (P.Petra I–V, ACOR Publications, 1999–2018); text recovered corresponds to perhaps 75–100 legible documents
+**Document types:** Property documents (land sales, land leases, property registration); family archive of a wealthy Petra landowner (Theodoros son of Obodianos) and his relatives; marriage documents; administrative records showing Byzantine provincial taxation; a few letters
+**Translation status:** Substantially translated — P.Petra I–V provides Greek texts with full English translations and commentary; the five-volume series was completed in 2018
+**Digital availability:** Minimally available digitally — ACOR (American Center of Oriental Research) publishes and holds the volumes (https://acorjordan.org/the-petra-papyri/); Trismegistos has records; no open-access digital text edition
+**Primary digital home:** https://acorjordan.org/the-petra-papyri/ (ACOR publication information); Trismegistos (https://www.trismegistos.org) for metadata
+
+**Behavioral economics signals:**
+- **Land sale and lease contracts**: property transactions with explicit prices — reference-asset valuations for Byzantine Petra
+- **Named family archive**: Theodoros and his relatives appear across multiple documents — multi-generational family estate management traceable
+- **Taxation records**: Byzantine provincial tax documentation with property assessments
+- **Marriage documents**: dowry and property settlement terms
+- Property values in a documented community over ~56 years (537–593 CE)
+- The Byzantine legal and fiscal framework is well understood, enabling the Petra data to be placed in comparative context
+
+**Assessment:** The Petra papyri are the single most important documentary archive from Byzantine Jordan. The family archive structure (multiple documents relating to one wealthy family's estate) enables the kind of multi-document individual tracking that is most valuable for behavioral analysis. The land transaction prices provide reference-asset data for a dated community. **Medium-high behavioral signal** for the property and family archive documents; the multi-generational estate management context is particularly useful.
+
+---
+
+### 5.8 Ravenna Papyri (5th–7th century CE)
+
+**Abbreviations:** P.Ital. (Papiri Italiani); Tjäder (standard edition)
+**Date range:** c. 445–665/666 CE (from the fall of the western Roman Empire through the Byzantine exarchate)
+**Language and script:** Latin (cursive); some documents bilingual with Greek elements
+**Provenance:** Ravenna, Italy (seat of the Western Roman court from 402, then Ostrogothic and Byzantine capital of Italy); now dispersed across European and North American libraries — Archivio Arcivescovile di Ravenna, Vatican Library, Paris (BnF), Vienna, Leiden, Princeton, Manchester, and others
+**Approximate size:** ~60 documents in the core corpus (445 – mid-7th century); the Ravenna papyri constitute the single largest corpus of Latin papyri documents surviving from late antiquity
+**Document types:** Ecclesiastical land administration documents — wills, donations to churches and monasteries, heritable leases of church lands, sales of church lands; legal charters; a handful of secular private documents
+**Translation status:** Substantially translated — Tjäder's standard edition (Die nichtliterarischen lateinischen Papyri Italiens aus der Zeit 445–700, 2 vols., 1955–1982) provides critical texts with German commentary; English translations in specialized studies
+**Digital availability:** Partially available — Trismegistos (https://www.trismegistos.org/collection/294) has records for the Ravenna Museo Arcivescovile collection; individual digitized documents at Manchester Digital Collections (https://www.digitalcollections.manchester.ac.uk) and Princeton University Library; no single comprehensive open-access text portal
+**Primary digital home:** Trismegistos (https://www.trismegistos.org); individual institutional digitization efforts
+
+**Behavioral economics signals:**
+- **Church land transactions**: donations, leases, and sales with explicit valuations — reference-asset benchmarking for late antique Italy
+- Testamentary documents: estate valuations and distributions — asset reference points at death
+- Heritable lease records: long-term lease agreements with rent reference amounts
+- Named ecclesiastical officials and private individuals across multiple transactions
+- The corpus documents economic continuity across the fall of Rome, Odoacer's rule, Ostrogothic period, and Byzantine reconquest — institutional persistence under political disruption
+- Latin legal and commercial formulas persist across all political transitions — status quo bias in legal format?
+
+**Assessment:** The Ravenna papyri are the main evidence for private economic activity in post-Roman Italy. The church land transaction records are primarily ecclesiastical but contain genuine market prices for property. The continuity of legal formulas across multiple political regime changes is interesting for institutional persistence research. **Low-to-medium behavioral signal** for standard bias analysis; medium for institutional persistence and reference-price stability under political disruption.
+
+---
+
+### 5.9 Karanis Papyri (c. 1st–4th century CE)
+
+**Abbreviations:** P.Mich. (Michigan Papyri); O.Mich. (Michigan ostraca); APIS UM
+**Date range:** c. 1st–4th century CE (primarily 2nd–3rd century CE)
+**Language and script:** Greek (primary); some Demotic; a few Latin
+**Provenance:** Karanis (modern Kom Aushim), Fayum, Egypt; excavated by University of Michigan 1924–1935; primary collection at Kelsey Museum of Archaeology (University of Michigan, Ann Arbor)
+**Approximate size:** The University of Michigan holds >7,000 papyrus inventory numbers (many with multiple fragments, ~17,000 individual fragments total) from across Egypt, with Karanis being the primary excavated source; the Karanis-specific excavated material includes several thousand papyri and ostraca
+**Document types:** Tax registers (annual grain tax, poll tax, money tax); private letters; contracts (sale, loan, lease); military documents; census declarations; petitions; granary accounts
+**Translation status:** Substantially translated — P.Mich. series (University of Michigan Press) publishes editions with English translations; APIS UM (Advanced Papyrological Information System at Michigan) provides digital access; Michigan papyri are among the best-published American collections
+**Digital availability:** Freely available — APIS UM (https://quod.lib.umich.edu/a/apis/) provides digitized images and transcriptions for many Karanis documents; papyri.info integrates P.Mich. texts; "Diversity in the Desert" digital exhibition (https://apps.lib.umich.edu/diversity-desert/) provides accessible presentation of economic life at Karanis
+**Primary digital home:** https://quod.lib.umich.edu/a/apis/ (APIS UM); papyri.info (P.Mich. texts)
+
+**Behavioral economics signals:**
+- **Village-level tax registers**: multi-year tax records for a single village community — the most complete economic dataset for an individual Roman Egyptian village, spanning ~300 years of habitation
+- **Named recurring taxpayers**: individual residents of Karanis appear across multiple tax seasons — repeated-agent tracking possible
+- **Private letters**: interpersonal financial correspondence from the same community
+- **Loan and lease contracts**: credit instruments with interest rates from a single defined locality
+- **Granary accounts**: commodity storage and distribution records enabling reference-stock analysis
+- **Census declarations**: household composition and asset declarations — reference-asset benchmarking at household level
+- The excavated context (documents found in situ in houses) allows some documents to be linked to specific households
+
+**Assessment:** Karanis is unique among Roman Egyptian sites because the University of Michigan conducted systematic excavations that preserved the spatial context of document finds within individual houses. This means some documents can be linked to specific households, enabling a depth of community-level analysis not possible with market-acquired papyri. The 300-year span of occupation and the dense tax records make Karanis the most complete individual-village economic archive in antiquity. **High behavioral relevance** for community-level and individual repeated-agent analysis; under-exploited relative to its potential.
 
 ---
 

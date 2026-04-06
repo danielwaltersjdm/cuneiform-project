@@ -25,7 +25,11 @@ RAW_DATA_DIR = Path(__file__).parent.parent / "raw_data" / "neo_assyrian"
 
 SAA_LETTER_PROJECTS = {
     "SAA01 - Correspondence of Sargon II (Part I)":           "saao/saa01",
+    "SAA04 - Queries to the Sungod":                          "saao/saa04",
     "SAA05 - Correspondence of Sargon II Officials (Part I)": "saao/saa05",
+    "SAA08 - Astrological Reports to Assyrian Kings":         "saao/saa08",
+    "SAA09 - Assyrian Prophecies":                            "saao/saa09",
+    "SAA10 - Letters from Assyrian Scholars":                 "saao/saa10",
     "SAA15 - Correspondence of Sargon II Officials (Part II)":"saao/saa15",
     "SAA16 - Political Correspondence from Esarhaddon":        "saao/saa16",
     "SAA17 - Neo-Babylonian Correspondence":                   "saao/saa17",

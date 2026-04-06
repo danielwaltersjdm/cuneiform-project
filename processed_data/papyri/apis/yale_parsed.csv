@@ -1,0 +1,877 @@
+﻿doc_id,hgv_id,tm_id,ddb_hybrid,filename,title,summary,date_text,date_year_approx,provenance,language,genre,transcription_text,translation_text,has_translation
+yale.apis.0000010000,10817,10817,p.fay;;25,yale.apis.0000010000,"List, Roman CE 36, Aug 17","Of men who fulfilled their work on the embankments, penthemeros certificate for labor, receipt","Roman CE 36, Aug 17",17.0,"Euhemeria, Arsinoite nome",grc,,,,False
+yale.apis.0000024100,10929,10929,p.fay;;86A,yale.apis.0000024100,"Account, Roman CE 161-169","Receipts of and freight charges for grain, by sitologoi",Roman CE 161-169,165.0,"Theadelphia, Arsinoite nome",grc,,,,False
+yale.apis.0000024200,,,,yale.apis.0000024200,Account,,,,"Theadelphia, Arsinoite nome",grc,,,,False
+yale.apis.0000030000,10778,10778,p.fay;;113,yale.apis.0000030000,"Letter, Roman CE 100",Lucius Bellenus Gemellus to his son Sabinus,Roman CE 100,100.0,"Euhemeria, Arsinoite nome",grc,,,,False
+yale.apis.0000040000,10780,10780,p.fay;;115,yale.apis.0000040000,"Letter, Roman CE 101",Lucius Bellenus Gemellus to Epagathus,Roman CE 101,101.0,"Euhemeria, Arsinoite nome",grc,,,,False
+yale.apis.0000050000,25721,25721,p.fay;;137,yale.apis.0000050000,"Petition, Roman CE i [BPG]",To an oracle,Roman CE i [BPG],50.0,"Bacchias, Arsinoite nome",grc,,,,False
+yale.apis.0000060000,25722,25722,p.fay;;138,yale.apis.0000060000,"Petition, Roman CE i-ii [BPG]",To an oracle,Roman CE i-ii [BPG],100.0,"Bacchias, Arsinoite nome",grc,,,,False
+yale.apis.0000070000,13740,13740,p.yale;1;74,yale.apis.0000070000,"Receipt, Roman CE 208, 5. Dec.  [PJS]",For 1% and 2% customs tax,"Roman CE 208, 5. Dec.  [PJS]",,"Bacchias, Arsinoite nome",grc,,,,False
+yale.apis.0000080000,,60370,,yale.apis.0000080000,"Literary work, Roman CE i-early ii [BPG]","Homer, Iliad XXII.254-299, 350-355, 358-362, 364-365",Roman CE i-early ii [BPG],63.0,"Euhemeria, Arsinoite nome",grc,,,,False
+yale.apis.0000090000,10831,10831,p.fay;;265,yale.apis.0000090000,"Letter, Roman CE i-ii (ca. 100) [BPG]",Lucius Bellenus Gemellus to [...],Roman CE i-ii (ca. 100) [BPG],100.0,"Euhemeria, Arsinoite nome",grc,,,,False
+yale.apis.0000100000,10833,10833,p.fay;;267,yale.apis.0000100000,"Letter, Roman CE i-ii (ca. 100) [BPG]",Lucius Bellenus Gemellus to [...],Roman CE i-ii (ca. 100) [BPG],100.0,"Euhemeria, Arsinoite nome",grc,,,,False
+yale.apis.0000110000,10839,10839,p.fay;;272,yale.apis.0000110000,"Letter, Roman CE i-ii (ca. 100) [BPG]",Lucius Bellenus Gemellus to his son Sabinus,Roman CE i-ii (ca. 100) [BPG],100.0,"Euhemeria, Arsinoite nome",grc,,,,False
+yale.apis.0000120000,10840,10840,p.fay;;273,yale.apis.0000120000,"Letter, Roman CE i-ii (ca. 100) [BPG]",Lucius Bellenus Gemellus to [...],Roman CE i-ii (ca. 100) [BPG],100.0,"Euhemeria, Arsinoite nome",grc,,,,False
+yale.apis.0000134100,,,,yale.apis.0000134100,"Account, Roman CE ii [BPG]",List of names with charges or payments in money (for poll tax?),Roman CE ii [BPG],149.0,"Theadelphia, Arsinoite nome",grc,,,,False
+yale.apis.0000134200,28655,28655,p.fay;;335,yale.apis.0000134200,"Account, Roman [BPG]",List of names with charges or payments in grain,Roman [BPG],100.0,"Theadelphia, Arsinoite nome",grc,,,,False
+yale.apis.0000140000,16845,16845,p.yale;1;73,yale.apis.0000140000,"Receipt, Roman CE 186",For poll tax,Roman CE 186,186.0,"Theadelphia, Arsinoite nome",grc,,,,False
+yale.apis.0000150000,,,,yale.apis.0000150000,"Certificate, Roman CE 138-161",For labor (penthemeros),Roman CE 138-161,149.0,"Theadelphia, Arsinoite nome",grc,,,,False
+yale.apis.0000160000,14578,14578,sb;16;12315,yale.apis.0000160000,"Certificate, Roman CE 119, Aug 1",For labor (penthemeros),"Roman CE 119, Aug 1",1.0,"Theadelphia, Arsinoite nome",grc,,,,False
+yale.apis.0000170031,832139,832139,aegyptus;98;140_2,yale.apis.0000170031,"Account, Roman CE i-ii [CBW]","List of names, with professions, etc., with charges or payments",Roman CE i-ii [CBW],100.0,Hawara,grc,,,,False
+yale.apis.0000170032,26062,26062,aegyptus;98;133_1,yale.apis.0000170032,"Account, Ptolemaic [AHS]|Roman CE i-ii [CBW]",List of names with charges or payments,Ptolemaic [AHS] Roman CE i-ii [CBW],-349.0,Hawara,grc,,,,False
+yale.apis.0000184100,40468,40468,aegyptus;94;70_4r,yale.apis.0000184100,"Account, Roman CE ii [CBW]","List of names, etc., with payments",Roman CE ii [CBW],149.0,Hawara,grc,,,,False
+yale.apis.0000184200,703072,703072,aegyptus;94;72_4v,yale.apis.0000184200,"Account, Roman CE ii [CBW]",,Roman CE ii [CBW],149.0,Hawara,grc,,,,False
+yale.apis.0000190000,40469,40469,sb;26;16577,yale.apis.0000190000,"Account, Roman CE i-iii [CBW]",List of household items and payments,Roman CE i-iii [CBW],100.0,Hawara,grc,,,,False
+yale.apis.0000200000,8195,8195,p.yale;1;33,yale.apis.0000200000,"Letter, Ptolemaic BCE 253, Apr 5 [BPG, CBW]","Deinon to the toparch Harimouthes, concerning native soldiers and harvesters","Ptolemaic BCE 253, Apr 5 [BPG, CBW]",,Ankyronon Polis,grc,,,,False
+yale.apis.0000210000,8200,8200,p.yale;1;32,yale.apis.0000210000,"Letter, Ptolemaic BCE iii (ca. 257) [BPG]","The oikonomos (?) Leodamas to Laomedon, concerning shipment of grain and olives",Ptolemaic BCE iii (ca. 257) [BPG],-250.0,Ankyronon Polis,grc,,,,False
+yale.apis.0000220000,8205,8205,p.yale;1;34,yale.apis.0000220000,"Letter, Ptolemaic BCE 250, Jan 28 [BPG, CBW]",The oikonomos (?) Skythes to the komogrammateus Ptolemaios,"Ptolemaic BCE 250, Jan 28 [BPG, CBW]",,Ankyronon Polis,grc,,,,False
+yale.apis.0000230000,8206,8206,p.yale;1;35,yale.apis.0000230000,"Letter, Ptolemaic BCE 249, Dec 9 [BPG, CBW]",The archiphylakites Patron to the komogrammateus Ptolemaios,"Ptolemaic BCE 249, Dec 9 [BPG, CBW]",,Ankyronon Polis,grc,,,,False
+yale.apis.0000240000,8272,8272,p.yale;1;30,yale.apis.0000240000,"Letter, Ptolemaic BCE iii (ca. 265) [BPG]","Zoilos to Ploutarchos, concerning damaged merchandise",Ptolemaic BCE iii (ca. 265) [BPG],-250.0,Ankyronon Polis,grc,,,,False
+yale.apis.0000250000,8273,8273,p.yale;1;47,yale.apis.0000250000,"Letter, Ptolemaic BCE iii (ca. 230) [BPG]",Herakleodoros to Kleitarchos,Ptolemaic BCE iii (ca. 230) [BPG],-250.0,Ankyronon Polis,grc,,,,False
+yale.apis.0000260000,8274,8274,p.yale;1;48,yale.apis.0000260000,"Letter, Ptolemaic BCE iii (ca. 230) [BPG]",[Asklepiades?] to Kleitarchos,Ptolemaic BCE iii (ca. 230) [BPG],-250.0,Ankyronon Polis,grc,,,,False
+yale.apis.0000270000,8275,8275,p.yale;1;49,yale.apis.0000270000,"Letter, Ptolemaic BCE 227, Jul 16-Aug 14",Asklepiades to Kleitarchos,"Ptolemaic BCE 227, Jul 16-Aug 14",14.0,Ankyronon Polis,grc,,,,False
+yale.apis.0000280000,78827,78827,p.yale;1;59,yale.apis.0000280000,"Literary work (?), Ptolemaic-Roman BCE i-CE i [CBW]",,Ptolemaic-Roman BCE i-CE i [CBW],0.0,,grc,,,,False
+yale.apis.0000290000,,,,yale.apis.0000290000,"Document, Ptolemaic BCE ii [AES]",Letter (?),Ptolemaic BCE ii [AES],-150.0,,grc,,,,False
+yale.apis.0000300000,,61524,,yale.apis.0000300000,"Literary work, Roman CE ii-iii [BPG]",Comedy,Roman CE ii-iii [BPG],199.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000310000,,62641,,yale.apis.0000310000,"Literary work, Roman CE iii [BPG, ASH]|Roman CE late ii [CBW]","Plato, Republic X.607e-608a","Roman CE iii [BPG, ASH] Roman CE late ii [CBW]",249.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000320000,28407,28407,p.oxy;1;115,yale.apis.0000320000,"Letter, Roman CE ii (Oct 28 or 29) [BPG]","Irene to Taonnophris and Philo, offering condolences",Roman CE ii (Oct 28 or 29) [BPG],149.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000330000,20806,20806,sb;22;15367,yale.apis.0000330000,"Receipt, Byzantine CE 535, Jan 17","For loan of money, from Pamuthios, pronoetes of the village Leontos to Johannes, a farmer of two farms in the same village","Byzantine CE 535, Jan 17",17.0,"Leontos epoikion, Oxyrhynchite nome",grc,,,,False
+yale.apis.0000344100,,59037,,yale.apis.0000344100,"Literary work, Roman CE early ii [BPG]",Tragedy (Sophocles? Aeschylus?),Roman CE early ii [BPG],,Oxyrhynchus,grc,,,,False
+yale.apis.0000344200,,,,yale.apis.0000344200,"Account, Roman CE i [BPG]",Lists of names with charges or payments,Roman CE i [BPG],50.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000354100,,63206,,yale.apis.0000354100,"Literary work, Roman CE early i [BPG]",Rhetorical exercise (?),Roman CE early i [BPG],,Oxyrhynchus,grc,,,,False
+yale.apis.0000354200,,,,yale.apis.0000354200,"Letter, Roman CE early i [BPG]",Dionysios to Pse[?],Roman CE early i [BPG],,Oxyrhynchus,grc,,,,False
+yale.apis.0000360000,,63205,,yale.apis.0000360000,"Literary work, Roman CE early i [BPG]",Lament,Roman CE early i [BPG],,Oxyrhynchus,grc,,,,False
+yale.apis.0000370000,20518,20518,p.oxy;2;249,yale.apis.0000370000,"Registration, Roman CE 80, Oct 10",Of inherited property,"Roman CE 80, Oct 10",10.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000380000,20539,20539,p.oxy;2;268,yale.apis.0000380000,"Registration, Roman CE 58",Of repayment of wife's dowry by heir of deceased husband,Roman CE 58,58.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000390000,20547,20547,p.oxy;2;276,yale.apis.0000390000,"Receipt, Roman CE 77",For grain to be shipped,Roman CE 77,77.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000400000,20553,20553,p.oxy;2;282,yale.apis.0000400000,"Petition, Roman CE 30-35 [BPG]",To a strategos,Roman CE 30-35 [BPG],32.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000410000,25675,25675,p.oxy;2;329,yale.apis.0000410000,"Registration, Roman CE late i [BPG]","Of a contract of loan; notice from Theon to the agoramomos to register a contract of loan of Hermione, daughter of Panechotes",Roman CE late i [BPG],87.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000420000,16073,16073,sb;12;10795,yale.apis.0000420000,"Registration, Roman CE 28, Jan 28",Of sheep and goats,"Roman CE 28, Jan 28",28.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000430000,15471,15471,sb;14;11902,yale.apis.0000430000,"Petition, Roman CE 49-50",To a strategos,Roman CE 49-50,49.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000444100,,62527,,yale.apis.0000444100,"Literary work, Roman CE late i-early ii [BPG]","Pindar, fr. 140a-b (Snell 1964: 2:113-17)",Roman CE late i-early ii [BPG],100.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000444200,,,,yale.apis.0000444200,"Account, Roman CE ii [BPG]",,Roman CE ii [BPG],149.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000450000,,63938,,yale.apis.0000450000,"Literary work, Roman CE late ii-iii [BPG]",Metiochus and Parthenope Romance (?),Roman CE late ii-iii [BPG],187.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000460000,,64259,,yale.apis.0000460000,"Literary work, Roman CE iii [BPG]",Historical work,Roman CE iii [BPG],249.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000474100,,63737,,yale.apis.0000474100,"Literary work, Roman CE ii [BPG]",Philosophical work,Roman CE ii [BPG],149.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000474200,,,,yale.apis.0000474200,"Account, Roman CE ii [BPG]",,Roman CE ii [BPG],149.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000480000,,63738,,yale.apis.0000480000,"Literary work, Roman CE ii [BPG]",Oratorical or historical work,Roman CE ii [BPG],149.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000490000,28355,28355,p.oxy;3;497,yale.apis.0000490000,"Contract, Roman CE early ii [BPG]",Of marriage,Roman CE early ii [BPG],,Oxyrhynchus,grc,,,,False
+yale.apis.0000500000,28362,28362,p.oxy;3;522,yale.apis.0000500000,"Account, Roman CE ii [BPG]",List of expenses connected with shipment of grain,Roman CE ii [BPG],149.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000510000,20666,20666,sb;28;17048,yale.apis.0000510000,"Contract, Roman CE ii (110-111?) [BPG]",Of marriage,Roman CE ii (110-111?) [BPG],149.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000520000,25691,25691,p.oxy;3;605,yale.apis.0000520000,"Contract, Roman CE late i-early ii [BPG]",Of marriage,Roman CE late i-early ii [BPG],100.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000530000,25692,25692,sb;28;17047,yale.apis.0000530000,"Contract, Roman CE late i-early ii [BPG]",Of marriage,Roman CE late i-early ii [BPG],100.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000540000,20671,20671,zpe;160;184,yale.apis.0000540000,"Receipt, Roman CE ii (ca. 162) [BPG]",For grain,Roman CE ii (ca. 162) [BPG],149.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000550000,20672,20672,zpe;160;186,yale.apis.0000550000,"Receipt, Roman CE 134-135",For grain,Roman CE 134-135,134.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000560000,20676,20676,zpe;160;190,yale.apis.0000560000,"Order, Roman CE 163-164",For grain,Roman CE 163-164,163.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000570000,20677,20677,zpe;160;190_2,yale.apis.0000570000,"Order, Roman CE 161",For grain,Roman CE 161,161.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000580000,16395,16395,sb;12;11165,yale.apis.0000580000,"Order, Roman CE 143-144",For grain,Roman CE 143-144,143.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000590000,16396,16396,sb;12;11166,yale.apis.0000590000,"Order, Roman CE 147, Aug 29-Sep 27",For grain,"Roman CE 147, Aug 29-Sep 27",27.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000600000,16398,16398,sb;12;11168,yale.apis.0000600000,"Order, Roman CE 137 [BPG, ASH]|Roman CE 158, Oct 5 [GMP]",For grain,"Roman CE 137 [BPG, ASH] Roman CE 158, Oct 5 [GMP]",,Oxyrhynchus,grc,,,,False
+yale.apis.0000610000,16404,16404,sb;12;11244,yale.apis.0000610000,"Order, Roman CE 166-167",For grain,Roman CE 166-167,166.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000620000,16397,16397,sb;12;11167,yale.apis.0000620000,"Order, Roman CE 148, Sep 28",For grain,"Roman CE 148, Sep 28",28.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000630000,20686,20686,p.oxy;3;638,yale.apis.0000630000,"Registration, Roman CE 112",Of inherited property,Roman CE 112,112.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000640000,26548,26548,sb;14;11899,yale.apis.0000640000,"Letter, Roman CE ii [GMP]","[...] to his sister and to his brother Enthesmus, concerning family farm business",Roman CE ii [GMP],149.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000650000,20403,20403,p.oxy;4;658,yale.apis.0000650000,"Certificate, Roman CE 250, Jun 14",For sacrificing to the gods; libellus of Decian persecutions,"Roman CE 250, Jun 14",14.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000660000,20418,20418,p.oxy;4;719,yale.apis.0000660000,"Registration, Roman CE 193",Of a transfer of residential property,Roman CE 193,193.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000670000,,60961,,yale.apis.0000670000,"Literary work, Roman-Byzantine CE late iii-iv [BPG]|Roman CE late iii [CBW]","Homer, Iliad V.324-334, 379-390",Roman-Byzantine CE late iii-iv [BPG] Roman CE late iii [CBW],337.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000680000,,60297,,yale.apis.0000680000,"Literary work, Roman CE i [BPG]|Roman BCE i-CE early i [CBW]","Homer, Iliad V.578-586",Roman CE i [BPG] Roman BCE i-CE early i [CBW],50.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000690000,,60740,,yale.apis.0000690000,"Literary work, Roman CE late ii-iii [BPG]","Homer, Iliad V.583-596",Roman CE late ii-iii [BPG],187.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000700000,,,,yale.apis.0000700000,"Account, Roman CE ii [HIB]",Two separate documents are recorded on the recto and verso of this papyrus.  The recto and verso contain accounts. The recto is a list of taxes for year 3.  The verso is perhaps a list of taxpayers.,Roman CE ii [HIB],149.0,Provenance Purchased: Luxor,grc,,,,False
+yale.apis.0000710000,133279,133279,sb;28;16900,yale.apis.0000710000,"Edict, Medieval CE early viii [HIB]| Medieval CE May-October 693 [NG/FM]","Of an Arab governor, ordering payment of a tax",Medieval CE early viii [HIB]  Medieval CE May-October 693 [NG/FM],693.0,Provenance Written: Fusṭāṭ; Provenance Found: Upper Egypt (?); Provenance Purchased: Luxor,grc,,,,False
+yale.apis.0000720000,,,,yale.apis.0000720000,"List, Byzantine-Medieval CE vi-vii [HIB] | Byzantine CE 619-619 [KAW]",An administrative list specifying the delivery of various types of jars.,Byzantine-Medieval CE vi-vii [HIB]   Byzantine CE 619-619 [KAW],624.0,Provenance Purchased: Edfu,grc,,,,False
+yale.apis.0000730000,,,,yale.apis.0000730000,"Letter, Byzantine CE iv [HIB]",,Byzantine CE iv [HIB],349.0,,grc,,,,False
+yale.apis.0000740000,,,,yale.apis.0000740000,"Account, Byzantine CE v [HIB]","List of articles, including clothing",Byzantine CE v [HIB],449.0,,grc,,,,False
+yale.apis.0000750000,,,,yale.apis.0000750000,"Contract, Byzantine CE v [HIB]",Of joint contribution of money,Byzantine CE v [HIB],449.0,,grc,,,,False
+yale.apis.0000760000,,,,yale.apis.0000760000,"Contract, Roman CE iii [HIB]|Byzantine CE v-vi [?]",Of lease of a house (?),Roman CE iii [HIB] Byzantine CE v-vi [?],249.0,,grc,,,,False
+yale.apis.0000770000,26923,26923,p.yale;1;80,yale.apis.0000770000,"Letter, Roman CE ii [HIB]",Three private letters on one sheet,Roman CE ii [HIB],149.0,el-Bahnasa,grc,,,,False
+yale.apis.0000780000,,,,yale.apis.0000780000,"Contract, Byzantine CE v-vi [HIB]",Of surety,Byzantine CE v-vi [HIB],499.0,el-Bahnasa,grc,,,,False
+yale.apis.0000790000,,,,yale.apis.0000790000,"Document, Roman CE iii [HIB]",Concerning land (?),Roman CE iii [HIB],249.0,Memphis?,grc,,,,False
+yale.apis.0000800000,,,,yale.apis.0000800000,"Account, Byzantine CE iv [HIB]",Of grain,Byzantine CE iv [HIB],349.0,,grc,,,,False
+yale.apis.0000810000,,,,yale.apis.0000810000,"Account, Roman CE iii [HIB]",,Roman CE iii [HIB],249.0,,grc,,,,False
+yale.apis.0000820000,,,,yale.apis.0000820000,"Account, Roman CE ii [HIB]",Census list (?),Roman CE ii [HIB],149.0,,grc,,,,False
+yale.apis.0000830000,,,,yale.apis.0000830000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0000840000,,,,yale.apis.0000840000,"Document, Roman",Part of contract (?),Roman,100.0,,grc,,,,False
+yale.apis.0000850000,,,,yale.apis.0000850000,Fake,Imitating cursive script,,,,,,,,False
+yale.apis.0000860000,,,,yale.apis.0000860000,"Document, Roman CE ii [HIB]","Perhaps an account, ""tomos synkollesimos""",Roman CE ii [HIB],149.0,,grc,,,,False
+yale.apis.0000870000,,,,yale.apis.0000870000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0000880000,,,,yale.apis.0000880000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0000890000,,,,yale.apis.0000890000,"Document, Roman",Two separate documents are recorded on the recto and verso of this papyrus.  The verso may contain an account.,Roman,100.0,,grc,,,,False
+yale.apis.0000900000,,,,yale.apis.0000900000,"Document, Roman CE ii [HIB]",Two separate documents are recorded on the recto and verso of this papyrus.  The recto may contain an account.,Roman CE ii [HIB],149.0,,grc,,,,False
+yale.apis.0000910000,,,,yale.apis.0000910000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0000920000,,,,yale.apis.0000920000,Document (?),,,,,,,,,False
+yale.apis.0000930000,,,,yale.apis.0000930000,"Petition (?), Roman","text l. 3: ""hyper tou me pro[s""; l. 4: ""biblidion epi[dedok (?)""; l. 5: ""phylak[""",Roman,100.0,,grc,,,,False
+yale.apis.0000940000,,,,yale.apis.0000940000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0000950000,,,,yale.apis.0000950000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0000960000,,,,yale.apis.0000960000,"Contract, Ptolemaic BCE ca. 140-131 [RD]","Beginning of an agoranomic document containing the full titulature of the reigning Ptolemy, the eponymous priests and priestesses, (Doubledate), place; at the beginning of the contract the document breaks off",Ptolemaic BCE ca. 140-131 [RD],-5.0,Oxyrhynchus,grc,,,,False
+yale.apis.0000970000,,,,yale.apis.0000970000,"Document, Roman (?)","Letter (?); Apollonios, son of Apollonios or to another Apollonios, the epimeletes oinoy",Roman (?),100.0,,grc,,,,False
+yale.apis.0000980000,,,,yale.apis.0000980000,"Document, Roman CE iii [HIB]",Two separate documents are recorded on the recto and verso of this papyrus.,Roman CE iii [HIB],249.0,,grc,,,,False
+yale.apis.0000990000,,,,yale.apis.0000990000,"Document, Roman-Byzantine",,Roman-Byzantine,449.0,,grc,,,,False
+yale.apis.0001000000,,,,yale.apis.0001000000,"Document (?), Roman",Copy or receipt (?) or contract (?); year 14 of an Antoninus,Roman,100.0,,grc,,,,False
+yale.apis.0001010000,,,,yale.apis.0001010000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0001020000,,,,yale.apis.0001020000,"Document, Roman",27th Phamenoth (l.9),Roman,100.0,,grc,,,,False
+yale.apis.0001030000,,,,yale.apis.0001030000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0001040000,,,,yale.apis.0001040000,"Account, Ptolemaic BCE ii  [Bell: iii (Roman)]","Names, Olyra, Chartai, amounts of money",Ptolemaic BCE ii  [Bell: iii (Roman)],-150.0,,grc,,,,False
+yale.apis.0001050000,,,,yale.apis.0001050000,"Document, Roman-Byzantine (?)","Names (?), list (?)",Roman-Byzantine (?),449.0,,grc,,,,False
+yale.apis.0001060000,,,,yale.apis.0001060000,"Account, Ptolemaic BCE ii-i [HIB]","List of dates, names, and amounts",Ptolemaic BCE ii-i [HIB],-100.0,,grc,,,,False
+yale.apis.0001070000,942955,942955,analpap;32;197,yale.apis.0001070000,"Account, Byzantine CE iv [HIB]",,Byzantine CE iv [HIB],349.0,,grc,,,,False
+yale.apis.0001080000,,,,yale.apis.0001080000,"Contract, Roman CE ii-iii [HIB], after CE 161  [RD]","Of sale concerning agricultural or residential property (house, vineyard); Marcus Aurelius (?)","Roman CE ii-iii [HIB], after CE 161  [RD]",199.0,Aphrodito,grc,,,,False
+yale.apis.0001094100,,69007,,yale.apis.0001094100,"Recto, Literary work|Verso, Document (?)",Two separate documents are recorded on the recto and verso of this papyrus.,,,,grc,,,,False
+yale.apis.0001100000,641993,641993,apf;61;334_7,yale.apis.0001100000,"Receipt or certificate, Roman CE ii [HIB]","Name, place, amount of grain",Roman CE ii [HIB],149.0,Provenance Purchased: Cairo,grc,,,,False
+yale.apis.0001110000,,,,yale.apis.0001110000,"Recto, Account|Verso, Document, Roman CE ii [HIB]",Two separate documents are recorded on the recto and verso of this papyrus.  The recto contains an account.   The verso is a document.,Roman CE ii [HIB],149.0,Provenance Purchased: Cairo,grc,,,,False
+yale.apis.0001120000,,,,yale.apis.0001120000,"Letter, Roman CE 144-145","Concerning taxes (?), perhaps official report; 8th year of Antoninus Pius",Roman CE 144-145,144.0,,grc,,,,False
+yale.apis.0001130000,,,,yale.apis.0001130000,"Document, Byzantine CE vi [HIB]",,Byzantine CE vi [HIB],549.0,Provenance Purchased: Akhmim or el-Minya,grc,,,,False
+yale.apis.0001140000,,,,yale.apis.0001140000,"Contract, Roman CE i (81-96) [HIB]","Of sale; reign of Domitian, because of the titulature and honorific month ""Germanikos"" in l. 15-16",Roman CE i (81-96) [HIB],50.0,Provenance Purchased: Akhmim or el-Minya or el-Minya,grc,,,,False
+yale.apis.0001150000,16846,16846,p.yale;1;77,yale.apis.0001150000,"Letter, Roman CE ii (Sep 7 or 8) [HIB]|Roman CE ca. 100 (Sep 7 or 8) [CBW]",Eirenes to Epaphrys,Roman CE ii (Sep 7 or 8) [HIB] Roman CE ca. 100 (Sep 7 or 8) [CBW],149.0,Oxyrhynchus,grc,,,,False
+yale.apis.0001160000,,,,yale.apis.0001160000,"Recto, Document|Verso, Account, Roman CE iii [HIB]",Two separate documents are recorded on the recto and verso of this papyrus.,Roman CE iii [HIB],249.0,Provenance Purchased: Akhmim or el-Minya or el-Minya,grc,,,,False
+yale.apis.0001170000,,,,yale.apis.0001170000,"Document, Ptolemaic (?)",Concerning heirs or heritage,Ptolemaic (?),-349.0,Provenance Purchased: Akhmim or el-Minya or el-Minya,grc,,,,False
+yale.apis.0001180000,,,,yale.apis.0001180000,"Document, Roman",,Roman,100.0,Provenance Purchased: Akhmim or el-Minya or el-Minya,grc,,,,False
+yale.apis.0001190000,,,,yale.apis.0001190000,"Document (?), Roman CE ii [HIB]",,Roman CE ii [HIB],149.0,Provenance Purchased: Akhmim or el-Minya or el-Minya,grc,,,,False
+yale.apis.0001200000,,,,yale.apis.0001200000,"Document, Roman",Two separate documents are recorded on the recto and verso of this papyrus.  The verso may contain an account.,Roman,100.0,Provenance Purchased: Akhmim or el-Minya or el-Minya,grc,,,,False
+yale.apis.0001210000,,,,yale.apis.0001210000,"Document, Roman","List of names: Dioskoros, Ploytarchos, Didymos",Roman,100.0,Provenance Purchased: Akhmim or el-Minya or el-Minya,grc,,,,False
+yale.apis.0001220000,,,,yale.apis.0001220000,"Account, Roman",Names and figures,Roman,100.0,Provenance Purchased: Akhmim or el-Minya or el-Minya,grc,,,,False
+yale.apis.0001230000,,,,yale.apis.0001230000,"Document, Roman (?)",Account (?),Roman (?),100.0,Provenance Purchased: Akhmim or el-Minya or el-Minya,grc,,,,False
+yale.apis.0001240000,,,,yale.apis.0001240000,"Document, Roman",,Roman,100.0,Provenance Purchased: Akhmim or el-Minya or el-Minya,grc,,,,False
+yale.apis.0001250000,,,,yale.apis.0001250000,"Letter, Roman","Isidoros (?) to [...], his father",Roman,100.0,Provenance Purchased: Akhmim or el-Minya,grc,,,,False
+yale.apis.0001260000,,,,yale.apis.0001260000,"Letter, Roman",Private; names of family members,Roman,100.0,Provenance Purchased: Akhmim or el-Minya or el-Minya,grc,,,,False
+yale.apis.0001270000,,,,yale.apis.0001270000,"Account (?), Roman",Amounts of grain; 13th year,Roman,100.0,Provenance Purchased: Akhmim or el-Minya or el-Minya,grc,,,,False
+yale.apis.0001280000,,,,yale.apis.0001280000,"Document, Roman (?)",Figures (?),Roman (?),100.0,Provenance Purchased: Akhmim or el-Minya or el-Minya,grc,,,,False
+yale.apis.0001290000,,,,yale.apis.0001290000,"Document (?), Roman-Byzantine (?)",,Roman-Byzantine (?),449.0,Provenance Purchased: Akhmim or el-Minya or el-Minya,grc,,,,False
+yale.apis.0001300000,,,,yale.apis.0001300000,"Account (?), Roman",,Roman,100.0,Provenance Purchased: Akhmim or el-Minya or el-Minya,grc,,,,False
+yale.apis.0001310000,,,,yale.apis.0001310000,"Document, Roman",Recto: account of grain,Roman,100.0,Provenance Purchased: Akhmim or el-Minya or el-Minya,grc,,,,False
+yale.apis.0001320000,,,,yale.apis.0001320000,"Letter, Roman CE ii-iii [HIB]",,Roman CE ii-iii [HIB],199.0,Provenance Purchased: Akhmim or el-Minya,grc,,,,False
+yale.apis.0001330000,16840,16840,p.yale;1;64,yale.apis.0001330000,"Contract, Roman CE ii [HIB]|Roman CE 75, Dec 28- CE 76, Jan 26 [CBW]",Of loan of money,"Roman CE ii [HIB] Roman CE 75, Dec 28- CE 76, Jan 26 [CBW]",149.0,Provenance Purchased: Akhmim or el-Minya,grc,,,,False
+yale.apis.0001340000,,,,yale.apis.0001340000,"Document, Byzantine CE vi [HIB]",,Byzantine CE vi [HIB],549.0,Provenance Written: Aphrodito (?),grc,,,,False
+yale.apis.0001350000,,,,yale.apis.0001350000,"Contract, Byzantine CE vi [HIB]",,Byzantine CE vi [HIB],549.0,Provenance Written: Aphrodito?,grc,,,,False
+yale.apis.0001360000,,,,yale.apis.0001360000,"Document, Byzantine",,Byzantine,499.0,Aphrodito?,grc,,,,False
+yale.apis.0001370000,,,,yale.apis.0001370000,"Letter, Roman CE ii [HIB]","Private, greetings to the whole family and to the father Harpokration; end of letter",Roman CE ii [HIB],149.0,,grc,,,,False
+yale.apis.0001380000,,,,yale.apis.0001380000,"Letter, Roman CE iii [HIB]",1 line along left margin,Roman CE iii [HIB],249.0,Provenance Written: Oxyrhynchite nome,grc,,,,False
+yale.apis.0001390000,5542,5542,p.yale;1;58,yale.apis.0001390000,"Receipt, Ptolemaic BCE i (98, Sep 6, or 65) [HIB, CBW]",For money,"Ptolemaic BCE i (98, Sep 6, or 65) [HIB, CBW]",-50.0,"Provenance Written: Tebtynis, Arsinoite nome",grc,,,,False
+yale.apis.0001400000,78826,78826,p.yale;1;54,yale.apis.0001400000,"Document, Ptolemaic [HIB]|Ptolemaic BCE ii [CBW]",,Ptolemaic [HIB] Ptolemaic BCE ii [CBW],-349.0,,grc,,,,False
+yale.apis.0001414100,,,,yale.apis.0001414100,"Registration, Roman CE iii [HIB]",Of land,Roman CE iii [HIB],249.0,,grc,,,,False
+yale.apis.0001414200,,,,yale.apis.0001414200,"Account, Roman",Entries and figures at the end of each line,Roman,100.0,,grc,,,,False
+yale.apis.0001420000,,,,yale.apis.0001420000,"Account (?), Roman-Byzantine CE iii-iv [HIB]",Amounts of different kinds of grain,Roman-Byzantine CE iii-iv [HIB],299.0,,grc,,,,False
+yale.apis.0001430000,,,,yale.apis.0001430000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0001440000,,,,yale.apis.0001440000,"Account, Roman",Names and sums of money,Roman,100.0,,grc,,,,False
+yale.apis.0001450000,,,,yale.apis.0001450000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0001460000,,,,yale.apis.0001460000,"Document, Roman",Receipt (?),Roman,100.0,,grc,,,,False
+yale.apis.0001470000,,,,yale.apis.0001470000,"Document, Roman (?)",,Roman (?),100.0,,grc,,,,False
+yale.apis.0001480000,,,,yale.apis.0001480000,"Recto, Document|Verso, Document (?), Byzantine (?)",Two separate documents are recorded on the recto and verso of this papyrus.  The recto and verso contain documents.,Byzantine (?),499.0,,grc,,,,False
+yale.apis.0001490000,,,,yale.apis.0001490000,"Document (?), Roman CE ii [HIB]",,Roman CE ii [HIB],149.0,,grc,,,,False
+yale.apis.0001500000,,,,yale.apis.0001500000,"Letter, Byzantine-Medieval CE vii [HIB]",,Byzantine-Medieval CE vii [HIB],649.0,,grc,,,,False
+yale.apis.0001510000,,,,yale.apis.0001510000,"Letter, Byzantine",,Byzantine,499.0,,grc,,,,False
+yale.apis.0001520000,,,,yale.apis.0001520000,"Recto, Contract|Verso, Account, Roman CE iii [HIB]|After CE 253-254  [RD]","Two separate documents are recorded on the recto and verso of this papyrus.  The recto preserves the end of a contract, which displays subscriptions in different hands; Valerian, Gallien and Valerian Caesar.  The verso records an account of money.",Roman CE iii [HIB] After CE 253-254  [RD],276.0,Provenance Purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001530000,381311,381311,apf;60;199_2,yale.apis.0001530000,"Document, Byzantine CE vi [HIB]",,Byzantine CE vi [HIB],549.0,Provenance Purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001540000,641997,641997,apf;61;341_11,yale.apis.0001540000,"Verso, List|Recto, Document, Byzantine CE iv [HIB]",Two separate documents are recorded on the recto and verso of this papyrus. The verso preserves a list of names with check marks alongside.  The recto is a type of document recording two texts.,Byzantine CE iv [HIB],349.0,Provenance Purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001550000,16843,16843,p.yale;1;70,yale.apis.0001550000,"Contract or petition (?), Roman CE iii (probably 229-230 [CBW]) [HIB]",Concerning lease of land,Roman CE iii (probably 229-230 [CBW]) [HIB],249.0,Provenance Purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001560000,18355,18355,sb;18;13153,yale.apis.0001560000,"Contract, Roman CE 238, Jun 20",Of lease,"Roman CE 238, Jun 20",20.0,Provenance Purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001570031,,,,yale.apis.0001570031,"Letter, Roman CE iii [HIB]",,Roman CE iii [HIB],249.0,Provenance Purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001570032,,,,yale.apis.0001570032,"Literary work (?), Byzantine CE iv [HIB]",,Byzantine CE iv [HIB],349.0,Oxyrhynchus?,grc,,,,False
+yale.apis.0001580000,,,,yale.apis.0001580000,"Account, Roman CE ii [HIB]",Two separate documents are recorded on the recto and verso of this papyrus.  The recto and verso contain accounts. The verso is an account of money.,Roman CE ii [HIB],149.0,Provenance Purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001590000,641995,641995,apf;61;337_9,yale.apis.0001590000,"Address label (?), Roman-Byzantine CE iii-iv [HIB]","""To the city councillors""",Roman-Byzantine CE iii-iv [HIB],299.0,Provenance Purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001600000,,,,yale.apis.0001600000,"Recto, first text, Contract with subscription|Recto, second text, Document (?) or Literary work (?)|Verso, Document, Roman CE iii [HIB]",The verso text may have been written much later than the recto texts.,Roman CE iii [HIB],249.0,,grc,,,,False
+yale.apis.0001610000,,,,yale.apis.0001610000,"Recto, Document (?)|Verso, Document, Roman CE iii [HIB]",Two separate documents are recorded on the recto and verso of this papyrus.  The recto and verso contain accounts. The recto is a list of taxes for year 3.  The verso is perhaps a list of taxpayers.,Roman CE iii [HIB],249.0,Provenance Written: Oxyrhynchite nome,grc,,,,False
+yale.apis.0001620000,,,,yale.apis.0001620000,"Recto, Account|Verso, Document, Byzantine CE v [HIB]",Two separate documents are recorded on the recto and verso of this papyrus.  The recto contains an account  of military imposts.  The verso appears to be a contract concerning land.,Byzantine CE v [HIB],449.0,,grc,,,,False
+yale.apis.0001634100,641999,641999,apf;61;345_13,yale.apis.0001634100,"Document, Byzantine CE v [HIB]","Names, list (?)",Byzantine CE v [HIB],449.0,,grc,,,,False
+yale.apis.0001634200,,,,yale.apis.0001634200,"Document, Byzantine CE v [HIB]",Draft,Byzantine CE v [HIB],449.0,,grc,,,,False
+yale.apis.0001640000,,,,yale.apis.0001640000,"Document, Byzantine",,Byzantine,499.0,,grc,,,,False
+yale.apis.0001650000,,,,yale.apis.0001650000,"Document, Byzantine",,Byzantine,499.0,,grc,,,,False
+yale.apis.0001660000,,,,yale.apis.0001660000,"Document, Roman-Byzantine",,Roman-Byzantine,449.0,,grc,,,,False
+yale.apis.0001670000,,,,yale.apis.0001670000,"Document, Byzantine",,Byzantine,499.0,,grc,,,,False
+yale.apis.0001680000,,,,yale.apis.0001680000,"Receipt, Roman CE ii [HIB]",For tax (?),Roman CE ii [HIB],149.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001690000,25118,25118,p.yale;1;78,yale.apis.0001690000,"Letter, Roman CE early ii [HIB, CBW]",Isidoros to Chenanoubis,"Roman CE early ii [HIB, CBW]",,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001700000,,,,yale.apis.0001700000,"Petition, Byzantine CE early-iv (ca. 303-305) [HIB]",To the Prefect of Egypt Clodius Culcianus from Aurelius Senamunis concerning the liturgy of metal workers,Byzantine CE early-iv (ca. 303-305) [HIB],312.0,Provenance Written: Cynopolite nome,grc,,,,False
+yale.apis.0001710000,16847,16847,p.yale;1;79,yale.apis.0001710000,"Letter, Roman CE iii [HIB]|Roman CE mid-ii [CBW]","Harpocras to Sarapammon, concerning bad coins",Roman CE iii [HIB] Roman CE mid-ii [CBW],249.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001720031,,,,yale.apis.0001720031,"Order, Byzantine CE iv [HIB]","For payment of grain to Heron. ""(Pay out) to [  ]rios from the 7 artabai of wheat you have from me, one artaba; NN, I authorized it. date: year lost, Epeiph 6.""",Byzantine CE iv [HIB],349.0,Medinet el-Faiyum,grc,,,,False
+yale.apis.0001720032,,,,yale.apis.0001720032,"Account, Byzantine CE iv [HIB]",,Byzantine CE iv [HIB],349.0,Medinet el-Faiyum,grc,,,,False
+yale.apis.0001730000,16848,16848,p.yale;1;83,yale.apis.0001730000,"Letter, Roman CE iii [HIB]|Roman CE ca. 200 [CBW]",Ptolemaios to Ammonas,Roman CE iii [HIB] Roman CE ca. 200 [CBW],249.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001740000,26924,26924,p.yale;1;81,yale.apis.0001740000,"Letter, Roman CE ii-iii [HIB]|Roman CE late ii [CBW]","[...] to Achilles, concerning unleased land illegally planted",Roman CE ii-iii [HIB] Roman CE late ii [CBW],199.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001750000,,,,yale.apis.0001750000,"Document, Roman-Byzantine CE 286-305",,Roman-Byzantine CE 286-305,295.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001760000,,,,yale.apis.0001760000,"Recto, Letter|Verso, Account, Roman CE iii [HIB]",Two separate documents are recorded on the recto and verso of this papyrus.,Roman CE iii [HIB],249.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001770000,27479,27479,p.yale;1;82,yale.apis.0001770000,"Letter, Roman CE late ii-early iii [HIB, CBW]",Anoubion to Flavius,"Roman CE late ii-early iii [HIB, CBW]",150.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001780000,,,,yale.apis.0001780000,"Letter, Roman",End,Roman,100.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001790000,,,,yale.apis.0001790000,Literary work (?),,,,Medinet el-Faiyum,grc,,,,False
+yale.apis.0001800000,,,,yale.apis.0001800000,"Contract, Roman",Cession of property,Roman,100.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001810000,,,,yale.apis.0001810000,"Receipt (?), Roman CE 117-118",Tomos synkolesimos; remains of another document to the left; 2nd year of Hadrian,Roman CE 117-118,117.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001820000,,,,yale.apis.0001820000,"Document, Roman-Byzantine (?)",List of goods (?),Roman-Byzantine (?),449.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001830000,,,,yale.apis.0001830000,"Account, Roman",Concerning land,Roman,100.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001840000,,,,yale.apis.0001840000,"Document, Roman (?)",,Roman (?),100.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001850000,,,,yale.apis.0001850000,"Account, Roman",,Roman,100.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001860000,,,,yale.apis.0001860000,"List, Roman",Names and abbreviations; kepha(laion?),Roman,100.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001870000,,,,yale.apis.0001870000,"Document, Roman-Byzantine (?)",Mentions a ducenarios,Roman-Byzantine (?),449.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001880000,,,,yale.apis.0001880000,"Account, Roman (CE 234-237?) [HIB]",Of taxes (?),Roman (CE 234-237?) [HIB],235.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001890000,,,,yale.apis.0001890000,"Letter, Roman CE ii-iii [HIB]","From Apia to Serapias, her mother, mentioning her brother Lukammon, a certain Techoris and a Heraklammon; the purpose of the letter is not clear, but may be an invitation to her mother.  Same people are mentioned in the parallel P.Oxy 14, 1679: Apia to Serapias",Roman CE ii-iii [HIB],199.0,Provenance Written: Oxyrhynchite nome,grc,,,,False
+yale.apis.0001900000,,,,yale.apis.0001900000,"Petition or declaration, Roman CE iii [HIB]",To the boule of a city,Roman CE iii [HIB],249.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001910000,,,,yale.apis.0001910000,"Contract, Roman CE 69","Of loan of 440 drachmas; interest rate is not preserved, perhaps without interest at all; 1st year of Otho",Roman CE 69,69.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001924100,,,,yale.apis.0001924100,"Document (?), Roman",,Roman,100.0,Medinet el-Faiyum,grc,,,,False
+yale.apis.0001924200,,,,yale.apis.0001924200,"Document, Roman",,Roman,100.0,Medinet el-Faiyum,grc,,,,False
+yale.apis.0001930000,,,,yale.apis.0001930000,"Document, Roman","Two separate documents are recorded on the recto and verso of this papyrus. The verso appears to be a much later composition, perhaps Roman-Byzantine.",Roman,100.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001940000,,,,yale.apis.0001940000,"Account, Roman CE late ii [HIB]",List of amounts of money and grain,Roman CE late ii [HIB],87.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001950000,,,,yale.apis.0001950000,"Account, Roman CE iii [HIB]",,Roman CE iii [HIB],249.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001960000,,,,yale.apis.0001960000,"Letter (?), Roman CE ii [HIB]",Concerning grain,Roman CE ii [HIB],149.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001970000,,,,yale.apis.0001970000,"Document, Roman",Account,Roman,100.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001980000,,,,yale.apis.0001980000,"Account (?), Roman","On taxes (?), l. 2: ""baphike""; l. 8: ""Oxyrhynch[ ]""",Roman,100.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0001990000,,,,yale.apis.0001990000,"Document, Roman",,Roman,100.0,Medinet el-Faiyum,grc,,,,False
+yale.apis.0002000000,,,,yale.apis.0002000000,"Letter, Roman CE iii [HIB]/ Roman CE ii-iii [CK]","Private, concerning goods needed (on a journey)",Roman CE iii [HIB]/ Roman CE ii-iii [CK],,Provenance Purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0002010000,,,,yale.apis.0002010000,"Account, Byzantine CE iv (?) [HIB]",,Byzantine CE iv (?) [HIB],349.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0002020000,,,,yale.apis.0002020000,"Document, Byzantine CE v [HIB]","Names, account (?)",Byzantine CE v [HIB],449.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0002030000,974997,974997,p.yale;4;180,yale.apis.0002030000,"Account, Byzantine CE iv [HIB]",List of spices and prices,Byzantine CE iv [HIB],349.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0002040000,,,,yale.apis.0002040000,"Account, Byzantine CE iv [HIB]",List of names and amounts in litras,Byzantine CE iv [HIB],349.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0002050000,,,,yale.apis.0002050000,"Document (?), Byzantine  [RD]",Concerning rent (?),Byzantine  [RD],549.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0002060000,,,,yale.apis.0002060000,"Contract, Roman-Byzantine  [RD]","Lease, with subscription",Roman-Byzantine  [RD],449.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0002074100,,,,yale.apis.0002074100,"Document (?), Roman",,Roman,100.0,Medinet el-Faiyum,grc,,,,False
+yale.apis.0002074200,,,,yale.apis.0002074200,"Document (?), Roman",,Roman,100.0,Medinet el-Faiyum,grc,,,,False
+yale.apis.0002084100,,,,yale.apis.0002084100,"Account, Roman CE ii [HIB]|Byzantine (?)  [RD]",List of names and other entries,Roman CE ii [HIB] Byzantine (?)  [RD],149.0,Medinet el-Faiyum,grc,,,,False
+yale.apis.0002084200,,,,yale.apis.0002084200,"Contract (?), Byzantine (?)  [RD]",Remains of erased lines,Byzantine (?)  [RD],,Medinet el-Faiyum,grc,,,,False
+yale.apis.0002090000,,,,yale.apis.0002090000,"Document (?), Roman",Fragment of contract (?) containing names of women,Roman,100.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0002100000,,,,yale.apis.0002100000,"Document, Byzantine",,Byzantine,499.0,Provenance Written: Oxyrhynchus,grc,,,,False
+yale.apis.0002110000,,,,yale.apis.0002110000,"Letter (?), Roman  [RD]",,Roman  [RD],100.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0002120000,,,,yale.apis.0002120000,"Document, Roman",,Roman,100.0,Provenance purchased: Medinet el-Faiyum,grc,,,,False
+yale.apis.0002130000,382562,382562,zpe;192;213_3,yale.apis.0002130000,"Receipt, Roman CE 226, 27 Sept.","For crown tax; Dioskoros, son of Dioskoros, pays to Aurelius Orsenouphis, the praktor for Stephanikon 4 times 4 drachmas","Roman CE 226, 27 Sept.",,"Provenance Written: Bacchias Hephaistias, Arsinoite nome",grc,,,,False
+yale.apis.0002140000,,,,yale.apis.0002140000,"Letter, Roman CE ii [HIB]",Amnaios to his father about delivery of goods,Roman CE ii [HIB],149.0,,grc,,,,False
+yale.apis.0002154100,140258,140258,zpe;161;203_2,yale.apis.0002154100,"Contract, Byzantine CE v [HIB]/ Jan-Sept 408 (or 427) [A.BEN]",Addressed to the episcopal church of Oxyrhynchus concerning a two-arorua plot of a vineyard belonging to the church.[A.BEN],Byzantine CE v [HIB]/ Jan-Sept 408 (or 427) [A.BEN],,Oxyrhynchus,grc,,,,False
+yale.apis.0002154200,133447,133447,apf;56;284_6,yale.apis.0002154200,"Account, Byzantine CE v (or later) [HIB]",List of names and numbers,Byzantine CE v (or later) [HIB],449.0,Oxyrhynchus?,grc,,,,False
+yale.apis.0002160000,,,,yale.apis.0002160000,"Contract, Roman CE i [HIB]",Of lease concerning residential property,Roman CE i [HIB],50.0,,grc,,,,False
+yale.apis.0002170000,16065,16065,sb;12;10784,yale.apis.0002170000,"Contract, Roman-Byzantine CE late iii-early iv [HIB]",The contract details the sale of one quarter of a house.,Roman-Byzantine CE late iii-early iv [HIB],300.0,,grc,,,,False
+yale.apis.0002180000,,,,yale.apis.0002180000,"Account, Roman CE iii [HIB]","Of grain; list of names, origin, and amount of grain",Roman CE iii [HIB],249.0,,grc,,,,False
+yale.apis.0002194100,25117,25117,p.yale;1;66,yale.apis.0002194100,"Contract, Roman CE late i [CBW]",Of installment payment for a house; cancelled with diagonal strokes,Roman CE late i [CBW],87.0,Oxyrhynchus,grc,,,,False
+yale.apis.0002194200,,,,yale.apis.0002194200,"Document, Roman CE ii (?)",List or account (?),Roman CE ii (?),149.0,Oxyrhynchus?,grc,,,,False
+yale.apis.0002200000,97292,97292,sb;26;16493,yale.apis.0002200000,"Order, Roman CE ii (ca. 122-123)","For grain; ""from the secretary of the gymnasiarch to the sitologoi of Seryphis (Oxyrhynchite nome) for a payment fo corn from the crop of the past 7th year of Hadrian  [HIB]",Roman CE ii (ca. 122-123),149.0,"Serypheos topoi, Oxyrhynchite nome",grc,,,,False
+yale.apis.0002210000,,,,yale.apis.0002210000,"Letter, Roman CE ii [HIB]",,Roman CE ii [HIB],149.0,,grc,,,,False
+yale.apis.0002220000,17892,17892,sb;6;9317a,yale.apis.0002220000,"Registration, Roman CE 148, Dec 1",Of inherited property (same text as P.CtYBR inv. 223 and 224),"Roman CE 148, Dec 1",1.0,Oxyrhynchus,grc,,,,False
+yale.apis.0002230000,,,,yale.apis.0002230000,"Registration, Roman CE 148, Dec 1",Of inherited property (same text as P.CtYBR inv. 222 and 224),"Roman CE 148, Dec 1",1.0,Oxyrhynchus,grc,,,,False
+yale.apis.0002240000,,,,yale.apis.0002240000,"Registration, Roman CE 148, Dec 1",Of inherited property (same text as P.CtYBR inv. 222 and 223),"Roman CE 148, Dec 1",1.0,Oxyrhynchus,grc,,,,False
+yale.apis.0002250000,17893,17893,sb;6;9317b,yale.apis.0002250000,"Registration, Roman CE 148, Dec 1",Of inherited property (same text as P.CtYBR inv. 226),"Roman CE 148, Dec 1",1.0,Oxyrhynchus,grc,,,,False
+yale.apis.0002260000,,,,yale.apis.0002260000,"Registration, Roman CE 148, Dec 1",Of inherited property (same text as P.CtYBR inv. 225),"Roman CE 148, Dec 1",1.0,Oxyrhynchus,grc,,,,False
+yale.apis.0002270000,16842,16842,p.yale;1;69,yale.apis.0002270000,"Contract, Roman CE 214, Jun 24",Of lease of two rooms of a house,"Roman CE 214, Jun 24",24.0,Oxyrhynchus,grc,,,,False
+yale.apis.0002280000,,,,yale.apis.0002280000,"Account, Byzantine CE iv [HIB]",On transport of goods by camels,Byzantine CE iv [HIB],349.0,,grc,,,,False
+yale.apis.0002290000,,,,yale.apis.0002290000,"Contract, Roman CE iii [HIB]|CE 249-250  [RD]",Of sale of grain; receipt of payment for the delivery of 37 artabas of barley,Roman CE iii [HIB] CE 249-250  [RD],249.0,,grc,,,,False
+yale.apis.0002304100,,,,yale.apis.0002304100,"Registration, Roman CE iii [HIB]",Of land,Roman CE iii [HIB],249.0,,grc,,,,False
+yale.apis.0002304200,30093,30093,sb;14;11908,yale.apis.0002304200,"Account, Roman CE late iii [HIB]/ Roman CE c. 260","List of names, occupations, and amounts; ""account of expenses, most of the payments are to vine-workers""; the column is numbered (64) [HIB]",Roman CE late iii [HIB]/ Roman CE c. 260,262.0,Oxyrhynchite Nome,grc,,,,False
+yale.apis.0002310000,974987,974987,p.yale;4;170,yale.apis.0002310000,"Contract (?), Roman CE ii [HIB]|CE 195 26, April-25 May","Of sale of land (?); with provisions concerning Ekmartyresis""; 3rd year of Septimius Severus  [HIB]","Roman CE ii [HIB] CE 195 26, April-25 May",149.0,,grc,,,,False
+yale.apis.0002320000,,,,yale.apis.0002320000,"Declaration on oath, Roman CE ii [HIB]|CE 180-189  [RD]","Composite roll of property returns; declaration of property to the bibliotheke enkteseon, landshares held individually and in share with others; concluding with an oath to the genius of the emperor; Hypographe; at left and right margins: remains of two other declarations of the same kind; year 21-29 of Kommodus",Roman CE ii [HIB] CE 180-189  [RD],149.0,,grc,,,,False
+yale.apis.0002330000,,,,yale.apis.0002330000,"Petition, Ptolemaic BCE ii [HIB]",End of a petition demanding the delivery of an ass; a phylakites is mentioned; the petitioner is probably a basilikos georgos,Ptolemaic BCE ii [HIB],-150.0,"Akanthon polis, Memphite nome",grc,,,,False
+yale.apis.0002340000,,,,yale.apis.0002340000,"Letter, Roman CE ii [HIB]",Private; greeting formulas to brothers,Roman CE ii [HIB],149.0,"Provenance Written: Philadelphia, Arsinoite nome",grc,,,,False
+yale.apis.0002350000,,,,yale.apis.0002350000,"Document, Roman CE ii [HIB]",,Roman CE ii [HIB],149.0,"Philadelphia, Arsinoite nome",lat,,,,False
+yale.apis.0002360000,,,,yale.apis.0002360000,Document (?),,,,"Philadelphia, Arsinoite nome",grc,,,,False
+yale.apis.0002370000,2974,2974,p.yale;1;51,yale.apis.0002370000,"Contract, Ptolemaic BCE 184, Apr 11",Of lease of land,"Ptolemaic BCE 184, Apr 11",11.0,"Kerkesoucha, Arsinoite nome",grc,,,,False
+yale.apis.0002380000,,,,yale.apis.0002380000,"Account, Ptolemaic [HIB]",,Ptolemaic [HIB],-349.0,"Philadelphia, Arsinoite nome",grc,,,,False
+yale.apis.0002390000,,,,yale.apis.0002390000,"Document (?), Ptolemaic [HIB]",,Ptolemaic [HIB],-349.0,"Philadelphia, Arsinoite nome",grc,,,,False
+yale.apis.0002400000,,,,yale.apis.0002400000,"Document, Byzantine",,Byzantine,499.0,,grc,,,,False
+yale.apis.0002410000,78824,78824,p.yale;1;50,yale.apis.0002410000,"Letter, Ptolemaic BCE early ii [HIB, CBW]",Official,"Ptolemaic BCE early ii [HIB, CBW]",-187.0,"Provenance Written: Philadelphia, Arsinoite nome",grc,,,,False
+yale.apis.0002420000,,,,yale.apis.0002420000,"Letter, Ptolemaic BCE iii [HIB]",Business-letter (?); mentions 100 Drachmas; sender of letter asks for reply,Ptolemaic BCE iii [HIB],-250.0,"Philadelphia, Arsinoite nome",grc,,,,False
+yale.apis.0002430000,78825,78825,p.yale;1;52,yale.apis.0002430000,"Document, Ptolemaic BCE ii [HIB]",,Ptolemaic BCE ii [HIB],-150.0,"Provenance Written: Philadelphia, Arsinoite nome",grc,,,,False
+yale.apis.0002440000,,,,yale.apis.0002440000,"Letter, Roman CE ii [HIB]",,Roman CE ii [HIB],,,grc,,,,False
+yale.apis.0002450000,,,,yale.apis.0002450000,"Recto, Account|Verso, Account, Roman CE ii [HIB]",Two separate documents are recorded on the recto and verso of this papyrus.  The recto and verso contain accounts. The recto is an account of land.,Roman CE ii [HIB],149.0,,grc,,,,False
+yale.apis.0002460000,,,,yale.apis.0002460000,"Letter, Roman CE ii [HIB]",,Roman CE ii [HIB],149.0,,grc,,,,False
+yale.apis.0002470000,,,,yale.apis.0002470000,"Registration, Roman CE ii (159-162?) [HIB]","Return to Hierax (?), strategos of Herakleidu (Meris) (CE 159-162)  [HIB]",Roman CE ii (159-162?) [HIB],149.0,Provenance Written: Arsinoite nome,grc,,,,False
+yale.apis.0002480000,,,,yale.apis.0002480000,"Document, Roman CE ii [HIB]",Upper part mentions a strategos,Roman CE ii [HIB],149.0,,grc,,,,False
+yale.apis.0002494100,,,,yale.apis.0002494100,"Receipt, Roman CE 139, May 14-Jun 18 [HIB, ROF]","Three receipts on one sheet, for payments to soldiers","Roman CE 139, May 14-Jun 18 [HIB, ROF]",,,grc,,,,False
+yale.apis.0002494200,,,,yale.apis.0002494200,Account (?),,,,,grc,,,,False
+yale.apis.0002500000,,,,yale.apis.0002500000,"Document (?), Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0002510000,,,,yale.apis.0002510000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0002520000,,,,yale.apis.0002520000,"Document, Roman CE ii [HIB]",Mentions a bank,Roman CE ii [HIB],149.0,,grc,,,,False
+yale.apis.0002530000,,,,yale.apis.0002530000,"Account, Roman",List of names and other entries concerning land cultivation,Roman,100.0,,grc,,,,False
+yale.apis.0002544100,,,,yale.apis.0002544100,"Account, Roman CE late ii [HIB]",List of names followed by land taxes in grain,Roman CE late ii [HIB],87.0,,grc,,,,False
+yale.apis.0002544200,,,,yale.apis.0002544200,Account,Concerning grain,,,,grc,,,,False
+yale.apis.0002550000,,,,yale.apis.0002550000,"Letter, Roman CE iii [HIB]","Official (?); 2 cols., formal handwriting; concerning monthly wages",Roman CE iii [HIB],249.0,,grc,,,,False
+yale.apis.0002560000,,,,yale.apis.0002560000,"Recto, Contract|Verso, Account, Roman CE ii (?) [HIB]",Two separate documents are recorded on the recto and verso of this papyrus. The recto contains a contract that deals with a loan of grain.  The verso contains an account.,Roman CE ii (?) [HIB],149.0,Provenance Writen: Apollonopolites Heptakomias,grc,,,,False
+yale.apis.0002570000,,,,yale.apis.0002570000,"Document, Roman",3rd year of (?),Roman,100.0,Provenance Written: Apollonopolites Heptakomias,grc,,,,False
+yale.apis.0002580000,,,,yale.apis.0002580000,"Document, Roman CE 126-127",,Roman CE 126-127,126.0,,grc,,,,False
+yale.apis.0002590000,,,,yale.apis.0002590000,"Document, Roman",Verso may contain an account (?),Roman,100.0,,grc,,,,False
+yale.apis.0002600000,,,,yale.apis.0002600000,"Contract, Roman",Of sale of land (?),Roman,100.0,,grc,,,,False
+yale.apis.0002610000,,,,yale.apis.0002610000,"Registration, Roman",Of a debt of grain,Roman,100.0,,grc,,,,False
+yale.apis.0002620000,,,,yale.apis.0002620000,"Document, Roman",Concerning land,Roman,100.0,,grc,,,,False
+yale.apis.0002630000,,,,yale.apis.0002630000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0002640000,,,,yale.apis.0002640000,"Recto, Account|Verso, Account, Roman-Byzantine",,Roman-Byzantine,449.0,,grc,,,,False
+yale.apis.0002650000,,,,yale.apis.0002650000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0002660000,,,,yale.apis.0002660000,Literary work (?),,,,,grc,,,,False
+yale.apis.0002670000,,,,yale.apis.0002670000,"Account, Roman [ECU]",Listing employees of a temple of Anubis (?),Roman [ECU],100.0,,egy,,,,False
+yale.apis.0002680000,,,,yale.apis.0002680000,"Document, Ptolemaic-Roman BCE late ii-CE i [ECU]",,Ptolemaic-Roman BCE late ii-CE i [ECU],-63.0,,egy,,,,False
+yale.apis.0002690000,,,,yale.apis.0002690000,Document (?),,,,,grc,,,,False
+yale.apis.0002700000,,,,yale.apis.0002700000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0002710000,,,,yale.apis.0002710000,"Account, Roman",Of names and amounts,Roman,100.0,,grc,,,,False
+yale.apis.0002720000,,,,yale.apis.0002720000,"Account, Roman",List of names with amounts of corn,Roman,100.0,,grc,,,,False
+yale.apis.0002730000,,,,yale.apis.0002730000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0002740000,,,,yale.apis.0002740000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0002750000,974979,974979,p.yale;4;161,yale.apis.0002750000,"Document, Roman","Official letter (?), declaration (?)",Roman,100.0,,grc,,,,False
+yale.apis.0002760000,,,,yale.apis.0002760000,"Document, Roman",Official letter (?),Roman,100.0,Apollonopolites Heptakomias,grc,,,,False
+yale.apis.0002770000,44705,44705,sb;26;16804,yale.apis.0002770000,"Petition, Roman CE ii (ca. 121-124?) [HIB]|Roman CE late 119-early 121[PRR]","End of a petition mentioning the convent of the prefect of Egypt, Haterius Nepos.",Roman CE ii (ca. 121-124?) [HIB] Roman CE late 119-early 121[PRR],149.0,Provenance Found: Hermopolis (by association),grc,,,,False
+yale.apis.0002780000,,,,yale.apis.0002780000,"Document, Roman",Amounts of drachmai and oboloi in copper,Roman,100.0,,grc,,,,False
+yale.apis.0002790000,,,,yale.apis.0002790000,"Document, Byzantine",,Byzantine,499.0,,grc,,,,False
+yale.apis.0002800000,,,,yale.apis.0002800000,"Recto, Document|Verso, Document, Byzantine",Two separate documents are recorded on the recto and verso of this papyrus.  The recto and verso contain documents.,Byzantine,499.0,,grc,,,,False
+yale.apis.0002810000,,,,yale.apis.0002810000,"Column i, Census return, Column ii, Census return (?), Roman CE 119, 1 July  [RD]","Column i contains information regarding a κατ΄οἰκίαν ἀπογραφή on oath, from Harpokras son of Orseus","Roman CE 119, 1 July  [RD]",,"Provenance Written: Tanyaithis (?), Apollonopolites Heptakomias",grc,,,,False
+yale.apis.0002820000,,,,yale.apis.0002820000,"Account, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0002830000,,,,yale.apis.0002830000,"Account, Roman",Names and amounts of grain (?),Roman,100.0,,grc,,,,False
+yale.apis.0002840000,,,,yale.apis.0002840000,"Account, Roman",Names preceeded by high numerals,Roman,100.0,,grc,,,,False
+yale.apis.0002850000,,,,yale.apis.0002850000,"Account, Roman",Names,Roman,100.0,,grc,,,,False
+yale.apis.0002860000,,,,yale.apis.0002860000,"Document, Roman",(A) account,Roman,100.0,,grc,,,,False
+yale.apis.0002870000,,,,yale.apis.0002870000,"Petition or declaration (?), Roman",,Roman,100.0,Provenance Written: Apollonopolites Heptakomias,grc,,,,False
+yale.apis.0002880000,,,,yale.apis.0002880000,"Document, Roman",Concerning land,Roman,100.0,,grc,,,,False
+yale.apis.0002890000,18170,18170,sb;14;11654,yale.apis.0002890000,"Registration, Roman CE 146-147",Of fallen trees,Roman CE 146-147,146.0,,grc,,,,False
+yale.apis.0002900000,,,,yale.apis.0002900000,"Contract, Roman",Of loan in money and wheat,Roman,100.0,,grc,,,,False
+yale.apis.0002910000,,,,yale.apis.0002910000,"Document (?), Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0002920000,,,,yale.apis.0002920000,"Recto, Account (?)|Verso, Account (?), Roman","Recto, Account of grain",Roman,100.0,,grc,,,,False
+yale.apis.0002930000,,,,yale.apis.0002930000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0002940000,,,,yale.apis.0002940000,"Document, Roman",Concerning land and grain,Roman,100.0,,grc,,,,False
+yale.apis.0002950000,,,,yale.apis.0002950000,"Document, Roman","Names, vegetables",Roman,100.0,,grc,,,,False
+yale.apis.0002960000,44599,44599,p.yale;3;137,yale.apis.0002960000,"Account, Roman CE 216, Aug 29- CE 217, Apr 8",List of names and land holdings for tax purposes,"Roman CE 216, Aug 29- CE 217, Apr 8",8.0,"Philadelphia, Arsinoite nome",grc,,,,False
+yale.apis.0002970000,13741,13741,p.yale;1;75,yale.apis.0002970000,"Receipt, Roman CE 176, Jun 15",For 1% and 2% customs tax,"Roman CE 176, Jun 15",15.0,"Tebtynis, Arsinoite nome",grc,,,,False
+yale.apis.0002984100,29511,29511,sb;20;15024,yale.apis.0002984100,"List, Roman CE i-ii [MIR]|Roman CE early ii [GMP]","Of workers (temple employees?) according to profession, perhaps for taxation purposes",Roman CE i-ii [MIR] Roman CE early ii [GMP],100.0,"Tebtynis, Arsinoite nome",grc,,,,False
+yale.apis.0002984200,,,,yale.apis.0002984200,Literary work,Petubastis,,,"Tebtynis, Arsinoite nome",egy,,,,False
+yale.apis.0002990000,18193,18193,sb;14;12144,yale.apis.0002990000,"Edict, Roman CE 198, Aug 29-199, Aug 29","Of the Prefect of Egypt (Q. Aemilius Saturninus?), outlawing divination and magic","Roman CE 198, Aug 29-199, Aug 29",29.0,,grc,,,,False
+yale.apis.0003000000,13742,13742,p.yale;1;76,yale.apis.0003000000,"Receipt, Roman CE 176, Jun 15",For customs tax,"Roman CE 176, Jun 15",15.0,"Tebtynis, Arsinoite nome",grc,,,,False
+yale.apis.0003010000,,,,yale.apis.0003010000,"Certificate, Roman CE 175, Sep 6-10","For labor at the embankment, penthemeros receipt","Roman CE 175, Sep 6-10",10.0,"Tebtynis, Arsinoite nome",grc,,,,False
+yale.apis.0003020000,754199,754199,aegyptus;97;50_2,yale.apis.0003020000,"Receipt, Roman CE ii [MIR]",For poll tax: Laographia,Roman CE ii [MIR],149.0,"Tebtynis (?), Arsinoite nome",grc,,,,False
+yale.apis.0003030000,,,,yale.apis.0003030000,"Certificate, Roman CE 161-180 (?) [MIR]","For labor at the embankments, penthemeros receipt",Roman CE 161-180 (?) [MIR],170.0,"Tebtynis, Arsinoite nome",grc,,,,False
+yale.apis.0003040000,,,,yale.apis.0003040000,"Receipt, Roman [MIR]",,Roman [MIR],100.0,,grc,,,,False
+yale.apis.0003054100,974985,974985,p.yale;4;168,yale.apis.0003054100,"Receipt, Roman CE 176, March 27th","For ""archeresias"" (?), paid by the nekrotaphoi to the praktores argyrikon of Tebtynis","Roman CE 176, March 27th",,"Tebtynis, Arsinoite nome",grc,,,,False
+yale.apis.0003054200,976543,976543,p.yale;4;168r,yale.apis.0003054200,"Contract (?), Roman CE i [MIR]",,Roman CE i [MIR],50.0,,grc,,,,False
+yale.apis.0003060000,,,,yale.apis.0003060000,"Receipt, Roman CE 117-138",Book of receipts for poll tax: laographia,Roman CE 117-138,127.0,"Tebtynis, Arsinoite nome",grc,,,,False
+yale.apis.0003070000,14527,14527,sb;14;11904,yale.apis.0003070000,"Petition, Roman CE ii (ca. 184 [GMP]) [MIR]","To the centurion Aurelius Antonius, from Eudaimonis, complaining about mistreatment by village elders",Roman CE ii (ca. 184 [GMP]) [MIR],149.0,"Tebtynis, Arsinoite nome",grc,,,,False
+yale.apis.0003080000,26552,26552,sb;14;11906,yale.apis.0003080000,"Letter, Roman CE i [MIR]|Roman CE ii-iii [GMP]","Zoilus to Sarapas, concerning a petition submitted to the juridicus",Roman CE i [MIR] Roman CE ii-iii [GMP],50.0,,grc,,,,False
+yale.apis.0003090000,,,,yale.apis.0003090000,"Account, Roman CE ii [MIR]",Of payments for [ep]oikion (rent) of various persons,Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0003100000,,,,yale.apis.0003100000,"Receipt, Roman CE 146-147, 23. June",For tax (?),"Roman CE 146-147, 23. June",,,grc,,,,False
+yale.apis.0003110000,41804,41804,sb;24;16054,yale.apis.0003110000,"Contract, Ptolemaic BCE 145, 3 April [RD]","Of sale of young female ass; double document, scriptura interior, titulature of eponymous priests","Ptolemaic BCE 145, 3 April [RD]",,"Tebtynis, Arsinoite nome",grc,,,,False
+yale.apis.0003120000,,,,yale.apis.0003120000,"Registration, Roman CE 98-138",Concerning land,Roman CE 98-138,118.0,,grc,,,,False
+yale.apis.0003134100,,,,yale.apis.0003134100,"Petition, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0003134200,,,,yale.apis.0003134200,"Document (?), Roman CE i (?) [ECU]",,Roman CE i (?) [ECU],50.0,,egy,,,,False
+yale.apis.0003144100,,,,yale.apis.0003144100,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0003144200,,,,yale.apis.0003144200,"Document (?), Roman BCE i-CE i [ECU]",,Roman BCE i-CE i [ECU],0.0,,egy,,,,False
+yale.apis.0003150000,,,,yale.apis.0003150000,"Literary work (?), Ptolemaic-Roman BCE late ii-CE ii [ECU]",,Ptolemaic-Roman BCE late ii-CE ii [ECU],-63.0,,egy,,,,False
+yale.apis.0003160000,,,,yale.apis.0003160000,"Document, Roman CE ii [MIR]",,Roman CE ii [MIR],149.0,"Tebtynis, Arsinoite nome",grc,,,,False
+yale.apis.0003170000,,,,yale.apis.0003170000,"Account, Roman CE ii","Of money (silver drachmas), official report, Hadrianou (month) ?",Roman CE ii,149.0,,grc,,,,False
+yale.apis.0003184100,,,,yale.apis.0003184100,"Account, Roman CE ii [MIR]",,Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0003184200,,,,yale.apis.0003184200,"Account, Roman CE ii [MIR]",,Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0003190000,,,,yale.apis.0003190000,Account,,,,,grc,,,,False
+yale.apis.0003200000,,,,yale.apis.0003200000,Document,,,,,grc,,,,False
+yale.apis.0003210000,,,,yale.apis.0003210000,Document (?),,,,,grc,,,,False
+yale.apis.0003220000,,,,yale.apis.0003220000,Document,,,,,grc,,,,False
+yale.apis.0003234100,,,,yale.apis.0003234100,"Document, Roman CE 98-117",Register of contracts,Roman CE 98-117,107.0,,grc,,,,False
+yale.apis.0003234200,,,,yale.apis.0003234200,"Literary text, Roman CE ii",Book of Thot [JQ],Roman CE ii,149.0,,egy,,,,False
+yale.apis.0003244100,14148,14148,p.bacch;;25r,yale.apis.0003244100,"Petition (?), Roman CE iii (ca. 202-204)","To the basilikos grammateus and acting strategos Kanopos Asklepiades, from the temple priests Ammonios Horos (?) and [...]",Roman CE iii (ca. 202-204),249.0,"Bacchias, Arsinoite nome",grc,,,,False
+yale.apis.0003244200,14149,14149,p.bacch;;25v,yale.apis.0003244200,"Edict, Roman CE iii, ca. 202-204 (Sep 28-Oct 28)",Of the basilikos grammateus and acting strategos [Kanopos A]sklepiades,"Roman CE iii, ca. 202-204 (Sep 28-Oct 28)",249.0,"Bacchias, Arsinoite nome",grc,,,,False
+yale.apis.0003250000,133307,133307,sb;30;17408,yale.apis.0003250000,"Contract, Byzantine [MIR]",Work contract between an estate and an overseer of a part of its domains.,Byzantine [MIR],549.0,,grc,,,,False
+yale.apis.0003260000,,,,yale.apis.0003260000,"Document, Roman CE 138-220  [RD]",(B) account or report on a loan of money with interest,Roman CE 138-220  [RD],179.0,,grc,,,,False
+yale.apis.0003274100,,,,yale.apis.0003274100,"Account, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0003274200,,,,yale.apis.0003274200,Document,,,,,grc,,,,False
+yale.apis.0003284100,,,,yale.apis.0003284100,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0003284200,,,,yale.apis.0003284200,Document,,,,,grc,,,,False
+yale.apis.0003290000,,,,yale.apis.0003290000,"Receipt, Ptolemaic BCE iii-ii, 14. year, 24. Phoaphi",For money,"Ptolemaic BCE iii-ii, 14. year, 24. Phoaphi",-200.0,,grc,,,,False
+yale.apis.0003300000,974984,974984,p.yale;4;167,yale.apis.0003300000,"Receipt, Roman CE 162, 9. May",For Phoretron; 2nd year of Antoninus and Verus,"Roman CE 162, 9. May",,,grc,,,,False
+yale.apis.0003310000,,,,yale.apis.0003310000,"Document, Roman  [RD]",,Roman  [RD],100.0,,grc,,,,False
+yale.apis.0003320000,,,,yale.apis.0003320000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0003330000,130024,130024,apf;56;278_3,yale.apis.0003330000,"Document, Roman-Byzantine [MIR] / Byzantine CE Jan.-Aug. 444 [A.BEN]",Top of Document with Consular Date.,Roman-Byzantine [MIR] / Byzantine CE Jan.-Aug. 444 [A.BEN],,Heracleopolis,grc,,,,False
+yale.apis.0003340000,,,,yale.apis.0003340000,"Document, Roman-Byzantine [MIR]",,Roman-Byzantine [MIR],449.0,,grc,,,,False
+yale.apis.0003350000,,,,yale.apis.0003350000,"Document, Roman-Byzantine [MIR]",,Roman-Byzantine [MIR],449.0,,grc,,,,False
+yale.apis.0003360000,,,,yale.apis.0003360000,"Document, Roman-Byzantine [MIR]","Christian; l. 4 mentions a Didymos monachos, a monk",Roman-Byzantine [MIR],449.0,,grc,,,,False
+yale.apis.0003370000,,,,yale.apis.0003370000,"Account, Byzantine","6th indiction, list of names and payments of Keratia through certain agents",Byzantine,499.0,"Syron (Kome), Arsinoite nome",grc,,,,False
+yale.apis.0003380000,,,,yale.apis.0003380000,"Petition (?), Roman CE ii [MIR]",From Flavia Sinth[...],Roman CE ii [MIR],149.0,Oxyrhynchus,grc,,,,False
+yale.apis.0003390000,981677,981677,basp;59;142,yale.apis.0003390000,"Account, Roman",(A) of grain,Roman,100.0,,grc,,,,False
+yale.apis.0003400000,703277,703277,basp;53;138_4,yale.apis.0003400000,"Receipt, Roman CE 24","11th year of Tiberius, for payments in money in various months",Roman CE 24,24.0,"Theadelphia, Arsinoite nome",grc,,,,False
+yale.apis.0003410000,974998,974998,p.yale;4;181,yale.apis.0003410000,"Letter, Byzantine CE v-vi [MIR]",On business affairs; Theodosios to Phoibammon the Protokometes,Byzantine CE v-vi [MIR],499.0,,grc,,,,False
+yale.apis.0003420000,,,,yale.apis.0003420000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0003430000,697599,697599,zpe;197;205_1,yale.apis.0003430000,"Contract, Roman CE ii",With Hypographe; loan (?) or sale on credit (?),Roman CE ii,149.0,"Bacchias, Arsinoite nome",grc,,,,False
+yale.apis.0003440000,14144,14144,p.bacch;;18,yale.apis.0003440000,"Receipt, Roman CE ii-iii (ca. 199)",For a receipt for an official temple report,Roman CE ii-iii (ca. 199),199.0,"Bacchias, Arsinoite nome",grc,,,,False
+yale.apis.0003450000,697600,697600,zpe;197;208_2,yale.apis.0003450000,"Receipt, Roman CE 173-174  [RD]",For payment of various persons on dike-works; priests of Bacchias,Roman CE 173-174  [RD],173.0,"Bacchias, Arsinoite nome",grc,,,,False
+yale.apis.0003460000,,,,yale.apis.0003460000,Document,,,,,grc,,,,False
+yale.apis.0003470000,,,,yale.apis.0003470000,"Document, Byzantine",,Byzantine,499.0,,grc,,,,False
+yale.apis.0003480000,14157,14157,p.bacch;;21,yale.apis.0003480000,"Copy of notification, Roman CE ii (178 or later)","Temple priests to the strategos Flavius Apollonios, introducing copies of various documents",Roman CE ii (178 or later),149.0,"Bacchias, Arsinoite nome",grc,,,,False
+yale.apis.0003490000,14145,14145,p.bacch;;19,yale.apis.0003490000,"Petition, Roman CE 171, Jun 14","To the strategos Potamon, from temple priests, requesting exemption from laboring on distant canal dikes","Roman CE 171, Jun 14",14.0,"Bacchias, Arsinoite nome",grc,,,,False
+yale.apis.0003500000,14147,14147,p.bacch;;23,yale.apis.0003500000,"Document, Roman CE 178-179",,Roman CE 178-179,178.0,"Bacchias, Arsinoite nome",grc,,,,False
+yale.apis.0003510000,14146,14146,p.bacch;;20,yale.apis.0003510000,"Court transcript, Roman CE 171, Sep 26",Temple priests appeal to the archiereus Ulpius Serenianus,"Roman CE 171, Sep 26",26.0,"Bacchias, Arsinoite nome",grc,,,,False
+yale.apis.0003520000,,65552,,yale.apis.0003520000,"Literary work, Ptolemaic BCE i [SAS]",,Ptolemaic BCE i [SAS],-50.0,,grc,,,,False
+yale.apis.0003530000,16844,16844,p.yale;1;71,yale.apis.0003530000,"Contract, Byzantine CE 456, Aug 28","Of lease of a dining room and bedroom, notarized","Byzantine CE 456, Aug 28",28.0,Oxyrhynchus,grc,,,,False
+yale.apis.0003540000,,,,yale.apis.0003540000,"Receipt, Byzantine CE 563  [RD]/ Byzantine CE 12 May 564 [BJH]",For payment of meat for monthly expenses,Byzantine CE 563  [RD]/ Byzantine CE 12 May 564 [BJH],,Oxyrhynchite nome,grc,,,,False
+yale.apis.0003550000,35047,35047,p.yale;1;72,yale.apis.0003550000,"Contract, Byzantine CE v [CBW]",Of lease of part of a house,Byzantine CE v [CBW],449.0,Oxyrhynchus,grc,,,,False
+yale.apis.0003560000,,,,yale.apis.0003560000,"Receipt, Roman CE 124-125",For barley,Roman CE 124-125,124.0,,grc,,,,False
+yale.apis.0003574100,140299,140299,zpe;171;177,yale.apis.0003574100,"Notification, Byzantine CE vi [MIR] / Byzantine CE 31 December 437 [A.BEN]",To the episkopus of the church of Oxyrhynchus about the election of a certain Epimachios,Byzantine CE vi [MIR] / Byzantine CE 31 December 437 [A.BEN],,Oxyrhynchus,grc,,,,False
+yale.apis.0003574200,,,,yale.apis.0003574200,"Document, Byzantine CE vi (?) [MIR]",,Byzantine CE vi (?) [MIR],549.0,,grc,,,,False
+yale.apis.0003584100,140208,140208,sb;30;17697,yale.apis.0003584100,"Contract, Byzantine [MIR]/ Byzantine CE vii [NG]",Sale on delivery for grain; 14th indiction,Byzantine [MIR]/ Byzantine CE vii [NG],649.0,Oxyrhynchus,grc,,,,False
+yale.apis.0003584200,,,,yale.apis.0003584200,"Christian text, Byzantine [MIR] / Byzantine CE vii [NG]","Opens with the address: ""In the name of Almighty God, I…"" [NG]",Byzantine [MIR] / Byzantine CE vii [NG],649.0,,grc,,,,False
+yale.apis.0003590000,,,,yale.apis.0003590000,"Letter, Roman CE ii-iii [MIR]","Ammon to Harpae[.?; business letter, mentioning money",Roman CE ii-iii [MIR],199.0,,grc,,,,False
+yale.apis.0003600000,,62877,,yale.apis.0003600000,"Literary work, Roman CE iii [AMH]|Roman CE ii [CBW]","Thucydides, History of the War between Athens and Sparta VII.xxxiii.6-xxxiv.2, xxxiv.8-xxxv.2, xxxvi.4-5",Roman CE iii [AMH] Roman CE ii [CBW],249.0,,grc,,,,False
+yale.apis.0003610000,14140,14140,p.bacch;;11,yale.apis.0003610000,"Letter, Roman CE 188 or 189 (Aug 28)","The temple priest Peteuris to the strategos Ammonios, to cover a list of priests and an inventory of temple property",Roman CE 188 or 189 (Aug 28),,"Bacchias, Arsinoite nome",grc,,,,False
+yale.apis.0003620000,14139,14139,p.bacch;;9,yale.apis.0003620000,"Letter, Roman CE 187, Aug 28","The temple priest Peteuris to the eklogistes, to cover a list of priests and an inventory of temple property","Roman CE 187, Aug 28",28.0,"Bacchias, Arsinoite nome",grc,,,,False
+yale.apis.0003630000,14137,14137,p.bacch;;1,yale.apis.0003630000,"Letter, Roman CE 116","The temple priests Psenatumis and Petesouchos to the basilikos grammateus, listing priests and temple property",Roman CE 116,116.0,"Bacchias, Arsinoite nome",grc,,,,False
+yale.apis.0003644100,,,,yale.apis.0003644100,"List or register, Roman CE ii [MIR]","Listing names and possessions of land, psiloi topoi, graves, houses",Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0003644200,,,,yale.apis.0003644200,"Literary work, Roman CE i-ii [ECU]|Roman CE ii [MJS]",Story of Re and Apapis,Roman CE i-ii [ECU] Roman CE ii [MJS],100.0,Tebtynis,egy,,,,False
+yale.apis.0003654100,,,,yale.apis.0003654100,"Account, Roman CE ii [MIR]","List of possessions and holdings of a man named Sarapion, son of Tothes",Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0003654231,,,,yale.apis.0003654231,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0003654232,,,,yale.apis.0003654232,"Document, Roman","Agathe Tyche, Hermes and Aphrodite",Roman,100.0,,grc,,,,False
+yale.apis.0003660000,,,,yale.apis.0003660000,"Register of several contracts, Roman CE i-ii [MIR]","Of loan; quarters of the metropolis of the Arsinoites are mentioned: ""Bithynon Isionos, Bithynon allon topon, Boytaphion""",Roman CE i-ii [MIR],100.0,"Ptolemais Euergetis, Arsinoite nome",grc,,,,False
+yale.apis.0003670000,,,,yale.apis.0003670000,"Receipt (?), Roman",For money,Roman,100.0,,grc,,,,False
+yale.apis.0003680000,,,,yale.apis.0003680000,"(A) Report (?)|(B) Account, Roman CE i [MIR]",Augustus (?),Roman CE i [MIR],50.0,,grc,,,,False
+yale.apis.0003690000,,,,yale.apis.0003690000,"Receipt, Roman CE 164-165","Marcus Aurelius and Verus, year 4",Roman CE 164-165,164.0,,grc,,,,False
+yale.apis.0003700000,,,,yale.apis.0003700000,"Contract, Roman CE 177-78  [RD]","Homology, in Ptole[mai-?]",Roman CE 177-78  [RD],127.0,Ptolemais (?),grc,,,,False
+yale.apis.0003710000,,,,yale.apis.0003710000,"List, Roman","Names and entries of various kind: land, building; perhaps sureties for loans",Roman,100.0,,grc,,,,False
+yale.apis.0003720000,,,,yale.apis.0003720000,"Account, Roman","Private (?) account, list of expenses in money on certain days (?)",Roman,100.0,,grc,,,,False
+yale.apis.0003730000,,,,yale.apis.0003730000,"Account, Roman",Of grain,Roman,100.0,,grc,,,,False
+yale.apis.0003740000,,,,yale.apis.0003740000,"Document, Roman",Year 22,Roman,100.0,,grc,,,,False
+yale.apis.0003750000,754198,754198,aegyptus;97;49_1,yale.apis.0003750000,"Receipt, Roman",For laographia,Roman,100.0,,grc,,,,False
+yale.apis.0003760000,,,,yale.apis.0003760000,"Receipt, Roman",For rent. Aurelios and another Aurelios recieved from the farmer Aurelios Didymos rent for the land around Syron (Kome?),Roman,100.0,Syron (Kome) (?),grc,,,,False
+yale.apis.0003770000,25116,25116,p.yale;1;62,yale.apis.0003770000,"Summons, Roman CE ii-iii (ca. 200) [CBW]|CE i [U.Hagedorn]",Served on Onnophris,Roman CE ii-iii (ca. 200) [CBW] CE i [U.Hagedorn],199.0,"Tebtynis, Arsinoite nome",grc,,,,False
+yale.apis.0003780000,15184,15184,p.bacch;;7,yale.apis.0003780000,"List, Roman CE ii [MIR]",Of temple property,Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0003790000,15184,15184,basp;53;196_1,yale.apis.0003790000,"Account, Byzantine [MIR];|CE vii (?) [RD]",,Byzantine [MIR]; CE vii (?) [RD],549.0,,grc,,,,False
+yale.apis.0003800000,,,,yale.apis.0003800000,Document,,,,,grc,,,,False
+yale.apis.0003810000,,,,yale.apis.0003810000,"Document, Roman",(A) account,Roman,100.0,,grc,,,,False
+yale.apis.0003820000,,,,yale.apis.0003820000,"Account, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0003830000,,,,yale.apis.0003830000,"Account, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0003840000,,,,yale.apis.0003840000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0003850000,,,,yale.apis.0003850000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0003860000,,,,yale.apis.0003860000,"Register of contracts (?), Roman","See 366, of which this papyrus may be a part",Roman,100.0,"Ptolemais Euergetis, Arsinoite nome",grc,,,,False
+yale.apis.0003870000,,,,yale.apis.0003870000,"Letter or receipt (?), Roman CE ii-iii [MIR]","Cheirographon, receipt for money",Roman CE ii-iii [MIR],199.0,,grc,,,,False
+yale.apis.0003880000,,,,yale.apis.0003880000,"Contract, Roman CE 53, Aug.-Sept.",Draft of the beginning of a contract of loan,"Roman CE 53, Aug.-Sept.",,Oxyrhynchus,grc,,,,False
+yale.apis.0003894100,,,,yale.apis.0003894100,"Petition (?), Roman CE i [MIR] (?)",,Roman CE i [MIR] (?),50.0,,grc,,,,False
+yale.apis.0003894200,,,,yale.apis.0003894200,"Copy of a petition (?), Roman CE i [MIR]",,Roman CE i [MIR],50.0,,grc,,,,False
+yale.apis.0003904100,,,,yale.apis.0003904100,"Petition or declaration, Roman CE 279-280",Year 5 of Probus,Roman CE 279-280,279.0,Oxyrhynchus,grc,,,,False
+yale.apis.0003904200,,,,yale.apis.0003904200,"Account, Roman CE iii, after 280",,"Roman CE iii, after 280",249.0,,grc,,,,False
+yale.apis.0003910000,,,,yale.apis.0003910000,"Receipt, Roman CE ii [MIR]",For money,Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0003920000,,,,yale.apis.0003920000,"Receipt, Roman CE ii [MIR];|CE 147-48 (?) [RD]",11th year of Antoninus Pius (?),Roman CE ii [MIR]; CE 147-48 (?) [RD],149.0,"Bacchias, Arsinoite nome",grc,,,,False
+yale.apis.0003934100,,,,yale.apis.0003934100,"Report of the exegetai, Roman CE i [MIR],|CE iii [RD]",To the city counsel of Oxyrhynchos on expenses of magistrates,"Roman CE i [MIR], CE iii [RD]",50.0,Oxyrhynchus,grc,,,,False
+yale.apis.0003934200,,,,yale.apis.0003934200,"Document, Roman CE i [MIR]",,Roman CE i [MIR],50.0,,grc,,,,False
+yale.apis.0003940000,,,,yale.apis.0003940000,Document,,,,,grc,,,,False
+yale.apis.0003950000,,,,yale.apis.0003950000,"Declaration (?), Roman",Of (non ?)inundated land,Roman,100.0,,grc,,,,False
+yale.apis.0003960000,,,,yale.apis.0003960000,"Document, Roman-Byzantine",,Roman-Byzantine,449.0,,grc,,,,False
+yale.apis.0003970000,,,,yale.apis.0003970000,"Document, Byzantine",,Byzantine,499.0,,grc,,,,False
+yale.apis.0003980000,,,,yale.apis.0003980000,Document (?),,,,,grc,,,,False
+yale.apis.0003990000,,,,yale.apis.0003990000,"Receipt, Roman CE 153-154 [RD]",Tax receipt for various entries in several months (and probably several years ?),Roman CE 153-154 [RD],153.0,,grc,,,,False
+yale.apis.0004000000,,,,yale.apis.0004000000,"Account, Roman-Byzantine CE iv (?)","Of debts of various people on behalf of taxes on their farm land, both in kind (grain, barley, grass or hay, vegetables) and in money",Roman-Byzantine CE iv (?),349.0,,grc,,,,False
+yale.apis.0004010000,,,,yale.apis.0004010000,Document (?),,,,,grc,,,,False
+yale.apis.0004020000,,,,yale.apis.0004020000,Document (?),,,,,grc,,,,False
+yale.apis.0004030000,,,,yale.apis.0004030000,Document (?),,,,,grc,,,,False
+yale.apis.0004040000,,,,yale.apis.0004040000,Document,,,,,grc,,,,False
+yale.apis.0004050000,,,,yale.apis.0004050000,Document (?),,,,,grc,,,,False
+yale.apis.0004060000,,,,yale.apis.0004060000,Document (?),,,,,grc,,,,False
+yale.apis.0004070000,,,,yale.apis.0004070000,Document,,,,,grc,,,,False
+yale.apis.0004080000,,,,yale.apis.0004080000,Document (?),,,,,grc,,,,False
+yale.apis.0004090000,13739,13739,p.yale;1;67,yale.apis.0004090000,"Contract, Roman CE 31, Jan-Feb",Of lease of land,"Roman CE 31, Jan-Feb",,"Tebtynis, Arsinoite nome",grc,,,,False
+yale.apis.0004104100,,,,yale.apis.0004104100,"Letter or notification, Roman-Byzantine","Official letter with orders to the archephodos, from the ""archontes tes Katasporas"", to bring the ""Katasporeus"" and the most important people of the village",Roman-Byzantine,449.0,"Phtochis, Oxyrhynchite nome",grc,,,,False
+yale.apis.0004104200,,,,yale.apis.0004104200,"Account, Roman-Byzantine","On certain kinds of land, list of names grouped under the heading: Choiak, 7th",Roman-Byzantine,449.0,Oxyrhynchite nome,grc,,,,False
+yale.apis.0004110000,974978,974978,p.yale;4;160,yale.apis.0004110000,"Petition or declaration, Roman CE i [MIR]|Roman CE 98-117 (?) [SLE]","To the basilikos grammateus Julius Aulus, from [...]nesis and Pakebkis about newly inundated land (pleonasma)",Roman CE i [MIR] Roman CE 98-117 (?) [SLE],50.0,"Tebtynis, Arsinoite nome",grc,,,,False
+yale.apis.0004120000,,,,yale.apis.0004120000,"Document, Roman CE iii [MIR]","End of a document with a subscription in a clumsy hand, (autograph) ""A]urelios Lu[c...""",Roman CE iii [MIR],249.0,,grc,,,,False
+yale.apis.0004130000,32945,32945,sb;14;11857,yale.apis.0004130000,"Contract, Roman-Byzantine CE iii-iv [MIR]|Byzantine CE iv-v [GMP]",,Roman-Byzantine CE iii-iv [MIR] Byzantine CE iv-v [GMP],299.0,,grc,,,,False
+yale.apis.0004144100,26784,26784,sb;12;11156,yale.apis.0004144100,"List, Roman CE i-ii [MIR]","Of names of temple priests, including ancestors and ages",Roman CE i-ii [MIR],100.0,"Tebtynis, Arsinoite nome",grc,,,,False
+yale.apis.0004144200,,,,yale.apis.0004144200,"Literary work, Roman CE i-ii [ECU]",Religious poetry,Roman CE i-ii [ECU],100.0,"Tebtynis, Arsinoite nome",egy,,,,False
+yale.apis.0004150000,,61858,,yale.apis.0004150000,"Literary work, Roman CE late iii [KWC]|Roman CE iii [GM, BMM]|Roman CE early iii [CHK, CBW, WHPH]","Bible, Ephesians 4:16-29, 4:31-5:13","Roman CE late iii [KWC] Roman CE iii [GM, BMM] Roman CE early iii [CHK, CBW, WHPH]",287.0,,grc,,,,False
+yale.apis.0004160000,14528,14528,sb;14;11907,yale.apis.0004160000,"Receipt, Roman CE 239, Jan 28",,"Roman CE 239, Jan 28",28.0,"Ptolemais Euergetis, Arsinoite nome",grc,,,,False
+yale.apis.0004170000,16841,16841,p.yale;1;65,yale.apis.0004170000,"Receipt, Roman CE 138-161|Roman CE ca. 141-144 [RSB]",Of a new loan agreement rescheduling an earlier loan.,Roman CE 138-161 Roman CE ca. 141-144 [RSB],149.0,Oxyrhynchus,grc,,,,False
+yale.apis.0004184100,974972,974972,p.yale;4;154r,yale.apis.0004184100,"List, Roman CE i [MIR]",Of names,Roman CE i [MIR],50.0,,grc,,,,False
+yale.apis.0004184200,976541,976541,p.yale;4;154v,yale.apis.0004184200,"Account, Roman CE i [MIR]",Of money,Roman CE i [MIR],50.0,,grc,,,,False
+yale.apis.0004190000,,61924,,yale.apis.0004190000,"Literary work, Roman CE mid-iii [WHPH]|Roman CE ca. 90 [CBW]|Roman CE late i-early ii [CHR]|Roman CE ca. 100 [EGT]|Roman CE late ii (?) [TCS]|Roman CE ii [CHR]|Roman CE ii-iii, perhaps iii [EGT]|Roman CE late ii at the earliest [CHR]|Roman CE late ii [BMM]","Bible, Genesis 14:5-8, 14:12-15","Roman CE mid-iii [WHPH] Roman CE ca. 90 [CBW] Roman CE late i-early ii [CHR] Roman CE ca. 100 [EGT] Roman CE late ii (?) [TCS] Roman CE ii [CHR] Roman CE ii-iii, perhaps iii [EGT] Roman CE late ii at the earliest [CHR] Roman CE late ii [BMM]",262.0,,grc,,,,False
+yale.apis.0004204100,,63125,,yale.apis.0004204100,"Literary work, Roman CE i [CBW]",Trojan mythology,Roman CE i [CBW],50.0,Oxyrhynchus,grc,,,,False
+yale.apis.0004204200,,,,yale.apis.0004204200,"Account, Roman BCE late i [MIR]",Of money,Roman BCE late i [MIR],-13.0,Oxyrhynchus,grc,,,,False
+yale.apis.0004210000,,,,yale.apis.0004210000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0004224100,,,,yale.apis.0004224100,"Register, Roman CE i [MIR]|CE II [RD]","Of extracted contracts, arranged according to the names of the contractors; one contracting party is originated in Kerkesoucha Orous",Roman CE i [MIR] CE II [RD],50.0,"Kerkesoucha Orous (?), Arsinoite nome",grc,,,,False
+yale.apis.0004224200,,,,yale.apis.0004224200,"Literary work, Roman [ECU]","(1) Concerning the discovery of a book of astrological wisdom, (2) other text in Demotic not identified",Roman [ECU],100.0,,egy,,,,False
+yale.apis.0004230000,,,,yale.apis.0004230000,"List, Roman CE i [MIR]","Of names with fathers', grandfathers', and mothers' names",Roman CE i [MIR],50.0,,grc,,,,False
+yale.apis.0004244100,,,,yale.apis.0004244100,"Account, Roman CE iii [MIR]",List of names with checking marks; various entries for several years (?),Roman CE iii [MIR],249.0,,grc,,,,False
+yale.apis.0004244200,,,,yale.apis.0004244200,"Drawing, Roman CE iii (?) [MIR]",Of a man on horseback,Roman CE iii (?) [MIR],249.0,,,,,,False
+yale.apis.0004254100,,,,yale.apis.0004254100,"Account, Roman CE ii [MIR]","Names, totals of arurai and amounts of grain",Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0004254200,,,,yale.apis.0004254200,"Literary work, Roman [UCB]|Roman CE ii [MJS]",Story of Re and Apapis,Roman [UCB] Roman CE ii [MJS],100.0,Tebtynis,egy,,,,False
+yale.apis.0004264100,,,,yale.apis.0004264100,"Account, Roman CE ii [MIR]","List of names, with entries of money",Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0004264231,,,,yale.apis.0004264231,"Account, Roman CE ii-iii [MIR]",,Roman CE ii-iii [MIR],199.0,,grc,,,,False
+yale.apis.0004264232,,,,yale.apis.0004264232,"Document, Roman CE ii-iii [MIR]",,Roman CE ii-iii [MIR],199.0,,grc,,,,False
+yale.apis.0004264233,,,,yale.apis.0004264233,"Account, Roman CE ii-iii [MIR]",,Roman CE ii-iii [MIR],,,grc,,,,False
+yale.apis.0004270000,,,,yale.apis.0004270000,"Letter, Byzantine",Receipt (?),Byzantine,499.0,Hermopolis (?),cop,,,,False
+yale.apis.0004280000,,,,yale.apis.0004280000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0004290000,,,,yale.apis.0004290000,"Contract, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0004300000,,,,yale.apis.0004300000,"Document, Byzantine",,Byzantine,499.0,,grc,,,,False
+yale.apis.0004314100,,,,yale.apis.0004314100,"Contract, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0004314200,,,,yale.apis.0004314200,"Account, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0004320000,,,,yale.apis.0004320000,Document (?),,,,,grc,,,,False
+yale.apis.0004330000,,,,yale.apis.0004330000,Document (?),,,,,grc,,,,False
+yale.apis.0004340000,,,,yale.apis.0004340000,"Contract, Roman CE i [MIR]",Sale of a female donkey with name Isodora,Roman CE i [MIR],50.0,Arsinoite nome,grc,,,,False
+yale.apis.0004354100,,,,yale.apis.0004354100,"Document, Roman CE ii [MIR]",,Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0004354200,,,,yale.apis.0004354200,"Document, Roman CE ii [MIR]",,Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0004360000,,,,yale.apis.0004360000,"Petition (?), Roman-Byzantine",,Roman-Byzantine,449.0,Oxyrhynchite nome,grc,,,,False
+yale.apis.0004370000,,,,yale.apis.0004370000,"Petition, Byzantine CE vi [MIR]",,Byzantine CE vi [MIR],549.0,,grc,,,,False
+yale.apis.0004380000,,,,yale.apis.0004380000,"Contract, Roman BCE 9., Jan. (?)  [RD]",Donatio mortis causa; Taarmiysis declares that after her death all her belongings and possessions should go to her sister Tereesis,"Roman BCE 9., Jan. (?)  [RD]",,Oxyrhynchus,grc,,,,False
+yale.apis.0004390000,,,,yale.apis.0004390000,"Register on taxation, Roman CE early-i (?)","Part of a tax (?) list; names, personal descriptions, tax-status",Roman CE early-i (?),,,grc,,,,False
+yale.apis.0004400000,,,,yale.apis.0004400000,"Account, Roman BCE i-CE i [ECU]",,Roman BCE i-CE i [ECU],0.0,,egy,,,,False
+yale.apis.0004410000,,,,yale.apis.0004410000,"Document, Byzantine",,Byzantine,499.0,,grc,,,,False
+yale.apis.0004420000,,,,yale.apis.0004420000,Document (?),,,,,grc,,,,False
+yale.apis.0004430000,16229,16229,c.pap.gr;2.1;8,yale.apis.0004430000,"Registration, Roman CE 83, Aug [GMP]|Roman CE 55, Aug 29-56, Aug 29 [AM]",Of a death,"Roman CE 83, Aug [GMP] Roman CE 55, Aug 29-56, Aug 29 [AM]",,Oxyrhynchus,grc,,,,False
+yale.apis.0004440000,,,,yale.apis.0004440000,"Account, Roman CE ii [MIR]","(A) Names, portions of land and revenues or taxes deriving from it",Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0004450000,27815,27815,sb;6;9458,yale.apis.0004450000,"Petition, Roman CE ii (ca. 187-190 [CBW]) [MIR]",,Roman CE ii (ca. 187-190 [CBW]) [MIR],149.0,"Tebtynis, Arsinoite nome",grc,,,,False
+yale.apis.0004464100,79301,79301,sb;24;16085,yale.apis.0004464100,"List, Roman CE i (ca. 9-12)",Of names,Roman CE i (ca. 9-12),50.0,Mendes; Delta-region,grc,,,,False
+yale.apis.0004464200,,63207,,yale.apis.0004464200,"Literary work, Roman CE mid-i  [HMH]",Grammatical work (perhaps an epitome of a treatise by Camanus),Roman CE mid-i  [HMH],62.0,,grc,,,,False
+yale.apis.0004470000,30814,30814,sb;14;11349,yale.apis.0004470000,"Letter, Roman CE iii [GMP]","A superior to nome strategoi, concerning the maintenance of dikes and canals",Roman CE iii [GMP],249.0,,grc,,,,False
+yale.apis.0004484100,,,,yale.apis.0004484100,"Letter, Roman CE iii [MIR] (?)",Copy of letters,Roman CE iii [MIR] (?),249.0,,grc,,,,False
+yale.apis.0004484200,,,,yale.apis.0004484200,"Account, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0004490000,,,,yale.apis.0004490000,"Petition, hypomnema, Roman",Concerning land,Roman,100.0,,grc,,,,False
+yale.apis.0004500000,,,,yale.apis.0004500000,"Account (?) or hypomnema (?), Roman CE iii [MIR]",,Roman CE iii [MIR],249.0,,grc,,,,False
+yale.apis.0004510000,,,,yale.apis.0004510000,Document,,,,,grc,,,,False
+yale.apis.0004524100,,,,yale.apis.0004524100,"Account, Roman  [RD]","List of names with checking marks before the line, followed by various entries: payments in kind for misthosis (rent) and remaining debts",Roman  [RD],100.0,,grc,,,,False
+yale.apis.0004524200,,,,yale.apis.0004524200,"Account, Roman  [RD]",,Roman  [RD],100.0,,grc,,,,False
+yale.apis.0004534100,,,,yale.apis.0004534100,"Document, Roman CE ii [MIR]",Register of extracted contracts,Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0004534200,,91340,,yale.apis.0004534200,"Literary work, Roman CE ii [MIR]",Astrological or astronomical hand book (?),Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0004540000,,,,yale.apis.0004540000,"Document, Roman CE 200-211  [RD]","Septimius Severus, Caracalla and Geta, years 9-19",Roman CE 200-211  [RD],205.0,,grc,,,,False
+yale.apis.0004550000,,,,yale.apis.0004550000,"Account, Roman",List of names followed by amounts of money (tax payment ?); checking marks before the names,Roman,100.0,,grc,,,,False
+yale.apis.0004564131,974983,974983,p.yale;4;165,yale.apis.0004564131,"List, Roman CE 155-156",Of names,Roman CE 155-156,155.0,Arsinoite nome,grc,,,,False
+yale.apis.0004564132,974983,974983,p.yale;4;165,yale.apis.0004564132,"List, Roman CE 155-156  [RD]",Of names,Roman CE 155-156  [RD],155.0,Arsinoite nome,grc,,,,False
+yale.apis.0004564231,974983,974983,p.yale;4;165,yale.apis.0004564231,"Account, Roman CE 155-156  [RD]",,Roman CE 155-156  [RD],155.0,Arsinoite nome,grc,,,,False
+yale.apis.0004564232,974983,974983,p.yale;4;165,yale.apis.0004564232,"List, Roman CE 155-156  [RD]",Of names,Roman CE 155-156  [RD],155.0,Arsinoite nome,grc,,,,False
+yale.apis.0004574100,,61190,,yale.apis.0004574100,"Literary work, Roman BCE i-CE i [CBW]","Homer, Iliad VI.232-249",Roman BCE i-CE i [CBW],0.0,,grc,,,,False
+yale.apis.0004574200,,65554,,yale.apis.0004574200,"Literary work, Ptolemaic BCE i [CBW]",Fragment of Herodas Mime 2.69-83,Ptolemaic BCE i [CBW],-50.0,,grc,,,,False
+yale.apis.0004580000,25319,25319,sb;14;11347,yale.apis.0004580000,"Document, Roman CE ii [GMP]|Roman CE early i (14-37?) [JDT]","Concerning an activity of the pastophoroi, perhaps an edict or a legal report or speech",Roman CE ii [GMP] Roman CE early i (14-37?) [JDT],149.0,,grc,,,,False
+yale.apis.0004590000,,,,yale.apis.0004590000,"Document (?) or literary work (?), Roman (?)",All lines wiped out,Roman (?),100.0,,grc,,,,False
+yale.apis.0004600000,,,,yale.apis.0004600000,"Account, Byzantine [MIR]",,Byzantine [MIR],549.0,,grc,,,,False
+yale.apis.0004610000,703286,703286,basp;53;208_2,yale.apis.0004610000,"Account, Byzantine [MIR]",,Byzantine [MIR],549.0,,grc,,,,False
+yale.apis.0004620000,,,,yale.apis.0004620000,"Document, Roman",(A) petition (?),Roman,100.0,,grc,,,,False
+yale.apis.0004630000,,,,yale.apis.0004630000,Document (?),,,,,grc,,,,False
+yale.apis.0004640000,,,,yale.apis.0004640000,Document (?),,,,,grc,,,,False
+yale.apis.0004650000,,,,yale.apis.0004650000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0004660000,,,,yale.apis.0004660000,"Letter (?) or list (?), Byzantine","Apa Abraham, more names",Byzantine,499.0,,cop,,,,False
+yale.apis.0004670000,,,,yale.apis.0004670000,"Document, Roman",Declaration (?) or contract (?),Roman,100.0,,grc,,,,False
+yale.apis.0004680000,45401,45401,sb;24;16013,yale.apis.0004680000,"Census return, Roman CE 132-133  [RD]","Katoikian Apographe to Ptolemaios, the royal scribe of the Arsinoite nome by Herakleides alias Valerius II, known from the Tebtynis family archive (P.Tebt.Fam.)",Roman CE 132-133  [RD],132.0,"Tebtynis, Arsinoite nome",grc,,,,False
+yale.apis.0004694100,,,,yale.apis.0004694100,"Document, Roman",(A) account,Roman,100.0,,grc,,,,False
+yale.apis.0004694200,,,,yale.apis.0004694200,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0004704100,,,,yale.apis.0004704100,"List, Roman",Of names (?),Roman,100.0,,grc,,,,False
+yale.apis.0004704200,,,,yale.apis.0004704200,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0004710000,,,,yale.apis.0004710000,Document (?),,,,,grc,,,,False
+yale.apis.0004720000,,,,yale.apis.0004720000,Document (?),,,,,grc,,,,False
+yale.apis.0004730000,,,,yale.apis.0004730000,Document (?),,,,,grc,,,,False
+yale.apis.0004740000,,,,yale.apis.0004740000,Document (?),,,,,grc,,,,False
+yale.apis.0004750000,,,,yale.apis.0004750000,"Contract (?), Roman",(A) offer for rent,Roman,100.0,,grc,,,,False
+yale.apis.0004760000,,,,yale.apis.0004760000,"Document, Roman",2 receipts (?),Roman,100.0,,grc,,,,False
+yale.apis.0004770000,,,,yale.apis.0004770000,"Document, Roman",,Roman,100.0,Arsinoite nome,grc,,,,False
+yale.apis.0004780000,,,,yale.apis.0004780000,"Account, Byzantine","Of expenses or payments made on certain days; names, payments for sums (of money ?); names: Paulos, Elia (Symmachos), Phoibammon, Sarap., for wine and ""arabikes"" (?)",Byzantine,499.0,,grc,,,,False
+yale.apis.0004794100,,,,yale.apis.0004794100,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0004794200,,,,yale.apis.0004794200,"Account, Roman-Byzantine",Payments made on several days in the month Tybi,Roman-Byzantine,449.0,,grc,,,,False
+yale.apis.0004800000,,,,yale.apis.0004800000,Document (?),,,,,grc,,,,False
+yale.apis.0004810000,,,,yale.apis.0004810000,"Document, Roman","(B) account, payments in money",Roman,100.0,,grc,,,,False
+yale.apis.0004820000,,,,yale.apis.0004820000,"Document, Roman",(A) list of names,Roman,100.0,,grc,,,,False
+yale.apis.0004834100,,,,yale.apis.0004834100,"List, Roman","Of names, each entry separated by a line",Roman,100.0,,grc,,,,False
+yale.apis.0004834200,,,,yale.apis.0004834200,"Document (?), Ptolemaic-Roman BCE late ii-CE i [ECU]  (?)",,Ptolemaic-Roman BCE late ii-CE i [ECU]  (?),-63.0,,grc,,,,False
+yale.apis.0004844100,,,,yale.apis.0004844100,"List, Roman [ECU]",Of names,Roman [ECU],100.0,,grc,,,,False
+yale.apis.0004844200,,,,yale.apis.0004844200,"Document, Roman [ECU]",Perhaps a contract of marriage,Roman [ECU],100.0,,egy,,,,False
+yale.apis.0004850000,,,,yale.apis.0004850000,"Letter (?) or petition (?), Roman-Byzantine",Concerning liturgies,Roman-Byzantine,449.0,,grc,,,,False
+yale.apis.0004860000,,,,yale.apis.0004860000,"Receipt, Roman CE ii (?) [MIR]",,Roman CE ii (?) [MIR],149.0,,grc,,,,False
+yale.apis.0004870000,,,,yale.apis.0004870000,"Contract, Roman CE ii [MIR]",,Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0004880000,,65066,,yale.apis.0004880000,"Literary work, Byzantine CE vi [HMH]",Christian liturgy (opening hymns of the midnight prayer),Byzantine CE vi [HMH],549.0,,grc,,,,False
+yale.apis.0004890000,,60607,,yale.apis.0004890000,"Literary work, Roman CE early ii [MIR, CBW]","Homer, Iliad I.361-393","Roman CE early ii [MIR, CBW]",,,grc,,,,False
+yale.apis.0004900000,16400,16400,p.yale;1;68,yale.apis.0004900000,"Contract, Roman CE 204, Nov 16",Of loan and of lease,"Roman CE 204, Nov 16",16.0,Oxyrhynchite nome,grc,,,,False
+yale.apis.0004910000,16839,16839,p.yale;1;63,yale.apis.0004910000,"Receipt, Roman CE 64, Jul 7",For repayment of a loan of money,"Roman CE 64, Jul 7",7.0,Oxyrhynchus,grc,,,,False
+yale.apis.0004920000,,,,yale.apis.0004920000,"Declaration on oath, Roman CE 104, Dec. 3  [RD]","By Thedesis, son of Imoythes, to Herakleides (?), concerning land inherited from the father; autograph by Thedesis in the last 3 lines; year 8 Traianus, Choiak, 7th","Roman CE 104, Dec. 3  [RD]",,Oxyrhynchite nome,grc,,,,False
+yale.apis.0004934100,,,,yale.apis.0004934100,"Petition (?), Roman CE i [MIR]",Concerning orphans,Roman CE i [MIR],50.0,,grc,,,,False
+yale.apis.0004934200,,,,yale.apis.0004934200,"Document, Roman CE i [MIR]",Account (?),Roman CE i [MIR],50.0,,grc,,,,False
+yale.apis.0004940000,5539,5539,p.yale;1;55,yale.apis.0004940000,"Letter, Ptolemaic BCE 107, Aug 6 [CBW]","Diodoros to Dionysios, concerning grain collection","Ptolemaic BCE 107, Aug 6 [CBW]",,,grc,,,,False
+yale.apis.0004950000,,,,yale.apis.0004950000,"Report, Roman CE ii [MIR]",Concerning description and evaluation of land (psiloi topoi),Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0004960000,,,,yale.apis.0004960000,"Account, Roman CE iii [MIR]","Entries with names, checking marks, amounts of money, bank transactions",Roman CE iii [MIR],249.0,,grc,,,,False
+yale.apis.0004970000,,,,yale.apis.0004970000,"Contract, Roman CE ii [MIR], i cent. (?)","Of sale (?) of a house and uncultivated land, with hypographe (?)","Roman CE ii [MIR], i cent. (?)",149.0,,grc,,,,False
+yale.apis.0004984100,,,,yale.apis.0004984100,"Account, Roman CE ii [MIR]","List of names, two times with entries of amounts of money (?)",Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0004984200,,,,yale.apis.0004984200,"Account, Roman CE iii [MIR]","List of names, entries of uncertain character",Roman CE iii [MIR],249.0,,grc,,,,False
+yale.apis.0004990000,79118,79118,sb;22;15627,yale.apis.0004990000,"Order for payment, Byzantine CE 398, Oct. 8  [RD]","From Ptoleminos to Parakleios, a clerk, to pay for oinokreas (tax assessment, annona militaris) 25 nomismatia in gold to the ""optio"" Dionysios","Byzantine CE 398, Oct. 8  [RD]",,Oxyrhynchite nome,grc,,,,False
+yale.apis.0005000000,115779,115779,sb;30;17671,yale.apis.0005000000,"Contract, Roman CE iii [MIR]|Byzantine CE 25 Feb 599 [A.BEN]",Sale on delivery for vegetable seeds,Roman CE iii [MIR] Byzantine CE 25 Feb 599 [A.BEN],,Oxyrhynchus,grc,,,,False
+yale.apis.0005010000,16838,16838,p.yale;1;60,yale.apis.0005010000,"Contract, Roman BCE 6-5","Of loan of money, later canceled; interest rate is not mentioned;  Homology between Dionysios Chairemon and Gaius Julius Carus, a discharged cavalryman",Roman BCE 6-5,-1.0,Oxyrhynchus,grc,,,,False
+yale.apis.0005020031,,,,yale.apis.0005020031,"Account, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0005020032,,,,yale.apis.0005020032,"Letter, Roman CE ii [MIR]","To Theon, on business affairs",Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0005030000,,,,yale.apis.0005030000,"Account, receipt (?), Byzantine CE v [MIR]",List of three payments through agents,Byzantine CE v [MIR],449.0,,grc,,,,False
+yale.apis.0005044100,45402,45402,sb;24;16014,yale.apis.0005044100,"Census return, Roman CE 188-89  [RD]","Draft of a katoikian-apographe, by a woman named Sarapia from Tebtynis; she declares to possess one half of a house, yard, and a room in Tebtynis, and to live there with two daughters",Roman CE 188-89  [RD],138.0,"Tebtynis, Arsinoite nome",grc,,,,False
+yale.apis.0005044231,,,,yale.apis.0005044231,"Report, Roman CE ii [MIR]","Official, on land, which has been driven away through the nile-flood; mentions an edict of the prefect of Egypt, Vibius Maximus.",Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0005044232,,,,yale.apis.0005044232,"Account, Roman CE ii (?) [MIR]",Names and amounts of money,Roman CE ii (?) [MIR],149.0,,grc,,,,False
+yale.apis.0005054100,764729,764729,chiron;48;55_1,yale.apis.0005054100,"Petition, Roman CE ii [MIR]",To the prefect of Egypt concerning officials who are accused of behaving wrongly against veterans and their sons; mentioned is an earlier decision of Sempronius Liberalis about duties of officials,Roman CE ii [MIR],149.0,Alexandria (?),grc,,,,False
+yale.apis.0005054200,764730,764730,chiron;48;63_2,yale.apis.0005054200,"Petition, Roman CE ii [MIR]","To the prefect or the epistrategos, concerning money distributed to various officials of the town council financing the games for a festival; mentioning an earlier decision of Sempronius Liberalis",Roman CE ii [MIR],149.0,Alexandria (?),grc,,,,False
+yale.apis.0005060000,16072,16072,sb;12;10794,yale.apis.0005060000,"Registration, Roman CE 21",Of sheep,Roman CE 21,21.0,Oxyrhynchus,grc,,,,False
+yale.apis.0005070000,5540,5540,p.yale;1;56,yale.apis.0005070000,"Petition, Ptolemaic BCE 100",Citing an edict of Ptolemy X Alexander I and Berenice,Ptolemaic BCE 100,100.0,,grc,,,,False
+yale.apis.0005084100,974995,974995,p.yale;4;178,yale.apis.0005084100,"Document, Roman CE i (?) [MIR]",Concerning transport on ships,Roman CE i (?) [MIR],50.0,,grc,,,,False
+yale.apis.0005084200,,,,yale.apis.0005084200,"Account, Roman CE i (?) [MIR]",,Roman CE i (?) [MIR],50.0,,grc,,,,False
+yale.apis.0005090000,,,,yale.apis.0005090000,"Account, Roman CE i-ii [MIR]",List of names arranged to subsenquential days of months with entries of partial or complete payments in money and deliveries of fish and meat,Roman CE i-ii [MIR],100.0,,grc,,,,False
+yale.apis.0005100000,16849,16849,sb;30;17719,yale.apis.0005100000,"Letter, Roman CE 213, Jan 29/ Roman CE ii March 200 or March 229 [A.BEN]","Apion to Tryphon Ibas, requesting a shipment of glass and some kind of bread product","Roman CE 213, Jan 29/ Roman CE ii March 200 or March 229 [A.BEN]",,,grc,,,,False
+yale.apis.0005110000,45403,45403,sb;24;16015,yale.apis.0005110000,"Census return, Roman CE 203, 28. Aug. [RD]","Katoikian-Apographe of a weaver living in his daughter's house in Narmouthis; year 11 of Septimius Severus, Caracalla and Geta; the name of Geta is erased later (damnatio memoriae)","Roman CE 203, 28. Aug. [RD]",,"Narmouthis, Arsinoite nome",grc,,,,False
+yale.apis.0005120000,,,,yale.apis.0005120000,"Contract, Roman CE 30, 8. Oct.","Bank diagraphe, contract of loan (?) or sale with payment in advance (?); year 17 of Tiberius, Phaophi 11","Roman CE 30, 8. Oct.",,,grc,,,,False
+yale.apis.0005130000,,,,yale.apis.0005130000,"Letter, Roman CE ii-iii [MIR]","Private, to his father, mostly greetings to the rest of the family",Roman CE ii-iii [MIR],199.0,,grc,,,,False
+yale.apis.0005140000,,,,yale.apis.0005140000,"Contract, Roman",Diairesis,Roman,100.0,,grc,,,,False
+yale.apis.0005150000,,,,yale.apis.0005150000,"Contract, Roman","Abstract or copy of contract, mentioning the bibliotheke enkteseon in Alexandria, concerning a half share of a house, yard and atrium",Roman,100.0,Oxyrhynchus,grc,,,,False
+yale.apis.0005160000,,,,yale.apis.0005160000,"Contract, Roman","Abstract or copy of contract of loan (?), sale (?), or sale of delivery (?); conserved is only the reception of money; Petosarapis, son of Petosarapis is one of the contractors",Roman,100.0,,grc,,,,False
+yale.apis.0005170000,,,,yale.apis.0005170000,"Letter, Roman CE iii (?) [MIR]",,Roman CE iii (?) [MIR],249.0,,grc,,,,False
+yale.apis.0005184100,,61191,,yale.apis.0005184100,"Literary work, Roman BCE i-CE i [CBW]","Homer, Iliad XXII.402-422",Roman BCE i-CE i [CBW],0.0,,grc,,,,False
+yale.apis.0005184200,,,,yale.apis.0005184200,"Account, Roman  [RD]",,Roman  [RD],100.0,,grc,,,,False
+yale.apis.0005190000,,,,yale.apis.0005190000,"Receipt, Roman CE 253-254",For money,Roman CE 253-254,253.0,"Theadelphia, Arsinoite nome",grc,,,,False
+yale.apis.0005200000,,,,yale.apis.0005200000,"Receipt, Byzantine CE iv (?) [MIR]",For 30 artabas of wheat,Byzantine CE iv (?) [MIR],349.0,,grc,,,,False
+yale.apis.0005210000,,62993,,yale.apis.0005210000,"Literary work, Roman CE late ii [SAS]","Xenophon, Hellenica V.iv.13-16",Roman CE late ii [SAS],87.0,,grc,,,,False
+yale.apis.0005220000,,,,yale.apis.0005220000,"Document, Byzantine [MIR]",,Byzantine [MIR],549.0,,grc,,,,False
+yale.apis.0005230000,,,,yale.apis.0005230000,"Document, Byzantine [MIR]",,Byzantine [MIR],549.0,,grc,,,,False
+yale.apis.0005240000,,,,yale.apis.0005240000,"Document, Byzantine [MIR]",,Byzantine [MIR],549.0,Arsinoite nome,grc,,,,False
+yale.apis.0005254100,,,,yale.apis.0005254100,"Letter, Roman  [RD]",NN to his brother,Roman  [RD],100.0,,grc,,,,False
+yale.apis.0005254200,,,,yale.apis.0005254200,"Receipt (?), Roman [RD]",,Roman [RD],100.0,,grc,,,,False
+yale.apis.0005260000,,,,yale.apis.0005260000,Document,Fake (?),,,,grc,,,,False
+yale.apis.0005270000,,,,yale.apis.0005270000,"Account, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0005280000,,,,yale.apis.0005280000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0005290000,,,,yale.apis.0005290000,"Letter (?), Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0005300000,,,,yale.apis.0005300000,"Account, Roman CE iii (?) [MIR]",,Roman CE iii (?) [MIR],249.0,,grc,,,,False
+yale.apis.0005310000,,,,yale.apis.0005310000,"Document, Byzantine [MIR]",,Byzantine [MIR],549.0,,grc,,,,False
+yale.apis.0005320000,,60928,,yale.apis.0005320000,"Literary work, Roman CE early iii [SAS]","Homer, Iliad XVII.575-584, 586-590",Roman CE early iii [SAS],,,grc,,,,False
+yale.apis.0005330000,,,,yale.apis.0005330000,"Document, Byzantine",,Byzantine,499.0,,grc,,,,False
+yale.apis.0005340000,,,,yale.apis.0005340000,"List, Roman (Ptolemaic-Roman ?)",Of names,Roman (Ptolemaic-Roman ?),-50.0,,grc,,,,False
+yale.apis.0005350000,,,,yale.apis.0005350000,Literary work (?),,,,,cop,,,,False
+yale.apis.0005360000,,,,yale.apis.0005360000,"Account, Roman CE i (?) [MIR]","List of names, sums of money",Roman CE i (?) [MIR],50.0,,grc,,,,False
+yale.apis.0005370000,,,,yale.apis.0005370000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0005380000,,,,yale.apis.0005380000,"List, Roman",Of names followed by entries of uncertain kind,Roman,100.0,,grc,,,,False
+yale.apis.0005390000,,,,yale.apis.0005390000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0005400000,641992,641992,apf;61;333_6,yale.apis.0005400000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0005410000,,,,yale.apis.0005410000,"List, Roman CE i (?) [MIR]",Of names under different headings,Roman CE i (?) [MIR],50.0,,grc,,,,False
+yale.apis.0005420000,,,,yale.apis.0005420000,"Account (?), receipt (?), Roman CE ii (?) [MIR]",,Roman CE ii (?) [MIR],149.0,,grc,,,,False
+yale.apis.0005430000,,,,yale.apis.0005430000,"Contract or receipt (?), Roman BCE 6-5  [RD]",Bank diagraphe on a loan (?) which was crossed out after the repayment as a sign for cancellation.,Roman BCE 6-5  [RD],-1.0,,grc,,,,False
+yale.apis.0005440000,,,,yale.apis.0005440000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0005450000,,,,yale.apis.0005450000,"List  [Account], Roman CE i [MIR]","Of names, followed by amounts of money",Roman CE i [MIR],50.0,,grc,,,,False
+yale.apis.0005460000,,,,yale.apis.0005460000,"Document, Roman",Contract (?),Roman,100.0,,grc,,,,False
+yale.apis.0005470000,,63732,,yale.apis.0005470000,"Literary work, Roman-Byzantine CE iii-iv [MIR]|Roman CE late ii [SAS]",Shorthand commentary,Roman-Byzantine CE iii-iv [MIR] Roman CE late ii [SAS],299.0,,grc,,,,False
+yale.apis.0005484100,,63733,,yale.apis.0005484100,"Literary work, Roman CE early ii [SAS]",Mime (?),Roman CE early ii [SAS],,,grc,,,,False
+yale.apis.0005484200,,,,yale.apis.0005484200,"Document, Roman CE late ii-early iii [SAS]",(col. i) mentions payment in obols,Roman CE late ii-early iii [SAS],150.0,,grc,,,,False
+yale.apis.0005494100,,59577,,yale.apis.0005494100,"Literary work, Roman CE early ii [CBW]","Demosthenes, Against Phaenippus 14-15",Roman CE early ii [CBW],,,grc,,,,False
+yale.apis.0005494200,,97870,,yale.apis.0005494200,"Literary work, Roman CE mid-ii [CBW]",,Roman CE mid-ii [CBW],162.0,,grc,,,,False
+yale.apis.0005504100,,100172,,yale.apis.0005504100,"Literary work, Roman CE i-ii (ca. 100) [CBW]",Philosophical text,Roman CE i-ii (ca. 100) [CBW],100.0,,grc,,,,False
+yale.apis.0005504200,,59578,,yale.apis.0005504200,"Literary work, Roman CE late ii [CBW]","Demosthenes, On the False Embassy 58-65",Roman CE late ii [CBW],87.0,,grc,,,,False
+yale.apis.0005514100,,60608,,yale.apis.0005514100,"Literary work, Roman CE ii [GMP]","Commentary on Homer, Odyssey (IV.336 and 343, or XVII.127 and 134)",Roman CE ii [GMP],149.0,,grc,,,,False
+yale.apis.0005514200,,,,yale.apis.0005514200,"Document, Roman CE late ii-early iii [GMP]",Receipt (?),Roman CE late ii-early iii [GMP],150.0,,grc,,,,False
+yale.apis.0005520000,,61189,,yale.apis.0005520000,"Literary work, Roman BCE i-CE i [CBW]","Homer, Iliad X.311-319",Roman BCE i-CE i [CBW],0.0,,grc,,,,False
+yale.apis.0005534100,,,,yale.apis.0005534100,Letter,,,,,cop,,,,False
+yale.apis.0005534200,,,,yale.apis.0005534200,"Account, Byzantine-Medieval CE vi-vii [MIR]",,Byzantine-Medieval CE vi-vii [MIR],599.0,,grc,,,,False
+yale.apis.0005544100,26547,26547,sb;14;11898,yale.apis.0005544100,"Letter, Roman CE ii-iii [MIR]|Roman CE ii (Jul 24) [GMP]",Sarapion to Diogenes,Roman CE ii-iii [MIR] Roman CE ii (Jul 24) [GMP],199.0,,grc,,,,False
+yale.apis.0005544200,,,,yale.apis.0005544200,"Account, Roman CE ii-iii [MIR]|Roman CE early ii [GMP]","List of names with checking marks, amounts of money",Roman CE ii-iii [MIR] Roman CE early ii [GMP],199.0,,grc,,,,False
+yale.apis.0005550000,27299,27299,sb;6;9290,yale.apis.0005550000,"Summons, Roman CE i-ii [MIR]|Roman CE mid-ii (Jun 4) [ECB]","Served on an unnamed person, by the centurion Domitius Julianus, summoning him to appear before him with certain information",Roman CE i-ii [MIR] Roman CE mid-ii (Jun 4) [ECB],100.0,,grc,,,,False
+yale.apis.0005560000,,,,yale.apis.0005560000,"Letter, Roman CE ii [MIR]","(A) Markianos to Thonios, his brother; on business-affairs",Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0005570000,,,,yale.apis.0005570000,"Account, Roman CE ii [MIR]","List of names, pieces of land and payments of grain",Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0005580000,,,,yale.apis.0005580000,"Account, Roman",Amounts of corn,Roman,100.0,,grc,,,,False
+yale.apis.0005590000,,,,yale.apis.0005590000,"Letter, Roman CE i","Reign of Tiberius, Mecheir 21 or 22",Roman CE i,50.0,,grc,,,,False
+yale.apis.0005600000,,,,yale.apis.0005600000,"Account, Roman CE iii [MIR]",,Roman CE iii [MIR],249.0,,grc,,,,False
+yale.apis.0005614100,,,,yale.apis.0005614100,"Account, Roman CE iii [MIR]",List of names and pieces of land followed by amounts of wheat or barley; it's always the same size of land and the same amount,Roman CE iii [MIR],249.0,,grc,,,,False
+yale.apis.0005614200,,,,yale.apis.0005614200,Document,,,,,grc,,,,False
+yale.apis.0005624100,,,,yale.apis.0005624100,"Account, Roman CE iii [MIR]",List of names and sums of wheat,Roman CE iii [MIR],249.0,,grc,,,,False
+yale.apis.0005624200,,,,yale.apis.0005624200,"List, Roman CE iii [MIR]",Kat-andra list drawn up according to days of several months; list of beer-brewers (?),Roman CE iii [MIR],249.0,,grc,,,,False
+yale.apis.0005634100,,,,yale.apis.0005634100,"Petition (?), Roman","Concerning loan of 1000 drachmas, which was given, but not returned.  After the death of the debtor the daughter claims the return of the sum and an oath",Roman,100.0,,grc,,,,False
+yale.apis.0005634200,,,,yale.apis.0005634200,"Account, Roman",List of names and entries of payments in money; checking marks before the lines,Roman,100.0,,grc,,,,False
+yale.apis.0005644100,,63939,,yale.apis.0005644100,"Literary work, Roman CE late ii-early iii [SAS]",Grammatical work,Roman CE late ii-early iii [SAS],150.0,,grc,,,,False
+yale.apis.0005644200,,64260,,yale.apis.0005644200,"Medical text, Roman CE iii [SAS]",Prescriptions,Roman CE iii [SAS],249.0,,grc,,,,False
+yale.apis.0005650000,,,,yale.apis.0005650000,"Account, Ptolemaic (?), Roman (?)",List of names with checking marks and amounts of money and grain,"Ptolemaic (?), Roman (?)",-50.0,,grc,,,,False
+yale.apis.0005660000,,,,yale.apis.0005660000,"Document, Roman",Account (?),Roman,100.0,"Senekeleu, Oxyrhynchite nome",grc,,,,False
+yale.apis.0005670000,,,,yale.apis.0005670000,"Account, Roman",Of money,Roman,100.0,,grc,,,,False
+yale.apis.0005680000,,,,yale.apis.0005680000,"Account, Roman","(A)List of names followed by figures ""4""; before the entries: markings and also numerals",Roman,100.0,,grc,,,,False
+yale.apis.0005690000,,,,yale.apis.0005690000,"Account, Roman CE i  [RD]",(A) names and various entries,Roman CE i  [RD],50.0,,grc,,,,False
+yale.apis.0005700000,,,,yale.apis.0005700000,"Account, Roman",Of money,Roman,100.0,,grc,,,,False
+yale.apis.0005710000,,,,yale.apis.0005710000,"Report, Roman CE iii  [RD]",Of monthly expenses of a 10th year and measurements of grain,Roman CE iii  [RD],249.0,,grc,,,,False
+yale.apis.0005720000,981679,981679,basp;59;146,yale.apis.0005720000,"Account, Roman",List with checking marks,Roman,100.0,,grc,,,,False
+yale.apis.0005730000,974989,974989,p.yale;4;172,yale.apis.0005730000,"Registration (?), Roman-Byzantine CE iii-iv [SLE]|Roman CE iii  [RD]","Of a sale of a female slave, addressed to the priest, archidikastes, and superintendent of the chrematistoi and other courts Aurelios Kasios (?).  From Markos Aurelios Herodotos.",Roman-Byzantine CE iii-iv [SLE] Roman CE iii  [RD],299.0,,grc,,,,False
+yale.apis.0005740000,,,,yale.apis.0005740000,"Account, Roman",Of money,Roman,100.0,,grc,,,,False
+yale.apis.0005750000,,,,yale.apis.0005750000,"Document, Roman",(A) account (?),Roman,100.0,,grc,,,,False
+yale.apis.0005760000,,,,yale.apis.0005760000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0005770000,,,,yale.apis.0005770000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0005780000,,,,yale.apis.0005780000,Magical text (?) or fake (?),,,,,,,,,False
+yale.apis.0005790000,,,,yale.apis.0005790000,"Account, Roman",(A) account (?),Roman,100.0,,grc,,,,False
+yale.apis.0005804100,,,,yale.apis.0005804100,"Report, Roman","(col. i) letter, official, or report",Roman,100.0,,grc,,,,False
+yale.apis.0005804200,,,,yale.apis.0005804200,"Document, Roman",Account (?),Roman,100.0,,grc,,,,False
+yale.apis.0005810000,,,,yale.apis.0005810000,"Document, Roman",Letter,Roman,100.0,,grc,,,,False
+yale.apis.0005820000,,,,yale.apis.0005820000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0005830000,,,,yale.apis.0005830000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0005840000,,,,yale.apis.0005840000,"Letter, Roman-Byzantine",Business-letter (?),Roman-Byzantine,449.0,,grc,,,,False
+yale.apis.0005854100,,,,yale.apis.0005854100,"Receipt, Roman CE 195-196",Of grain,Roman CE 195-196,195.0,,grc,,,,False
+yale.apis.0005854200,,,,yale.apis.0005854200,"Account, Roman CE 195-196",List of days and amounts of grain,Roman CE 195-196,195.0,,grc,,,,False
+yale.apis.0005860000,,,,yale.apis.0005860000,"Letter (?), Byzantine",Concerning harvest of fruits (?),Byzantine,499.0,,grc,,,,False
+yale.apis.0005870000,26925,26925,p.yale;1;85,yale.apis.0005870000,"Invitation, Roman CE late ii [MIR, CBW]","To dinner, from Dionysios","Roman CE late ii [MIR, CBW]",87.0,,grc,,,,False
+yale.apis.0005880000,,,,yale.apis.0005880000,"Notification (?), Roman","To the loographoi (?), list of names",Roman,100.0,,grc,,,,False
+yale.apis.0005890000,,,,yale.apis.0005890000,"Contract (?), Roman CE 96-97",With ekmartyresis,Roman CE 96-97,96.0,,grc,,,,False
+yale.apis.0005900000,,,,yale.apis.0005900000,"Letter, Byzantine CE iv [GMP]|Byzantine CE ca. 317-324 [AB, RM]",Sperantius to the rationalis Vitalis,"Byzantine CE iv [GMP] Byzantine CE ca. 317-324 [AB, RM]",349.0,,lat,,,,False
+yale.apis.0005910000,,,,yale.apis.0005910000,"Letter, Roman CE iii [MIR]",Concerning business affairs,Roman CE iii [MIR],249.0,,grc,,,,False
+yale.apis.0005920000,,,,yale.apis.0005920000,"Document, Roman CE ii [MIR]",List (?),Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0005930000,,,,yale.apis.0005930000,"Account, Byzantine","Names and payments of money (nomismatia), indiction",Byzantine,499.0,,grc,,,,False
+yale.apis.0005940000,,,,yale.apis.0005940000,"Contract, Roman-Byzantine",,Roman-Byzantine,449.0,"Ptolemais Euergetis, Arsinoite nome",grc,,,,False
+yale.apis.0005950000,,,,yale.apis.0005950000,"Account, Roman (?)",List of names and numerals,Roman (?),100.0,,grc,,,,False
+yale.apis.0005964100,,,,yale.apis.0005964100,Document,,,,,cop,,,,False
+yale.apis.0005964200,,,,yale.apis.0005964200,"Account, Byzantine-Medieval (?)",,Byzantine-Medieval (?),599.0,,grc,,,,False
+yale.apis.0005970000,,,,yale.apis.0005970000,"Contract, Roman",Of lease of land,Roman,100.0,,grc,,,,False
+yale.apis.0005980000,,,,yale.apis.0005980000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0005990000,,,,yale.apis.0005990000,"Account (?), Roman",2 lines of an account,Roman,100.0,,grc,,,,False
+yale.apis.0006000000,97294,97294,sb;26;16496,yale.apis.0006000000,"Letter, notification, Roman-Byzantine (?)/ Byzantine CE ix [NG]",From Kyrillos to the archephodos of Karanis about debts of grain of a certain Kastor,Roman-Byzantine (?)/ Byzantine CE ix [NG],349.0,Arsinoite nome (Karanis),grc,,,,False
+yale.apis.0006010000,,,,yale.apis.0006010000,"Letter, Roman CE i-ii",Ptolemaios to Philiskos,Roman CE i-ii,115.0,,grc,,,,False
+yale.apis.0006020000,,,,yale.apis.0006020000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0006030000,,,,yale.apis.0006030000,"Receipt (?) or account (?), Byzantine",For money,Byzantine,499.0,,grc,,,,False
+yale.apis.0006040000,,,,yale.apis.0006040000,"Account, Roman",For several days for money,Roman,100.0,,grc,,,,False
+yale.apis.0006050000,,,,yale.apis.0006050000,"List, Roman",Of names and occupations,Roman,100.0,,grc,,,,False
+yale.apis.0006060000,,,,yale.apis.0006060000,"Declaration of death, Roman CE 192-193 / Roman CE 28. Nov.-26. Dec. 191 [GMS]",End of a declaration of death with official subscription,Roman CE 192-193 / Roman CE 28. Nov.-26. Dec. 191 [GMS],191.0,"Narmouthis, Arsinoite nome",grc,,,,False
+yale.apis.0006070000,,,,yale.apis.0006070000,"Account, Byzantine-Medieval",,Byzantine-Medieval,599.0,,grc,,,,False
+yale.apis.0006080000,,,,yale.apis.0006080000,"Letter, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0006090000,,,,yale.apis.0006090000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0006100000,381312,381312,apf;60;201_3,yale.apis.0006100000,"Contract, Byzantine CE vi",Loan of wheat or sale on delivery (?),Byzantine CE vi,549.0,Arsinoite nome? [ABEN],grc,,,,False
+yale.apis.0006110000,,,,yale.apis.0006110000,"Report, Roman  [RD]","Official, on the time between Phamenoth and Pharmouth; of a 5th year with a list of names",Roman  [RD],100.0,,grc,,,,False
+yale.apis.0006120000,,,,yale.apis.0006120000,"Account, Roman",List of names with checking marks and entries,Roman,100.0,,grc,,,,False
+yale.apis.0006130000,,,,yale.apis.0006130000,"Document, Roman",(B) letter,Roman,100.0,,grc,,,,False
+yale.apis.0006140000,,,,yale.apis.0006140000,"Letter, Roman CE ii [MIR]","Tapontos to Thaesis her mother, woman to woman, family greetings",Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0006150000,107276,107276,sb;30;17716,yale.apis.0006150000,"Letter, Roman CE ii [MIR]/ Roman CE iii 29 Feb 200 or 28 Feb 229 [A.BEN]",To Tryphon Phibas; on business affairs; Tryphon is asked to send the account on the presents of the last month and another account on birds or chickens,Roman CE ii [MIR]/ Roman CE iii 29 Feb 200 or 28 Feb 229 [A.BEN],,,grc,,,,False
+yale.apis.0006160000,,,,yale.apis.0006160000,"Contract, Roman CE 99, 13. Oct.","Of three men, Besas, son of Diophantos, Pete[?] son of Apion and Apollos alias Peteyris, son of Theos, on partnership in an enterprise, each of them making payments to build capital","Roman CE 99, 13. Oct.",,,grc,,,,False
+yale.apis.0006170000,,,,yale.apis.0006170000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0006180000,,,,yale.apis.0006180000,Letter,,,,,grc,,,,False
+yale.apis.0006190000,,,,yale.apis.0006190000,"Account, Byzantine",Of grain (barley),Byzantine,499.0,,grc,,,,False
+yale.apis.0006204100,,,,yale.apis.0006204100,"Account, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0006204200,,,,yale.apis.0006204200,"Letter, Roman","Sarapion to D[........], his brother, concerning business affairs",Roman,100.0,,grc,,,,False
+yale.apis.0006210000,,,,yale.apis.0006210000,"Document, Roman",(A) list of names and amounts of grain,Roman,100.0,,grc,,,,False
+yale.apis.0006220000,,,,yale.apis.0006220000,"Contract, Roman",Of lease (?); or offer for lease (?),Roman,100.0,"Seryphis, Oxyrhynchite nome",grc,,,,False
+yale.apis.0006230000,,,,yale.apis.0006230000,"Copy of contract, Roman CE 40-55  [RD]","Of loan (?) of grain with oath, reign of Claudius",Roman CE 40-55  [RD],47.0,,grc,,,,False
+yale.apis.0006240000,,,,yale.apis.0006240000,"Letter, Roman CE 97, June 5  [RD]",Concerning boats sailing down to the Faijum and Oxyrhynchus,"Roman CE 97, June 5  [RD]",,,grc,,,,False
+yale.apis.0006250000,,,,yale.apis.0006250000,"Contract, Roman CE ii [MIR]",End of contract with the autograph subscription and dating of the document; below: another dating in a clerk's hand,Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0006260000,,,,yale.apis.0006260000,"Protocol (?), Roman CE ii [MIR]",On a trial concerning fraud (?),Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0006274100,,,,yale.apis.0006274100,"Account, Roman CE ii [MIR]","List of names with checking marks, entries of uncertain kind, perhaps age (?)",Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0006274200,,,,yale.apis.0006274200,"Account, Roman CE ii [MIR]",,Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0006280000,,,,yale.apis.0006280000,"Document, Byzantine CE vi [MIR]",,Byzantine CE vi [MIR],549.0,,grc,,,,False
+yale.apis.0006290000,,,,yale.apis.0006290000,"Letter, Roman CE iii [MIR]","Agathos Daimon to Sarapion, demanding to send at once certain things to the town (metropolis of a nome or Alexandria ?)",Roman CE iii [MIR],249.0,,grc,,,,False
+yale.apis.0006300000,,,,yale.apis.0006300000,"Receipt (?), Roman",For money paid in a certain month,Roman,100.0,,grc,,,,False
+yale.apis.0006310000,,,,yale.apis.0006310000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0006320000,,,,yale.apis.0006320000,Literary work,,,,,grc,,,,False
+yale.apis.0006330000,,,,yale.apis.0006330000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0006340000,,,,yale.apis.0006340000,"Contract, Roman-Byzantine CE, after 250  [RD]","End of contract, stipulation clause","Roman-Byzantine CE, after 250  [RD]",474.0,,grc,,,,False
+yale.apis.0006350000,,,,yale.apis.0006350000,"Account, Roman",Names and payments,Roman,100.0,,grc,,,,False
+yale.apis.0006360000,,,,yale.apis.0006360000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0006370000,,,,yale.apis.0006370000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0006384100,,,,yale.apis.0006384100,"Account, Roman",Of money,Roman,100.0,,grc,,,,False
+yale.apis.0006384200,,,,yale.apis.0006384200,"Account, Roman",Of money,Roman,100.0,,grc,,,,False
+yale.apis.0006390000,,,,yale.apis.0006390000,"Account, Roman CE i  [RD]",Of grain,Roman CE i  [RD],50.0,,grc,,,,False
+yale.apis.0006400000,,,,yale.apis.0006400000,"Document, Byzantine",,Byzantine,499.0,,grc,,,,False
+yale.apis.0006410000,,,,yale.apis.0006410000,"Document, Roman","Various names, but the document does not seem to be an account",Roman,100.0,,grc,,,,False
+yale.apis.0006420000,107277,107277,zpe;158;230_2,yale.apis.0006420000,"Letter, Byzantine CE iv [MIR]/ Roman CE iii [A.BEN]",Apion to Tryphon Phibas,Byzantine CE iv [MIR]/ Roman CE iii [A.BEN],,,grc,,,,False
+yale.apis.0006430000,,,,yale.apis.0006430000,"Petition or declaration (?), Roman",Concerning land or property,Roman,100.0,,grc,,,,False
+yale.apis.0006440000,,,,yale.apis.0006440000,"Account, Roman CE ii [MIR]",For payments of grain,Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0006450000,,,,yale.apis.0006450000,Account,,,,,grc,,,,False
+yale.apis.0006460000,,,,yale.apis.0006460000,"Account, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0006470000,,,,yale.apis.0006470000,"Contract, Ptolemaic BCE iv-early iii [ECU]",,Ptolemaic BCE iv-early iii [ECU],-337.0,,egy,,,,False
+yale.apis.0006480000,,,,yale.apis.0006480000,"Letter, Byzantine CE iv [MIR]/Roman CE iii [A.BEN]",Apion to [Tr]ypon (Phibas),Byzantine CE iv [MIR]/Roman CE iii [A.BEN],,,grc,,,,False
+yale.apis.0006490000,,,,yale.apis.0006490000,"Account, Roman",Of grain of various persons,Roman,100.0,,grc,,,,False
+yale.apis.0006504100,,,,yale.apis.0006504100,"Document, Roman","Account of money for the months Phamenoth, Pharmouthi and Pachon",Roman,100.0,,grc,,,,False
+yale.apis.0006504200,,,,yale.apis.0006504200,"Document, Roman",List of names with entries,Roman,100.0,,grc,,,,False
+yale.apis.0006514100,,,,yale.apis.0006514100,"Report, Roman",On inundated land from the village scribe of Kerkesucha Oros,Roman,100.0,"Kerkesoucha Orous, Arsinoite nome",grc,,,,False
+yale.apis.0006514200,,,,yale.apis.0006514200,"Account, Roman","List of names, amounts of money",Roman,100.0,,grc,,,,False
+yale.apis.0006520000,641986,641986,apf;61;324_1,yale.apis.0006520000,"Receipt, Roman BCE 13, 19. Dec.","(Bank) diagraphe by Phileinos, son of Phileinos, a weaver","Roman BCE 13, 19. Dec.",,,grc,,,,False
+yale.apis.0006530000,,,,yale.apis.0006530000,"Account (?), Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0006540000,,,,yale.apis.0006540000,"Receipt, certificate, Roman CE 169-170","For dike works, penthemeros receipt",Roman CE 169-170,169.0,,grc,,,,False
+yale.apis.0006550000,,,,yale.apis.0006550000,"Letter, Roman-Byzantine",Sarapion to Anouthis concerning business affairs,Roman-Byzantine,449.0,,grc,,,,False
+yale.apis.0006564100,,,,yale.apis.0006564100,"School exercise (?), Roman CE i-ii  [RD]","Of letter formulas; 2 drafts by different hands, both texts deal with the same phrases, neither of them presents a correct Greek text; grammatical and orthographical mistakes",Roman CE i-ii  [RD],100.0,Oxyrhynchus,grc,,,,False
+yale.apis.0006564200,,,,yale.apis.0006564200,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0006570000,,,,yale.apis.0006570000,"Account (?), receipt (?), Roman",3rd of Kaisareios,Roman,100.0,,grc,,,,False
+yale.apis.0006580000,,,,yale.apis.0006580000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0006590000,974999,974999,p.yale;4;182,yale.apis.0006590000,"Receipt, Byzantine CE vi [MIR]","For grain; receipt of Johannes, the scribe, through Poibammon, the skipper, for 152 artabai of uncleaned wheat paid by Joseph, the overseer of a village (?)",Byzantine CE vi [MIR],549.0,,grc,,,,False
+yale.apis.0006600000,30092,30092,sb;14;11901,yale.apis.0006600000,"Letter, Roman CE iii [MIR]","Euterpe to Didymas, her brother",Roman CE iii [MIR],249.0,,grc,,,,False
+yale.apis.0006610000,,64256,,yale.apis.0006610000,"Oracle, Roman CE ii-iii [MIR]|Roman CE iii [SAS]",Of Demeter,Roman CE ii-iii [MIR] Roman CE iii [SAS],199.0,,grc,,,,False
+yale.apis.0006620000,,,,yale.apis.0006620000,Magical text,,,,,,,,,False
+yale.apis.0006630000,41797,41797,sb;14;11646,yale.apis.0006630000,"Letter, Roman-Byzantine CE iii-iv [MIR]|Roman CE iii [GMP]","Isidoros to Tausenouphis, offering condolences on the death of her husband",Roman-Byzantine CE iii-iv [MIR] Roman CE iii [GMP],299.0,"Bacchias (?), Arsinoite nome",grc,,,,False
+yale.apis.0006640000,,,,yale.apis.0006640000,Letter,,,,,grc,,,,False
+yale.apis.0006654100,,,,yale.apis.0006654100,"List, Roman CE i (?)  [RD]",Of names with indication of age,Roman CE i (?)  [RD],50.0,,grc,,,,False
+yale.apis.0006654200,,,,yale.apis.0006654200,Document,,,,,grc,,,,False
+yale.apis.0006660000,,,,yale.apis.0006660000,"Contract, Ptolemaic BCE ca. ii [ECU]",Of sale,Ptolemaic BCE ca. ii [ECU],-150.0,,grc,,,,False
+yale.apis.0006670000,,,,yale.apis.0006670000,Document,,,,,grc,,,,False
+yale.apis.0006680000,,,,yale.apis.0006680000,"Document, Roman (?)",,Roman (?),100.0,,grc,,,,False
+yale.apis.0006690000,,,,yale.apis.0006690000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0006704100,,,,yale.apis.0006704100,"Account, Roman",List of names followed by figures,Roman,100.0,,grc,,,,False
+yale.apis.0006704200,,,,yale.apis.0006704200,"Account, Roman",List of names with entries in front of the lines,Roman,100.0,,grc,,,,False
+yale.apis.0006710000,,,,yale.apis.0006710000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0006720000,,,,yale.apis.0006720000,Uncertain genre,,,,,,,,,False
+yale.apis.0006730000,,,,yale.apis.0006730000,"Letter (?), Byzantine CE v-vi [MIR]",,Byzantine CE v-vi [MIR],499.0,,grc,,,,False
+yale.apis.0006740000,,,,yale.apis.0006740000,"Letter, Roman CE iii [MIR]|Ptolemaic-Roman  [RD]",,Roman CE iii [MIR] Ptolemaic-Roman  [RD],249.0,,grc,,,,False
+yale.apis.0006750000,,,,yale.apis.0006750000,"Account, Roman CE i [MIR] (?)",,Roman CE i [MIR] (?),50.0,,grc,,,,False
+yale.apis.0006760000,,,,yale.apis.0006760000,"Account, Roman CE i [MIR]",Of public produce,Roman CE i [MIR],50.0,,grc,,,,False
+yale.apis.0006770000,,,,yale.apis.0006770000,"Document (?) or literary work (?), Roman","Concerning property (land), perhaps heritage (?)",Roman,100.0,,grc,,,,False
+yale.apis.0006780000,,,,yale.apis.0006780000,"Document, Roman","Declaration (?) containing an oath, cf. l. 12: [m]eden dieps[eusthai].",Roman,100.0,,grc,,,,False
+yale.apis.0006794100,,,,yale.apis.0006794100,"Contract, Roman CE 54-55  [RD]","Of loan, year 15 of Claudius",Roman CE 54-55  [RD],54.0,Oxyrhynchus,grc,,,,False
+yale.apis.0006794200,,,,yale.apis.0006794200,Document,,,,,grc,,,,False
+yale.apis.0006800000,,,,yale.apis.0006800000,"Contract [SPV], Ptolemaic-Roman [ECU]|Ptolemaic-Roman CE i  [SPV]",,Ptolemaic-Roman [ECU] Ptolemaic-Roman CE i  [SPV],-50.0,,egy,,,,False
+yale.apis.0006810000,110203,110203,p.sijp;;42a,yale.apis.0006810000,"Receipt, certificate, Roman","For dike works, penthemeros receipt",Roman,100.0,"Karanis, Arsinoite nome",grc,,,,False
+yale.apis.0006820000,97295,97295,sb;26;16494,yale.apis.0006820000,"Declaration, Roman CE ii [NG]","Of a Heron, son of Endaimon to Herakleides and Diogenes, in charge of the grammateia of the metropolis",Roman CE ii [NG],149.0,Arsinoite nome,grc,,,,False
+yale.apis.0006830000,641994,641994,apf;61;335_8,yale.apis.0006830000,"Receipt, Roman",For 50 Artabas of wheat,Roman,100.0,,grc,,,,False
+yale.apis.0006840000,,,,yale.apis.0006840000,"Receipt, Roman CE 193-211",For tax,Roman CE 193-211,202.0,Oxyrhynchus,grc,,,,False
+yale.apis.0006850000,140304,140304,zpe;172;175_1,yale.apis.0006850000,"Contract, Roman CE i-ii [MIR]/ Roman CE ii [A.BEN]",Lease of a house,Roman CE i-ii [MIR]/ Roman CE ii [A.BEN],149.0,Oxyrhynchus,grc,,,,False
+yale.apis.0006860000,,,,yale.apis.0006860000,"Letter, Roman",To Dionysios and Petsiris; concerning business affairs,Roman,100.0,,grc,,,,False
+yale.apis.0006870000,382561,382561,zpe;192;211_2,yale.apis.0006870000,"Letter, Roman CE ii [ABEN]","Official (?), Iulios Dioskoros, son of Herakleides, soldier of the fleet Augusta Alexandrina, to Sarapion, of the Eremophylakes of the Mariote (for Mareote) nome.",Roman CE ii [ABEN],100.0,,grc,,,,False
+yale.apis.0006880000,,,,yale.apis.0006880000,"Letter or report, Roman-Byzantine CE iii-iv [MIR]",Official report from officials at the property registers about the holdings of a certain person,Roman-Byzantine CE iii-iv [MIR],299.0,"Sinary, Oxyrhynchite nome",grc,,,,False
+yale.apis.0006890000,,60739,,yale.apis.0006890000,"Literary work, Roman CE ii-iii [SAS]","Homer, Iliad XVI.95-115",Roman CE ii-iii [SAS],199.0,,grc,,,,False
+yale.apis.0006900000,,,,yale.apis.0006900000,"Letter, Byzantine CE v [MIR]","From Leontios, about business affairs",Byzantine CE v [MIR],449.0,,grc,,,,False
+yale.apis.0006910031,,,,yale.apis.0006910031,"Declaration (?), Roman CE ii [MIR]","On oath (?) to the strategos (?), first text of a tomos synkollesimos, cf. 691(Second text)",Roman CE ii [MIR],149.0,Oxyrhynchus (?),grc,,,,False
+yale.apis.0006910032,702598,702598,zpe;200;383,yale.apis.0006910032,"Declaration on oath, Roman CE 129-130 [RD]","To the strategos Asklepiades, from Apollonios and Diogenes, Emperial Oath by 3 men to have taken over for the year 129-130 the tax collection for Myrrhon, Libanotikon and Charteras; second text of a tomos synkollesimos",Roman CE 129-130 [RD],129.0,Oxyrhynchus,grc,,,,False
+yale.apis.0006924100,,,,yale.apis.0006924100,"Letter, Roman (?)",Business letter,Roman (?),100.0,,grc,,,,False
+yale.apis.0006924200,,,,yale.apis.0006924200,"Account, Roman",Names and amounts of grain,Roman,100.0,,grc,,,,False
+yale.apis.0006930000,,,,yale.apis.0006930000,"petition (?) or draft (?) or writing exercise (?), Roman","To the strategos Gaius Julius Apolinarius, from Dionysios",Roman,100.0,Oxyrhynchus,grc,,,,False
+yale.apis.0006940000,974977,974977,p.yale;4;159,yale.apis.0006940000,"Letter, Roman CE i (?) [MIR]","Sender and addressee not given; perhaps a draft (?) concerning a goose which was given to a Germanios, son of Tiberius, to be fed",Roman CE i (?) [MIR],50.0,,grc,,,,False
+yale.apis.0006950000,,,,yale.apis.0006950000,"Contract, Roman",Perhaps concerning heritage (?),Roman,100.0,Oxyrhynchus,grc,,,,False
+yale.apis.0006960000,140307,140307,zpe;172;179_4,yale.apis.0006960000,"Contract, Roman CE iii 230/1 or 262/3 [A.BEN]",Of lease or offer to lease of agricultural land.,Roman CE iii 230/1 or 262/3 [A.BEN],246.0,Oxyrhynchus,grc,,,,False
+yale.apis.0006970000,,,,yale.apis.0006970000,Document,,,,,,,,,False
+yale.apis.0006980000,,63734,,yale.apis.0006980000,"Literary work, Roman CE ii [SAS]",Prose,Roman CE ii [SAS],149.0,,grc,,,,False
+yale.apis.0006994100,,,,yale.apis.0006994100,"Document, Ptolemaic-(Roman)",,Ptolemaic-(Roman),-50.0,,grc,,,,False
+yale.apis.0006994200,,,,yale.apis.0006994200,"Letter, Ptolemaic-(Roman)",To bankers (?),Ptolemaic-(Roman),-50.0,,grc,,,,False
+yale.apis.0007000000,,,,yale.apis.0007000000,"Contract, Roman",End of a hypographe of a contract,Roman,100.0,,grc,,,,False
+yale.apis.0007010000,,,,yale.apis.0007010000,"Letter, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0007024100,,,,yale.apis.0007024100,Document,,,,,grc,,,,False
+yale.apis.0007024200,,,,yale.apis.0007024200,"Account, Roman",Monthly entries,Roman,100.0,,grc,,,,False
+yale.apis.0007030000,,,,yale.apis.0007030000,Document (?),,,,,lat,,,,False
+yale.apis.0007040000,,,,yale.apis.0007040000,"Letter, Roman",Among family members; written on front and back.,Roman,100.0,,grc,,,,False
+yale.apis.0007050000,,,,yale.apis.0007050000,"Contract, Roman CE i [MIR]",,Roman CE i [MIR],50.0,,grc,,,,False
+yale.apis.0007060000,,,,yale.apis.0007060000,"Contract, Roman CE i [MIR]",Of sale of a house and a yard,Roman CE i [MIR],50.0,"Narmouthis, Arsinoite nome",grc,,,,False
+yale.apis.0007070000,,,,yale.apis.0007070000,"Contract, Roman CE i [MIR]",,Roman CE i [MIR],50.0,Oxyrhynchus,grc,,,,False
+yale.apis.0007084100,958944,958944,zpe;219;162,yale.apis.0007084100,"Letter/Report, Roman CE i [MIR]","Official letter to the strategos of Oxyrhynchos, a scribe and another strategos",Roman CE i [MIR],50.0,Oxyrhynchus,grc,,,,False
+yale.apis.0007084200,,,,yale.apis.0007084200,"Petition, Roman CE i [MIR]",To the strategos Dios,Roman CE i [MIR],50.0,Oxyrhynchus?,grc,,,,False
+yale.apis.0007090000,,,,yale.apis.0007090000,"Contract, Roman",Of lease,Roman,100.0,,grc,,,,False
+yale.apis.0007100000,,,,yale.apis.0007100000,"Contract, Roman CE ii [MIR]",,Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0007114100,,,,yale.apis.0007114100,"Account, Roman CE i-ii [MIR]",List of names followed by figures,Roman CE i-ii [MIR],100.0,,grc,,,,False
+yale.apis.0007114200,,,,yale.apis.0007114200,"Account, Roman CE i-ii [MIR]",,Roman CE i-ii [MIR],100.0,,grc,,,,False
+yale.apis.0007120000,,,,yale.apis.0007120000,"Contract, Roman CE i [MIR]",Concerning a house,Roman CE i [MIR],50.0,Oxyrhynchus,grc,,,,False
+yale.apis.0007130000,,,,yale.apis.0007130000,"Receipt (?), Roman CE ii [MIR]","Note of hand, later cancelled; on payment of grain, dated year 13, Mecheir 17.",Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0007140000,641990,641990,apf;61;329_4,yale.apis.0007140000,"Receipt, Roman CE 180-192",,Roman CE 180-192,186.0,,grc,,,,False
+yale.apis.0007150000,,,,yale.apis.0007150000,"Receipt or order for payment, Byzantine CE iv [MIR]",,Byzantine CE iv [MIR],349.0,"Tebtynis, Arsinoite nome",grc,,,,False
+yale.apis.0007164100,,,,yale.apis.0007164100,"Contract, Roman CE 15-37  [RD]","Of lease, reign of Tiberius",Roman CE 15-37  [RD],26.0,Oxyrhynchus,grc,,,,False
+yale.apis.0007164200,,,,yale.apis.0007164200,"Account, Roman CE i  [RD]",List of names with checking marks and figures,Roman CE i  [RD],50.0,Oxyrhynchus,grc,,,,False
+yale.apis.0007170000,,,,yale.apis.0007170000,"Account, Roman","Of money, entries with names and monthly payments",Roman,100.0,,grc,,,,False
+yale.apis.0007180000,,,,yale.apis.0007180000,"List, Roman",Of names,Roman,100.0,,grc,,,,False
+yale.apis.0007190000,,,,yale.apis.0007190000,"Letter or notification, Roman",To the royal scribe concerning land in Karanis,Roman,100.0,"Karanis (?), Arsinoite nome",grc,,,,False
+yale.apis.0007200000,,,,yale.apis.0007200000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0007210000,,,,yale.apis.0007210000,"Contract, Roman CE 23-24","Of loan, year 10 of Tiberius; 3 sons of Dionysios alias Paysiris received 3000 drachmai as a bankcredit (""epitheke"") and declare to give it back in Alexandria at a set time.",Roman CE 23-24,23.0,Oxyrhynchus,grc,,,,False
+yale.apis.0007220000,974975,974975,p.yale;4;157,yale.apis.0007220000,"Declaration on oath, Roman CE 54-55",Of a weaver (?) in the first year of Nero,Roman CE 54-55,54.0,Oxyrhynchus,grc,,,,False
+yale.apis.0007230000,,,,yale.apis.0007230000,"Letter, Roman CE 29, 26. Apr.  [RD]","To Leonides, the scribe, talking about business affairs, but also including greetings like a private letter","Roman CE 29, 26. Apr.  [RD]",,,grc,,,,False
+yale.apis.0007240000,,,,yale.apis.0007240000,"Account, Roman-Byzantine","Notes on payments in money, one of them cancelled",Roman-Byzantine,449.0,,grc,,,,False
+yale.apis.0007254100,,,,yale.apis.0007254100,"Account, Roman CE iii [MIR]",On grain;,Roman CE iii [MIR],249.0,,grc,,,,False
+yale.apis.0007254200,,,,yale.apis.0007254200,"Document, Roman CE iii [MIR]",,Roman CE iii [MIR],249.0,,grc,,,,False
+yale.apis.0007260000,,,,yale.apis.0007260000,"Receipt, Roman CE ii [MIR]","Note of hand, later cancelled",Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0007270000,,,,yale.apis.0007270000,"Note (?) or receipt (?), Roman CE ii [MIR]",,Roman CE ii [MIR],149.0,,grc,,,,False
+yale.apis.0007280000,,,,yale.apis.0007280000,"Account, Ptolemaic-Roman",,Ptolemaic-Roman,-50.0,,grc,,,,False
+yale.apis.0007290000,,,,yale.apis.0007290000,"Account, Roman CE i  [RD]",List of names and amounts of grains; heading from the reign of Tiberius,Roman CE i  [RD],50.0,,grc,,,,False
+yale.apis.0007300000,,,,yale.apis.0007300000,"Document, Roman-Byzantine",,Roman-Byzantine,449.0,,grc,,,,False
+yale.apis.0007310000,,,,yale.apis.0007310000,"Contract, Roman CE i (?) [MIR]",Of loan of seed corn to cultivate land (?),Roman CE i (?) [MIR],50.0,,grc,,,,False
+yale.apis.0007320000,,,,yale.apis.0007320000,"Document, Roman-Byzantine",Names and places are mentioned: Augustamnica,Roman-Byzantine,449.0,,grc,,,,False
+yale.apis.0007330000,,,,yale.apis.0007330000,"Document, Roman",(B) list of names (?),Roman,100.0,,grc,,,,False
+yale.apis.0007340000,,,,yale.apis.0007340000,"Document, Ptolemaic-Roman (?)",Name,Ptolemaic-Roman (?),-50.0,,grc,,,,False
+yale.apis.0007350000,,,,yale.apis.0007350000,"Account, Byzantine CE iv [MIR]",,Byzantine CE iv [MIR],349.0,,grc,,,,False
+yale.apis.0007360000,641988,641988,apf;61;326_2,yale.apis.0007360000,"Letter, Roman CE 23-24  [RD]",10th year of Tiberius; private letter (?),Roman CE 23-24  [RD],23.0,,grc,,,,False
+yale.apis.0007370000,,,,yale.apis.0007370000,"Letter, Roman","Official, the royal scribe is mentioned",Roman,100.0,,grc,,,,False
+yale.apis.0007384100,,,,yale.apis.0007384100,"List, Roman",Of names with indication of age,Roman,100.0,,grc,,,,False
+yale.apis.0007384200,,,,yale.apis.0007384200,Document,,,,,grc,,,,False
+yale.apis.0007390000,,,,yale.apis.0007390000,"Receipt, Roman CE i-ii [MIR]",From the sitologoi,Roman CE i-ii [MIR],100.0,,grc,,,,False
+yale.apis.0007400000,,,,yale.apis.0007400000,Document,,,,Oxyrhynchus,grc,,,,False
+yale.apis.0007410000,,,,yale.apis.0007410000,"Contract, Roman CE 196-211  [RD]","Concerning tract of property, Septimius Severus and one or two other joined regents",Roman CE 196-211  [RD],203.0,Arsinoite nome,grc,,,,False
+yale.apis.0007420000,,,,yale.apis.0007420000,"Document (?), Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0007430000,,,,yale.apis.0007430000,Literary work (?),,,,,grc,,,,False
+yale.apis.0007444100,,,,yale.apis.0007444100,"Receipt, Ptolemaic-Roman",For grain,Ptolemaic-Roman,-50.0,,grc,,,,False
+yale.apis.0007444200,,,,yale.apis.0007444200,"Account, Ptolemaic-Roman",Of grain,Ptolemaic-Roman,-50.0,,grc,,,,False
+yale.apis.0007454100,,,,yale.apis.0007454100,Literary work (?),,,,,grc,,,,False
+yale.apis.0007454200,,,,yale.apis.0007454200,Document,,,,,grc,,,,False
+yale.apis.0007460000,,,,yale.apis.0007460000,Document,,,,,grc,,,,False
+yale.apis.0007470000,,,,yale.apis.0007470000,"Account, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0007480000,,,,yale.apis.0007480000,"Account, Roman",Of money,Roman,100.0,,grc,,,,False
+yale.apis.0007490000,,,,yale.apis.0007490000,Document (?),,,,,grc,,,,False
+yale.apis.0007500000,,,,yale.apis.0007500000,"Letter, Roman",On business affairs,Roman,100.0,,grc,,,,False
+yale.apis.0007510000,,65553,,yale.apis.0007510000,"Literary work, Ptolemaic-Roman BCE i [SAS]",Prose,Ptolemaic-Roman BCE i [SAS],-50.0,,grc,,,,False
+yale.apis.0007520000,,,,yale.apis.0007520000,"Account (?), Ptolemaic-Roman (?)",,Ptolemaic-Roman (?),-50.0,,grc,,,,False
+yale.apis.0007530000,,,,yale.apis.0007530000,"Letter, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0007540000,154342,154342,zpe;183;193_1,yale.apis.0007540000,"List, Byzantine CE vi",List of Oxyrhynchite Villages,Byzantine CE vi,575.0,Oxyrhynchus,grc,,,,False
+yale.apis.0007550000,,,,yale.apis.0007550000,"Receipt (?), Roman CE 82-97","Reign of Domitian, receipt for money",Roman CE 82-97,89.0,,grc,,,,False
+yale.apis.0007560000,,65641,,yale.apis.0007560000,"Literary work, Ptolemaic BCE late ii [SAS]",Prose (?),Ptolemaic BCE late ii [SAS],-113.0,,grc,,,,False
+yale.apis.0007570000,,,,yale.apis.0007570000,"Account (?), Roman",Names and various entries,Roman,100.0,,grc,,,,False
+yale.apis.0007580000,,,,yale.apis.0007580000,"Account, Ptolemaic-Roman (?)",Of grain,Ptolemaic-Roman (?),-50.0,,grc,,,,False
+yale.apis.0007590000,,,,yale.apis.0007590000,"Contract (?), Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0007600000,768440,768440,jjp;47;32,yale.apis.0007600000,"Document, Roman-Byzantine",,Roman-Byzantine,449.0,Oxyrhynchus,grc,,,,False
+yale.apis.0007610000,,,,yale.apis.0007610000,"Account, Roman",Of grain,Roman,100.0,,grc,,,,False
+yale.apis.0007620000,,,,yale.apis.0007620000,"Document, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0007630000,,,,yale.apis.0007630000,"Document (?), Roman",Name: Kleopatra,Roman,100.0,,grc,,,,False
+yale.apis.0007640000,,,,yale.apis.0007640000,"Account, Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0007650000,,,,yale.apis.0007650000,"Document (?), Roman",,Roman,100.0,,grc,,,,False
+yale.apis.0007660000,,,,yale.apis.0007660000,"Document, Byzantine",,Byzantine,499.0,,grc,,,,False
+yale.apis.0007670000,,,,yale.apis.0007670000,"Document, Byzantine-Medieval [SLE]",,Byzantine-Medieval [SLE],599.0,,grc,,,,False
+yale.apis.0007680000,,,,yale.apis.0007680000,"Receipt (?), Byzantine [SLE]","1st line date, last line: official subscription (sesemeiomai)",Byzantine [SLE],549.0,,grc,,,,False
+yale.apis.0007690000,,,,yale.apis.0007690000,"Account, Roman","Daily, names with checking marks",Roman,100.0,,grc,,,,False
+yale.apis.0007700000,,,,yale.apis.0007700000,"Receipt, Roman",For 4 drachmai,Roman,100.0,,grc,,,,False
+yale.apis.0007710000,,,,yale.apis.0007710000,"Document, Roman-Byzantine",,Roman-Byzantine,449.0,,grc,,,,False
+yale.apis.0007720000,,,,yale.apis.0007720000,"Document, Roman",,Roman,100.0,,grc,,,,False

@@ -7,3 +7,12 @@ __pycache__/
 Thumbs.db
 *.egg-info/
 .ipynb_checkpoints/
+
+# Large raw data — exclude from git (download via scripts)
+raw_data/papyri/
+raw_data/cdli_bulk/
+raw_data/babylonian_diaries/
+raw_data/neo_assyrian/saao_saa04/
+raw_data/neo_assyrian/saao_saa08/
+raw_data/neo_assyrian/saao_saa09/
+raw_data/neo_assyrian/saao_saa10/

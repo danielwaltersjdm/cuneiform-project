@@ -1,6 +1,6 @@
 # Project State
 
-_Last updated: 2026-04-02_
+_Last updated: 2026-04-06_
 
 ## Done
 
@@ -16,18 +16,34 @@ _Last updated: 2026-04-02_
 - [x] Evaluated Kanesh corpus for behavioral research suitability (verdict: strong fit)
 - [x] Reviewed 10 example financial transactions from translated Kanesh tablets
 - [x] Created `docs/kanesh_corpus_notes.md`
+- [x] Built `scripts/parse_atf.py` → `processed_data/kanesh/kanesh_tablets.csv` (6,614 tablets)
+- [x] Created `docs/corpus_master.md` — master download target list (65 corpora, tiered by signal strength)
+- [x] Downloaded SAA04, SAA08, SAA09, SAA10 (oracle/forecast volumes); parsed 1,309 texts
+- [x] Downloaded Babylonian Astronomical Diaries adart1–3; parsed 404 translated entries
+- [x] Downloaded full CDLI ATF corpus (83 MB, 3.5M lines) and catalogue (148 MB, 353,283 tablets)
+- [x] Extracted Ur III subset: 77,531 ATF blocks + 110,984 catalogue entries
+- [x] Extracted Old Babylonian subset: 13,527 ATF blocks + 66,236 catalogue entries
+- [x] Downloaded papyri.info DDB EpiDoc XML: P.Zen (77), P.Oxy (3,451), P.Mich (818), P.Eleph (35), T.Vindol (523), P.Ness (176)
+- [x] Downloaded APIS institutional XML from 29 institutions: 9,419 total docs, 2,326 with English translation
+  - High translation coverage: michigan (98%), chicago (100%), oslo (89%), wisconsin (89%), berenike (79%)
+  - No translation (metadata only): columbia, oxford-ipap, yale, duke, britmus, fordham
+  - Combined into `processed_data/papyri/apis_combined.csv`
+- [x] Built `scripts/fetch_papyri.py` — downloads DDB EpiDoc + APIS XML from papyri/idp.data GitHub repo
+- [x] Built `scripts/parse_epidoc.py` — parses both DDB transcription files and APIS institutional records
 
 ## In Progress
 
-- [ ] Deciding how to solve the translation gap (67/4,775 Kanesh tablets translated)
+- [ ] Corpus acquisition — see `docs/corpus_master.md` for full queue
+  - Next: Deir el-Medina (DMD scraper needed)
+- [ ] Translation gap for Kanesh (6 Letter tablets with translations out of 1,385 letters)
   - Option A: LLM-based translation of Akkadian transliterations
-  - Option B: Source additional translations from ARCHIBAB or published corpora
+  - Option B: Source ARCHIBAB translations (also needed for Old Babylonian)
 
 ## Blocked
 
-- [ ] `scripts/kanesh/parse_atf.py` — not yet built; needed before any Kanesh analysis
 - [ ] Kanesh behavioral analysis — blocked on translation coverage
-- [ ] Forecast-outcome matching — blocked on parse_atf.py and translation coverage
+- [ ] Ur III / OB behavioral analysis — ATF downloaded but mostly untranslated; need ARCHIBAB or LLM
+- [ ] Forecast-outcome matching — blocked on translation coverage
 
 ## Planned (Not Started)
 
