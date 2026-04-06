@@ -56,6 +56,11 @@ COLLECTIONS = {
     "t.vindol":       ("DDB_EpiDoc_XML/t.vindol",        False),  # Vindolanda tablets
     "t.vindon":       ("DDB_EpiDoc_XML/t.vindon",        False),  # Vindonissa tablets
     "p.ness":         ("DDB_EpiDoc_XML/p.ness",          False),  # Nessana papyri
+    # Tier 2 — newly discovered
+    "p.babatha":      ("DDB_EpiDoc_XML/p.babatha",       True),   # Babatha archive (28 files)
+    "p.dura":         ("DDB_EpiDoc_XML/p.dura",          True),   # Dura-Europos (139 files)
+    "p.cair.zen":     ("DDB_EpiDoc_XML/p.cair.zen",      True),   # Cairo Zenon (5 files)
+    "p.iand.zen":     ("DDB_EpiDoc_XML/p.iand.zen",      True),   # Iandana Zenon (82 files)
 }
 
 RATE_LIMIT_SLEEP = 0.05   # seconds between API requests
