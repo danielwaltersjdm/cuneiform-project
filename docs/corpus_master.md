@@ -43,7 +43,7 @@ Strong evidence of one or more bias types; download once Tier 1 is complete.
 
 | # | Corpus | Signal | Status | Digital Home |
 |---|---|---|---|---|
-| 1.14 | Neo-Babylonian: Murashû and Egibi (c. 700–400 BCE) | High (loans, 5-gen) | **PARTIAL** | https://www.achemenet.com (Egibi); Penn Museum (Murashû) |
+| 1.14 | Neo-Babylonian: Murashû and Egibi (c. 700–400 BCE) | High (loans, 5-gen) | **HARD** | ARCHIBAB API requires registered account; primary language is French. API key at `/assets/env.js` (manipulated: `sub(4,8)+sub(0,4)+sub(8,end)`); auth at `/api/auth/signin/`. Translations in French only — not suitable for English behavioral coding without machine translation. |
 | 2.7 | Zenon Archive (c. 259–229 BCE) | High (single agent) | **DONE** | 77 DDB EpiDoc XML → `raw_data/papyri/p.zen.pestm/`; parsed → `processed_data/papyri/p.zen.pestm_parsed.csv`. Translation coverage via APIS columbia (metadata-only) and HGV IDs outside downloaded range; full translations accessible via DDB |
 | 5.3 | Roman Dacia Wax Tablets — Alburnus Maior (131–167 CE) | High (risk-sharing) | **PARTIAL** | https://www.eagle-network.eu |
 | 6.1 | Chinese Oracle Bones (Shang, c. 1250–1050 BCE) | High (forecast) | **HARD** | YOD database (subscription); Tencent 3D corpus |
