@@ -1,0 +1,398 @@
+﻿name,father,institution,n_docs,earliest,latest,span_years,roles,doc_ids
+Palemon,Ptollas,michigan,8,262.0,304.0,42.0,auletes,michigan.apis.1001; michigan.apis.21; michigan.apis.848; michigan.apis.854; michigan.apis.873; michigan.apis.882; michigan.apis.883; michigan.apis.887
+Ptollas,Sokrates,michigan,8,249.0,249.0,0.0,,michigan.apis.1029; michigan.apis.1054; michigan.apis.864; michigan.apis.867; michigan.apis.871; michigan.apis.872; michigan.apis.876; michigan.apis.881
+Ptolemaios,Iulianus,michigan,5,,,0.0,,michigan.apis.1000; michigan.apis.1013; michigan.apis.1057; michigan.apis.1167; michigan.apis.491
+Palemon,Palemon,michigan,4,262.0,308.0,46.0,donkey-driver,michigan.apis.859; michigan.apis.878; michigan.apis.882; michigan.apis.883
+Komon,Kallonios,michigan,3,249.0,262.0,13.0,sitologos,michigan.apis.550; michigan.apis.557; michigan.apis.898
+Akousilaos,Tebas,michigan,3,-50.0,-50.0,0.0,,michigan.apis.921; michigan.apis.929; michigan.apis.978
+Stotoetis,Isidoros,michigan,3,149.0,149.0,0.0,,michigan.apis.2588; michigan.apis.2589; michigan.apis.2591
+Nilammon,Toullas,michigan,3,449.0,449.0,0.0,,michigan.apis.2406; michigan.apis.2410; michigan.apis.2413
+Heron,Heron,michigan,3,262.0,262.0,0.0,,michigan.apis.1060; michigan.apis.1121; michigan.apis.550
+Peeous,Ptolemaios,michigan,3,262.0,262.0,0.0,,michigan.apis.534; michigan.apis.550; michigan.apis.569
+Petheus,Charidemos,michigan,3,149.0,149.0,0.0,,michigan.apis.2588; michigan.apis.2589; michigan.apis.2591
+Ptolemaios,Ptolemaios,michigan,3,249.0,249.0,0.0,,michigan.apis.1126; michigan.apis.865; michigan.apis.869
+Kastor,Ptolemaios,michigan,2,262.0,262.0,0.0,auletes,michigan.apis.882; michigan.apis.883
+Haryotes,Outhe,michigan,2,-50.0,-50.0,0.0,,michigan.apis.1128; michigan.apis.1130
+Apion,Hatres,michigan,2,449.0,449.0,0.0,,michigan.apis.2414; michigan.apis.2415
+Sotas,Apollonios,michigan,2,262.0,262.0,0.0,auletes,michigan.apis.882; michigan.apis.883
+Horion,Apolinarius,michigan,2,,,0.0,,michigan.apis.1690; michigan.apis.1706
+Ninis,Amphiomis,michigan,2,-50.0,-50.0,0.0,,michigan.apis.919; michigan.apis.995
+Onnophris,Petetriphis,michigan,2,-50.0,-32.0,18.0,,michigan.apis.824; michigan.apis.957
+Arabikos,Ptollas,michigan,2,300.0,300.0,0.0,,michigan.apis.1028; michigan.apis.850
+Palemon,Ptolas,michigan,2,,,0.0,,michigan.apis.874; michigan.apis.879
+Iulius,Saturnilus,michigan,2,155.0,155.0,0.0,,michigan.apis.1709; michigan.apis.1710
+Patermouthis,Dioskoros,michigan,2,349.0,349.0,0.0,,michigan.apis.1079; michigan.apis.1205
+Patisis,Isidoros,michigan,2,262.0,262.0,0.0,,michigan.apis.550; michigan.apis.769
+Manes,Maron,michigan,2,249.0,249.0,0.0,,michigan.apis.1039; michigan.apis.700
+Petesouchos,Perdiccas,michigan,2,-50.0,-50.0,0.0,,michigan.apis.906; michigan.apis.915
+Melas,Sokrates,michigan,2,262.0,262.0,0.0,,michigan.apis.1055; michigan.apis.550
+Petheus,Phaesis,michigan,2,107.0,199.0,92.0,,michigan.apis.2252; michigan.apis.2296
+Petheus,Phasis,michigan,2,155.0,155.0,0.0,,michigan.apis.1709; michigan.apis.1710
+Plein,Mysthes,michigan,2,249.0,249.0,0.0,,michigan.apis.20; michigan.apis.756
+Ptolas,Sokrates,michigan,2,,,0.0,,michigan.apis.1073; michigan.apis.870
+Ptolemaios,Demetrous,michigan,2,297.0,297.0,0.0,donkey-driver,michigan.apis.856; michigan.apis.857
+Harthotes,Marres,michigan,2,6.0,6.0,0.0,farmer,michigan.apis.2179; michigan.apis.2191
+Syros,Herakles,michigan,2,262.0,262.0,0.0,donkey-driver,michigan.apis.1002; michigan.apis.746
+Horion,Alexandros,michigan,2,249.0,249.0,0.0,,michigan.apis.1036; michigan.apis.889
+Sarapammon,Horion,michigan,2,,,0.0,,michigan.apis.762; michigan.apis.765
+Sarapion,Antonius,michigan,2,262.0,262.0,0.0,,michigan.apis.1015; michigan.apis.755
+Sarapion,Ptolemaios,michigan,2,249.0,249.0,0.0,,michigan.apis.408; michigan.apis.411
+Seuthes,Ptolemaios,michigan,2,249.0,249.0,0.0,,michigan.apis.1099; michigan.apis.1106
+Akousilas,Alex,michigan,1,-50.0,-50.0,0.0,,michigan.apis.980
+Antonius,Arabikos,michigan,1,262.0,262.0,0.0,,michigan.apis.311
+Antonius,Sara,michigan,1,199.0,199.0,0.0,,michigan.apis.2426
+Aphous,Serapion,michigan,1,262.0,262.0,0.0,,michigan.apis.947
+Aphrodeisios,Apollonios,michigan,1,299.0,299.0,0.0,,michigan.apis.2577
+Aphrodisios,Aunes,michigan,1,162.0,162.0,0.0,,michigan.apis.1049
+Aphrodisios,Melas,michigan,1,349.0,349.0,0.0,,michigan.apis.272
+Aphrodisios,Petheus,michigan,1,249.0,249.0,0.0,,michigan.apis.294
+Aphrodisis,Chairemon,michigan,1,249.0,249.0,0.0,,michigan.apis.1155
+Aphynchis,Ptolemaios,michigan,1,-126.0,-126.0,0.0,strategos,michigan.apis.1316
+Apiris,Ouenaphris,michigan,1,,,0.0,,michigan.apis.1016
+Apis,Sokles,michigan,1,,,0.0,,michigan.apis.799
+Apollonios,Alexandros,michigan,1,262.0,262.0,0.0,,michigan.apis.746
+Apollonios,Apollonios,michigan,1,,,0.0,,michigan.apis.3094
+Apollonios,Leein,michigan,1,262.0,262.0,0.0,,michigan.apis.2537
+Apollonios,Petheus,michigan,1,175.0,175.0,0.0,,michigan.apis.904
+Apollonios,Sotas,michigan,1,262.0,262.0,0.0,,michigan.apis.1055
+Apollos,Apollonios,michigan,1,262.0,262.0,0.0,,michigan.apis.550
+Apphas,Arios,michigan,1,262.0,262.0,0.0,,michigan.apis.1104
+Apynchis,Satyros,michigan,1,249.0,249.0,0.0,,michigan.apis.749
+Aeion,Kouttas,michigan,1,262.0,262.0,0.0,,michigan.apis.1083
+Archelaos,Damas,michigan,1,,,0.0,,michigan.apis.1814
+Arianus,Terentius,michigan,1,162.0,162.0,0.0,,michigan.apis.1011
+Arios,Ptollas,michigan,1,249.0,249.0,0.0,,michigan.apis.1091
+Arsinoe,Polemokrates,michigan,1,,,0.0,,michigan.apis.1814
+Artemidoros,Amenneus,michigan,1,,,0.0,,michigan.apis.1261
+Artemidoros,Phokas,michigan,1,249.0,249.0,0.0,,michigan.apis.1007
+Asklepiades,Euphris,michigan,1,,,0.0,,michigan.apis.1864
+Asklepiades,Petechon,michigan,1,181.0,181.0,0.0,,michigan.apis.2552
+Athenais,Besis,michigan,1,160.0,160.0,0.0,,michigan.apis.1478
+Atisis,Antonius,michigan,1,349.0,349.0,0.0,,michigan.apis.894
+Atisis,Pathio,michigan,1,449.0,449.0,0.0,,michigan.apis.2395
+Atous,Neas,michigan,1,262.0,262.0,0.0,,michigan.apis.902
+Aunes,Aunes,michigan,1,149.0,149.0,0.0,,michigan.apis.2846
+Aunes,Serenus,michigan,1,249.0,249.0,0.0,,michigan.apis.23
+Babdesos,Hatres,michigan,1,249.0,249.0,0.0,,michigan.apis.4
+Bekis,Amasis,michigan,1,-50.0,-50.0,0.0,,michigan.apis.810
+Besas,Sarapas,michigan,1,,,0.0,,michigan.apis.1261
+Besis,Harpechis,michigan,1,160.0,160.0,0.0,,michigan.apis.1478
+Chairas,Sarapion,michigan,1,,,0.0,,michigan.apis.1070
+Chairemon,Chairemon,michigan,1,249.0,249.0,0.0,,michigan.apis.949
+Chairemon,Demetrios,michigan,1,349.0,349.0,0.0,,michigan.apis.1085
+Chairemon,Petheus,michigan,1,199.0,199.0,0.0,,michigan.apis.2252
+Chairemon,Ptollas,michigan,1,,,0.0,,michigan.apis.866
+Charmos,Heron,michigan,1,249.0,249.0,0.0,,michigan.apis.1143
+Cornelius,Hatres,michigan,1,,,0.0,,michigan.apis.1227
+Demetrios,Apollonios,michigan,1,,,0.0,,michigan.apis.1814
+Demetrios,Didymos,michigan,1,262.0,262.0,0.0,,michigan.apis.569
+Demetrios,Kallonios,michigan,1,249.0,249.0,0.0,,michigan.apis.557
+Demetrios,Keph,michigan,1,,,0.0,,michigan.apis.1070
+Demetrius,Aurelius,michigan,1,300.0,300.0,0.0,,michigan.apis.1556
+Demokles,Lyson,michigan,1,,,0.0,,michigan.apis.1251
+Didas,Didymos,michigan,1,127.0,127.0,0.0,,michigan.apis.2503
+Didyme,Roufion,michigan,1,,,0.0,,michigan.apis.1262
+Didymos,Herakleides,michigan,1,,,0.0,gymnasiarch,michigan.apis.1444
+Didymos,Hermaios,michigan,1,,,0.0,,michigan.apis.3252
+Didymos,Ouenaphris,michigan,1,249.0,249.0,0.0,,michigan.apis.1050
+Dionysios,Athenion,michigan,1,50.0,50.0,0.0,,michigan.apis.994
+Dionysios,Diogenes,michigan,1,,,0.0,,michigan.apis.1260
+Dionysius,Ammonius,michigan,1,,,0.0,,michigan.apis.1261
+Dioskoros,Kiale,michigan,1,199.0,199.0,0.0,,michigan.apis.2850
+Dioskoros,Tiberinus,michigan,1,249.0,249.0,0.0,,michigan.apis.288
+Dius,Peuot,michigan,1,427.0,427.0,0.0,,michigan.apis.2226
+Dius,Sarapammon,michigan,1,225.0,225.0,0.0,,michigan.apis.1250
+Doulos,Aionis,michigan,1,,,0.0,,michigan.apis.1152
+Echtine,Menneas,michigan,1,,,0.0,,michigan.apis.1251
+Ekysis,Tamystha,michigan,1,149.0,149.0,0.0,,michigan.apis.1937
+Esouris,Chairemon,michigan,1,249.0,249.0,0.0,,michigan.apis.1012
+Eudaimon,Hekysis,michigan,1,349.0,349.0,0.0,,michigan.apis.2482
+Eudaimon,Hermaios,michigan,1,,,0.0,,michigan.apis.1689
+Euemeros,Protarchos,michigan,1,,,0.0,,michigan.apis.1140
+Harmaios,Melas,michigan,1,,,0.0,,michigan.apis.815
+Harpakysis,Menandros,michigan,1,-150.0,-150.0,0.0,,michigan.apis.825
+Harpalos,Heras,michigan,1,262.0,262.0,0.0,,michigan.apis.1094
+Harpalos,Paiaros,michigan,1,262.0,262.0,0.0,,michigan.apis.311
+Harpochration,Posis,michigan,1,,,0.0,,michigan.apis.1718
+Haryotes,Belles,michigan,1,,,0.0,,michigan.apis.3197
+Haryotes,Orsenouphis,michigan,1,,,0.0,,michigan.apis.3196
+Hatres,Ouenaphris,michigan,1,262.0,262.0,0.0,,michigan.apis.311
+Hatres,Petesouchos,michigan,1,135.0,135.0,0.0,,michigan.apis.2584
+Hatres,Tryphon,michigan,1,199.0,199.0,0.0,,michigan.apis.2252
+Hekysis,Antos,michigan,1,349.0,349.0,0.0,,michigan.apis.2482
+Hekysis,Harpalos,michigan,1,199.0,199.0,0.0,,michigan.apis.2850
+Heraclius,Heracles,michigan,1,,,0.0,,michigan.apis.1256
+Heraklas,Heraklas,michigan,1,,,0.0,,michigan.apis.1262
+Herakleides,Petalos,michigan,1,,,0.0,,michigan.apis.3201
+Herakleides,Phil,michigan,1,149.0,149.0,0.0,,michigan.apis.2574
+Herakleios,Orseus,michigan,1,,,0.0,,michigan.apis.2757
+Herakles,Petheus,michigan,1,199.0,199.0,0.0,,michigan.apis.2252
+Heras,Akes,michigan,1,149.0,149.0,0.0,,michigan.apis.2846
+Heras,Atisios,michigan,1,319.0,319.0,0.0,,michigan.apis.1254
+Heras,Heron,michigan,1,249.0,249.0,0.0,,michigan.apis.1168
+Heras,Petheus,michigan,1,,,0.0,,michigan.apis.1740
+Herieus,Nikanor,michigan,1,-50.0,-50.0,0.0,,michigan.apis.291
+Hermas,Taos,michigan,1,50.0,50.0,0.0,,michigan.apis.803
+Hermoukrates,Exathos,michigan,1,,,0.0,,michigan.apis.814
+Heron,Apion,michigan,1,319.0,319.0,0.0,,michigan.apis.1254
+Heron,Aponis,michigan,1,249.0,249.0,0.0,,michigan.apis.557
+Heron,Horion,michigan,1,262.0,262.0,0.0,,michigan.apis.266
+Heron,Kopres,michigan,1,249.0,249.0,0.0,,michigan.apis.2777
+Heron,Lykas,michigan,1,,,0.0,,michigan.apis.1217
+Heron,Marcus,michigan,1,349.0,349.0,0.0,,michigan.apis.2482
+Heron,Orseus,michigan,1,149.0,149.0,0.0,,michigan.apis.2846
+Heroninos,Horos,michigan,1,249.0,249.0,0.0,,michigan.apis.1038
+Horigenes,Zosimos,michigan,1,262.0,262.0,0.0,dekaprotos,michigan.apis.14
+Horion,Abous,michigan,1,249.0,249.0,0.0,,michigan.apis.1119
+Horion,Amianos,michigan,1,262.0,262.0,0.0,,michigan.apis.1060
+Horion,Chrysas,michigan,1,249.0,249.0,0.0,,michigan.apis.847
+Horion,Hexas,michigan,1,262.0,262.0,0.0,,michigan.apis.1104
+Horion,Horion,michigan,1,162.0,162.0,0.0,,michigan.apis.928
+Horion,Kabelis,michigan,1,-100.0,-100.0,0.0,,michigan.apis.822
+Horion,Pasoknopaios,michigan,1,-50.0,-50.0,0.0,,michigan.apis.278
+Horion,Soterichos,michigan,1,279.0,279.0,0.0,,michigan.apis.1649
+Horos,Isas,michigan,1,50.0,50.0,0.0,,michigan.apis.641
+Horos,Onnophris,michigan,1,,,0.0,,michigan.apis.3196
+Horos,Philippos,michigan,1,349.0,349.0,0.0,,michigan.apis.2482
+Horos,Sambathion,michigan,1,175.0,175.0,0.0,,michigan.apis.805
+Iason,Kerkion,michigan,1,,,0.0,,michigan.apis.1814
+Isaak,Ephraim,michigan,1,399.0,399.0,0.0,,michigan.apis.1461
+Isidora,Asklepiades,michigan,1,132.0,132.0,0.0,,michigan.apis.1245
+Isidora,Heron,michigan,1,132.0,132.0,0.0,,michigan.apis.1245
+Isidoros,Amaei,michigan,1,449.0,449.0,0.0,,michigan.apis.2408
+Isidoros,Aunes,michigan,1,199.0,199.0,0.0,,michigan.apis.2252
+Isidoros,Heras,michigan,1,262.0,262.0,0.0,,michigan.apis.863
+Isidoros,Horos,michigan,1,262.0,262.0,0.0,,michigan.apis.569
+Isidoros,Kanaout,michigan,1,349.0,349.0,0.0,,michigan.apis.894
+Isis,Horos,michigan,1,-150.0,-150.0,0.0,,michigan.apis.825
+Kaos,Kame,michigan,1,249.0,249.0,0.0,,michigan.apis.212
+Kaphisophon,Philippos,michigan,1,,,0.0,,michigan.apis.1804
+Kastor,Deios,michigan,1,262.0,262.0,0.0,,michigan.apis.1040
+Kayl,Abam,michigan,1,,,0.0,,michigan.apis.2520
+Kelalas,Sabinus,michigan,1,-50.0,-50.0,0.0,,michigan.apis.964
+Kephalas,Papeeis,michigan,1,-50.0,-50.0,0.0,,michigan.apis.966
+Kinna,Besis,michigan,1,160.0,160.0,0.0,,michigan.apis.1478
+Komon,Isidoros,michigan,1,,,0.0,,michigan.apis.734
+Kopres,Heras,michigan,1,262.0,262.0,0.0,,michigan.apis.1080
+Kopres,Mouranos,michigan,1,249.0,249.0,0.0,,michigan.apis.739
+Kopres,Pannous,michigan,1,312.0,312.0,0.0,,michigan.apis.1092
+Kopres,Ptolemaios,michigan,1,262.0,262.0,0.0,,michigan.apis.311
+Kratios,Tiberius,michigan,1,249.0,249.0,0.0,,michigan.apis.1178
+Leein,Nikanor,michigan,1,262.0,262.0,0.0,,michigan.apis.1055
+Limnaios,Petheus,michigan,1,,,0.0,,michigan.apis.1740
+Maios,Akousilaos,michigan,1,50.0,50.0,0.0,,michigan.apis.963
+Maronis,Palemon,michigan,1,249.0,249.0,0.0,donkey-driver,michigan.apis.484
+Marsisouchos,Phabos,michigan,1,,,0.0,,michigan.apis.3196
+Melanas,Herieus,michigan,1,199.0,199.0,0.0,,michigan.apis.2252
+Melas,Melas,michigan,1,300.0,300.0,0.0,,michigan.apis.1556
+Melas,Serapion,michigan,1,349.0,349.0,0.0,,michigan.apis.451
+Memphis,Isidoros,michigan,1,262.0,262.0,0.0,,michigan.apis.569
+Mestasytmis,Sentheus,michigan,1,-50.0,-50.0,0.0,,michigan.apis.962
+Mesthas,Kollouthos,michigan,1,-50.0,-50.0,0.0,,michigan.apis.916
+Mieus,Belles,michigan,1,,,0.0,weaver,michigan.apis.3196
+Mieus,Phomsaeis,michigan,1,,,0.0,,michigan.apis.3235
+Miysis,Amoules,michigan,1,262.0,262.0,0.0,,michigan.apis.550
+Moros,Valens,michigan,1,349.0,349.0,0.0,,michigan.apis.997
+Neas,Dioskoros,michigan,1,287.0,287.0,0.0,,michigan.apis.490
+Nechthembes,Horos,michigan,1,,,0.0,,michigan.apis.1840
+Neilos,Akes,michigan,1,149.0,149.0,0.0,,michigan.apis.2846
+Neilos,Onesimos,michigan,1,349.0,349.0,0.0,,michigan.apis.2482
+Nekis,Pnephis,michigan,1,50.0,50.0,0.0,,michigan.apis.914
+Niger,Didymos,michigan,1,249.0,249.0,0.0,,michigan.apis.238
+Nike,Saltich,michigan,1,173.0,173.0,0.0,,michigan.apis.3271
+Aeion,Toullas,michigan,1,449.0,449.0,0.0,,michigan.apis.2412
+Nilos,Phai,michigan,1,249.0,249.0,0.0,,michigan.apis.657
+Nilos,Ptolemaios,michigan,1,,,0.0,,michigan.apis.492
+Aion,Demas,michigan,1,262.0,262.0,0.0,,michigan.apis.1104
+Onesimos,Onesimos,michigan,1,162.0,162.0,0.0,,michigan.apis.1082
+Onnophris,Akousilaos,michigan,1,-50.0,-50.0,0.0,,michigan.apis.955
+Onnophris,Anchophis,michigan,1,-50.0,-50.0,0.0,,michigan.apis.276
+Onnophris,Kasenis,michigan,1,249.0,249.0,0.0,,michigan.apis.540
+Onnophris,Marres,michigan,1,-50.0,-50.0,0.0,,michigan.apis.818
+Onnophris,Nestosiris,michigan,1,-50.0,-50.0,0.0,,michigan.apis.951
+Onnophris,Nilos,michigan,1,,,0.0,,michigan.apis.3255
+Aion,Kopres,michigan,1,249.0,249.0,0.0,,michigan.apis.1087
+Onnophris,Phanomgeus,michigan,1,,,0.0,gymnasiarch,michigan.apis.2576
+Orsenouphis,Nekpheraus,michigan,1,-50.0,-50.0,0.0,,michigan.apis.816
+Orsenouphis,Sisois,michigan,1,209.0,209.0,0.0,,michigan.apis.1915
+Orsenouphis,Theabeinis,michigan,1,149.0,149.0,0.0,,michigan.apis.1141
+Orseus,Orseus,michigan,1,,,0.0,,michigan.apis.2749
+Orseus,Sbebus,michigan,1,,,0.0,,michigan.apis.3211
+Ouainaphis,Salae,michigan,1,262.0,262.0,0.0,,michigan.apis.1060
+Ouenaphris,Atisios,michigan,1,,,0.0,,michigan.apis.1006
+Ouenaphris,Paeses,michigan,1,,,0.0,,michigan.apis.936
+Ouenaphris,Paesis,michigan,1,303.0,303.0,0.0,,michigan.apis.948
+Ouenaphris,Toullas,michigan,1,449.0,449.0,0.0,,michigan.apis.2411
+Ounaphris,Aionis,michigan,1,262.0,262.0,0.0,,michigan.apis.1121
+Ousenouphis,Heras,michigan,1,319.0,319.0,0.0,,michigan.apis.1254
+Pabous,Akoris,michigan,1,349.0,349.0,0.0,,michigan.apis.827
+Pachis,Phamonthis,michigan,1,-250.0,-250.0,0.0,,michigan.apis.1771
+Pachymis,Phampin,michigan,1,375.0,375.0,0.0,,michigan.apis.2241
+Padeukis,Atisios,michigan,1,262.0,262.0,0.0,,michigan.apis.863
+Paeis,Psenamunnis,michigan,1,6.0,6.0,0.0,,michigan.apis.2179
+Paesis,Aunes,michigan,1,349.0,349.0,0.0,,michigan.apis.741
+Paesis,Demetrios,michigan,1,349.0,349.0,0.0,,michigan.apis.1109
+Paesis,Nebteichis,michigan,1,160.0,160.0,0.0,,michigan.apis.1478
+Paesis,Patermouthis,michigan,1,262.0,262.0,0.0,,michigan.apis.769
+Paesis,Ptolemaios,michigan,1,262.0,262.0,0.0,,michigan.apis.551
+Paianes,Aphelis,michigan,1,262.0,262.0,0.0,,michigan.apis.569
+Pakysis,Anouthios,michigan,1,262.0,262.0,0.0,,michigan.apis.899
+Pakysis,Pakusis,michigan,1,175.0,175.0,0.0,,michigan.apis.805
+Aion,Papeeis,michigan,1,262.0,262.0,0.0,,michigan.apis.902
+Aios,Horos,michigan,1,199.0,199.0,0.0,,michigan.apis.2850
+Akes,Hekysis,michigan,1,149.0,149.0,0.0,,michigan.apis.2846
+Palemon,Thiok,michigan,1,262.0,262.0,0.0,,michigan.apis.769
+Palemon,Tiouk,michigan,1,262.0,262.0,0.0,,michigan.apis.863
+Panesateis,Aunes,michigan,1,,,0.0,,michigan.apis.1135
+Panisatis,Aunes,michigan,1,,,0.0,,michigan.apis.1136
+Pannous,Seuthes,michigan,1,,,0.0,,michigan.apis.1114
+Panther,Anchorinphis,michigan,1,175.0,175.0,0.0,,michigan.apis.904
+Paout,Arabikos,michigan,1,308.0,308.0,0.0,,michigan.apis.1030
+Papaous,Asoeis,michigan,1,449.0,449.0,0.0,,michigan.apis.114
+Papees,Ther,michigan,1,,,0.0,,michigan.apis.799
+Papentos,Kilikas,michigan,1,,,0.0,,michigan.apis.3252
+Papnebtynis,Papnebtynis,michigan,1,,,0.0,,michigan.apis.2734
+Pasipos,Heraklides,michigan,1,,,0.0,,michigan.apis.2738
+Pasis,Pais,michigan,1,-256.0,-256.0,0.0,,michigan.apis.1824
+Pasis,Petemounis,michigan,1,199.0,199.0,0.0,,michigan.apis.2640
+Pastoous,Taltis,michigan,1,,,0.0,,michigan.apis.3198
+Akousilaos,Horion,michigan,1,-50.0,-50.0,0.0,,michigan.apis.986
+Pateus,Kallonios,michigan,1,349.0,349.0,0.0,,michigan.apis.1145
+Akousilaos,Maron,michigan,1,,,0.0,,michigan.apis.785
+Patynis,Harsaeis,michigan,1,,,0.0,,michigan.apis.3216
+Paulos,Isidoros,michigan,1,262.0,262.0,0.0,,michigan.apis.899
+Pausiris,Sarapion,michigan,1,,,0.0,,michigan.apis.1229
+Pebous,Euemeros,michigan,1,,,0.0,,michigan.apis.1140
+Sosibios,Apollophanes,michigan,1,,,0.0,,michigan.apis.1262
+Peeus,Petenas,michigan,1,249.0,249.0,0.0,,michigan.apis.1147
+Pelalis,Cassius,michigan,1,262.0,262.0,0.0,,michigan.apis.899
+Pelalis,Kasios,michigan,1,262.0,262.0,0.0,,michigan.apis.550
+Pemetas,Alexandros,michigan,1,249.0,249.0,0.0,,michigan.apis.18
+Petaus,Pakysis,michigan,1,,,0.0,,michigan.apis.1657
+Peteesis,Chrysas,michigan,1,,,0.0,,michigan.apis.1150
+Peteesis,Saliboutas,michigan,1,249.0,249.0,0.0,,michigan.apis.984
+Peteeus,Sisois,michigan,1,-50.0,-50.0,0.0,,michigan.apis.979
+Petesis,Horos,michigan,1,-150.0,-150.0,0.0,,michigan.apis.825
+Petesouchos,Apoulas,michigan,1,,,0.0,,michigan.apis.3196
+Petesouchos,Esouris,michigan,1,47.0,47.0,0.0,,michigan.apis.3142
+Petesouchos,Mestasytmis,michigan,1,-50.0,-50.0,0.0,,michigan.apis.983
+Petesouchos,Onnophris,michigan,1,100.0,100.0,0.0,,michigan.apis.807
+Antonius,Antonius,michigan,1,262.0,262.0,0.0,,michigan.apis.902
+Petesouchos,Sambas,michigan,1,-50.0,-50.0,0.0,,michigan.apis.844
+Petesouchos,Sisois,michigan,1,-50.0,-50.0,0.0,,michigan.apis.1095
+Thatres,Petesouchos,michigan,1,,,0.0,,michigan.apis.2763
+Petheus,Dionysios,michigan,1,,,0.0,gymnasiarch,michigan.apis.1699
+Petheus,Heras,michigan,1,,,0.0,,michigan.apis.1740
+Abykis,Kepis,michigan,1,172.0,172.0,0.0,,michigan.apis.2341
+Soterichos,Antonas,michigan,1,249.0,249.0,0.0,,michigan.apis.1118
+Petheus,Pnepheros,michigan,1,62.0,62.0,0.0,,michigan.apis.905
+Phaesis,Hekysis,michigan,1,149.0,149.0,0.0,,michigan.apis.2846
+Phaesis,Peteesis,michigan,1,175.0,175.0,0.0,,michigan.apis.805
+Pleein,Mysthes,michigan,1,249.0,249.0,0.0,,michigan.apis.1046
+Soterichos,Parakannes,michigan,1,249.0,249.0,0.0,,michigan.apis.1179
+Plen,Mysthes,michigan,1,249.0,249.0,0.0,,michigan.apis.754
+Ploution,Komon,michigan,1,132.0,132.0,0.0,,michigan.apis.1245
+Pnepheros,Herakles,michigan,1,,,0.0,,michigan.apis.814
+Pnepheros,Peteuchos,michigan,1,-50.0,-50.0,0.0,,michigan.apis.965
+Pnepheros,Psenebestis,michigan,1,-50.0,-50.0,0.0,,michigan.apis.779
+Pnepheros,Satabous,michigan,1,95.0,95.0,0.0,,michigan.apis.2541
+Pnephoros,Pnephoros,michigan,1,,,0.0,,michigan.apis.1241
+Polykleites,Iason,michigan,1,,,0.0,,michigan.apis.1814
+Priscus,Eudaimon,michigan,1,262.0,262.0,0.0,,michigan.apis.550
+Protas,Aunes,michigan,1,125.0,125.0,0.0,,michigan.apis.448
+Psenosiris,Sarapion,michigan,1,,,0.0,,michigan.apis.3252
+Psosnaus,Pheras,michigan,1,-250.0,-250.0,0.0,,michigan.apis.1771
+Psosneus,Andronikos,michigan,1,,,0.0,,michigan.apis.3196
+Soulis,Petearpsenesis,michigan,1,-50.0,-50.0,0.0,,michigan.apis.999
+Ptolema,Theon,michigan,1,,,0.0,,michigan.apis.1260
+Ptolemaeus,Diodorus,michigan,1,,,0.0,,michigan.apis.1602
+Ptolemaios,Apion,michigan,1,74.0,74.0,0.0,,michigan.apis.2597
+Ptolemaios,Chairemon,michigan,1,249.0,249.0,0.0,,michigan.apis.16
+Ptolemaios,Cheremon,michigan,1,249.0,249.0,0.0,,michigan.apis.759
+Stotoetis,Pekysis,michigan,1,162.0,162.0,0.0,,michigan.apis.2691
+Ptolemaios,Hatres,michigan,1,349.0,349.0,0.0,,michigan.apis.319
+Ptolemaios,Herakl,michigan,1,199.0,199.0,0.0,,michigan.apis.2252
+Ptolemaios,Horos,michigan,1,199.0,199.0,0.0,,michigan.apis.2252
+Ptolemaios,Isidoros,michigan,1,349.0,349.0,0.0,,michigan.apis.586
+Stotoetis,Peteuris,michigan,1,162.0,162.0,0.0,,michigan.apis.2691
+Suaemus,Taenus,michigan,1,249.0,249.0,0.0,,michigan.apis.2379
+Ptolemaios,Sabinus,michigan,1,262.0,262.0,0.0,,michigan.apis.518
+Ptolemaios,Siomeas,michigan,1,249.0,249.0,0.0,,michigan.apis.896
+Ptolemaios,Theagenes,michigan,1,262.0,262.0,0.0,,michigan.apis.1044
+Ptolemy,Ptolemy,michigan,1,,,0.0,,michigan.apis.1814
+Ptollarous,Chairemon,michigan,1,,,0.0,,michigan.apis.1262
+Ptollas,Aionis,michigan,1,449.0,449.0,0.0,,michigan.apis.2238
+Ptollas,Ammonios,michigan,1,149.0,149.0,0.0,,michigan.apis.1071
+Ptollas,Apollonios,michigan,1,349.0,349.0,0.0,,michigan.apis.733
+Ptollas,Ouenaphris,michigan,1,449.0,449.0,0.0,,michigan.apis.2237
+Synthous,Pnepheros,michigan,1,-50.0,-50.0,0.0,,michigan.apis.938
+Ptollemes,Dioskoros,michigan,1,262.0,262.0,0.0,,michigan.apis.1121
+Ptollis,Ancho,michigan,1,-50.0,-50.0,0.0,,michigan.apis.911
+Ptollis,Ankho,michigan,1,-50.0,-50.0,0.0,,michigan.apis.771
+Pyrcon,Geminus,michigan,1,225.0,225.0,0.0,,michigan.apis.1250
+Pythokles,Iason,michigan,1,,,0.0,,michigan.apis.1814
+Roufos,Diokles,michigan,1,,,0.0,,michigan.apis.1262
+Sabinus,Innaros,michigan,1,249.0,249.0,0.0,,michigan.apis.783
+Sabinus,Ptolemaios,michigan,1,249.0,249.0,0.0,,michigan.apis.17
+Saraos,Himeros,michigan,1,149.0,149.0,0.0,,michigan.apis.1141
+Tastoous,Apollonios,michigan,1,,,0.0,,michigan.apis.2373
+Sarapas,Horos,michigan,1,175.0,175.0,0.0,,michigan.apis.805
+Sarapas,Sarapas,michigan,1,95.0,95.0,0.0,,michigan.apis.2541
+Tesenouphis,Tesenouphis,michigan,1,162.0,162.0,0.0,,michigan.apis.2691
+Sarapion,Artemidoros,michigan,1,262.0,262.0,0.0,,michigan.apis.1094
+Sarapion,Harpalos,michigan,1,,,0.0,,michigan.apis.2514
+Sarapion,Onnophris,michigan,1,262.0,262.0,0.0,,michigan.apis.1041
+Sarapion,Priscus,michigan,1,249.0,249.0,0.0,,michigan.apis.913
+Thakoris,Amenneus,michigan,1,,,0.0,,michigan.apis.1261
+Sarapion,Sempronius,michigan,1,249.0,249.0,0.0,,michigan.apis.895
+Sarapion,Seuthes,michigan,1,,,0.0,,michigan.apis.2871
+Satabous,Pnepheros,michigan,1,95.0,95.0,0.0,,michigan.apis.2541
+Sentheus,Nekpheraus,michigan,1,-50.0,-50.0,0.0,,michigan.apis.961
+Serenes,Ptolemaios,michigan,1,262.0,262.0,0.0,,michigan.apis.1060
+Serenos,Horos,michigan,1,262.0,262.0,0.0,,michigan.apis.1055
+Serenus,Dioskoros,michigan,1,262.0,262.0,0.0,,michigan.apis.863
+Serenus,Horion,michigan,1,149.0,149.0,0.0,,michigan.apis.2804
+Thakoul,Gemellus,michigan,1,,,0.0,,michigan.apis.808
+Severus,Severus,michigan,1,249.0,249.0,0.0,,michigan.apis.235
+Sinthronis,Pekysis,michigan,1,,,0.0,,michigan.apis.1261
+Sisois,Anchorimphis,michigan,1,162.0,162.0,0.0,,michigan.apis.1082
+Sisois,Mares,michigan,1,-50.0,-50.0,0.0,,michigan.apis.811
+Sisois,Phaesis,michigan,1,199.0,199.0,0.0,,michigan.apis.2252
+Sisois,Psikem,michigan,1,249.0,249.0,0.0,,michigan.apis.975
+Sokmenis,Kalmos,michigan,1,149.0,149.0,0.0,,michigan.apis.786
+Sokmenis,Kraton,michigan,1,-50.0,-50.0,0.0,,michigan.apis.275
+Sokmenis,Kreon,michigan,1,-50.0,-50.0,0.0,,michigan.apis.280
+Sokrates,Dioskoros,michigan,1,132.0,132.0,0.0,,michigan.apis.1245
+Sokrates,Seuthes,michigan,1,249.0,249.0,0.0,,michigan.apis.1169
+Thaseis,Pachumis,michigan,1,249.0,249.0,0.0,,michigan.apis.10
+Theagenes,Horion,michigan,1,,,0.0,,michigan.apis.1014
+Thenosiris,Psenosiris,michigan,1,,,0.0,,michigan.apis.1241
+Theodoros,Pomaios,michigan,1,,,0.0,,michigan.apis.1229
+Theodoros,Romaios,michigan,1,,,0.0,,michigan.apis.1229
+Theon,Petnou,michigan,1,-100.0,-100.0,0.0,,michigan.apis.3359
+Timokles,Ariston,michigan,1,,,0.0,,michigan.apis.1814
+Timon,Timon,michigan,1,200.0,200.0,0.0,strategos,michigan.apis.1540
+Titianus,Ptolemaios,michigan,1,249.0,249.0,0.0,,michigan.apis.766
+Tothes,Onnophris,michigan,1,,,0.0,,michigan.apis.3252
+Toullas,Ouenaphris,michigan,1,449.0,449.0,0.0,,michigan.apis.2405
+Trophonios,Apollon,michigan,1,25.0,25.0,0.0,,michigan.apis.1210
+Valerius,Ptolemaios,michigan,1,262.0,262.0,0.0,,michigan.apis.569
+Vales,Sarapion,michigan,1,262.0,262.0,0.0,,michigan.apis.550
+Varus,Alei,michigan,1,149.0,149.0,0.0,,michigan.apis.2804
+Abous,Pekysis,michigan,1,262.0,262.0,0.0,,michigan.apis.311
+Zenon,Agreophon,michigan,1,,,0.0,,michigan.apis.1814
+Alexander,Chaeremon,michigan,1,266.0,266.0,0.0,,michigan.apis.2355
+Ammonios,Apion,michigan,1,149.0,149.0,0.0,,michigan.apis.1071
+Ammonios,Onnophris,michigan,1,,,0.0,,michigan.apis.2514
+Ammonis,Papeis,michigan,1,,,0.0,,michigan.apis.22
+Anchophis,Onnophris,michigan,1,175.0,175.0,0.0,,michigan.apis.805
+Anchophis,Satabous,michigan,1,175.0,175.0,0.0,,michigan.apis.805
+Anchorimphis,Aunes,michigan,1,199.0,199.0,0.0,,michigan.apis.2252
+Anoubion,Melas,michigan,1,349.0,349.0,0.0,,michigan.apis.2403
+Antel,Esouris,michigan,1,199.0,199.0,0.0,,michigan.apis.2850
+Anthestis,Touam,michigan,1,249.0,249.0,0.0,,michigan.apis.1021
+Antinoos,Ammonios,michigan,1,262.0,262.0,0.0,,michigan.apis.311
+Antipatros,Aristogeiton,michigan,1,,,0.0,,michigan.apis.1814
+Antoninus,Isidoros,michigan,1,,,0.0,,michigan.apis.1176
+Antoninus,Sokrates,michigan,1,,,0.0,,michigan.apis.2576
+Achillas,Antoninus,michigan,1,,,0.0,donkey-driver,michigan.apis.1002
